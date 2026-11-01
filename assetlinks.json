@@ -1,8 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "fr.kseoulmate.app",
-    "sha256_cert_fingerprints": ["A5:E9:A7:EF:90:91:03:28:0B:8E:CA:78:1D:19:D1:57:10:A8:BB:C8:A3:84:FF:37:4B:EC:4A:7C:13:8B:A0:EF"]
-  }
-}]
