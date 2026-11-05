@@ -1,60 +1,30 @@
 {
- "updated": "2026-11-01T17:03:18.240Z",
+ "updated": "2026-11-05T13:12:23.699Z",
  "poll": {
-  "q": "Ce dimanche, quel K-drama tu lances en premier ? 🍿",
+  "q": "Le MV de la semaine qui tourne en boucle chez toi ? 🔁",
   "o": [
-   "Netflix · Dead-End Job",
-   "Viki · Summer Vacation",
-   "Netflix · 100 Days of Deception",
-   "Prime Video · Final Table"
+   "TWS · Call My Name",
+   "TREASURE · SHOCK",
+   "EMP · RUN",
+   "JISOO · ADDICTED"
   ]
  },
  "events": [
   {
-   "id": "e4",
-   "g": "tws",
-   "type": "album",
-   "title": "Single album « TO US »",
-   "at": "2026-11-02T18:00:00+09:00",
-   "tbc": false,
-   "url": "https://www.kpopcomebacks.com/calendar/2026/11/",
-   "src": "kpopcomebacks.com"
-  },
-  {
-   "id": "e5",
-   "g": "treasure",
-   "type": "mv",
-   "title": "Single « SHOCK »",
-   "at": "2026-11-02T18:00:00+09:00",
-   "tbc": false,
-   "url": "https://www.kpopcomebacks.com/calendar/2026/11/",
-   "src": "kpopcomebacks.com"
-  },
-  {
-   "id": "e6",
-   "g": "xikers",
-   "type": "album",
-   "title": "Mini-album « ROUTE ZERO : The CALLING »",
-   "at": "2026-11-02T18:00:00+09:00",
-   "tbc": false,
-   "url": "https://www.kpopcomebacks.com/calendar/2026/11/",
-   "src": "kpopcomebacks.com"
-  },
-  {
-   "id": "e20",
-   "g": "zb1",
-   "type": "mv",
-   "title": "EMP (sous-unité) · pré-sortie « RUN » avec Dynamicduo",
-   "at": "2026-11-04T18:00:00+09:00",
-   "tbc": false,
-   "url": "https://otakukart.com/zerobaseone-unit-emp-teams-up-with-dynamicduo-for-new-single-run/",
-   "src": "OtakuKart"
-  },
-  {
    "id": "e7",
    "g": "p1h",
    "type": "album",
-   "title": "EP « Blow Up »",
+   "title": "Mini-album « Blow Up »",
+   "at": "2026-11-06T14:00:00+09:00",
+   "tbc": false,
+   "url": "https://www.kpopcomebacks.com/calendar/2026/11/",
+   "src": "kpopcomebacks.com"
+  },
+  {
+   "id": "e23",
+   "g": "blackpink",
+   "type": "mv",
+   "title": "Jennie · OST « Someone to Hold » (film Netflix « Steps »)",
    "at": "2026-11-06T14:00:00+09:00",
    "tbc": false,
    "url": "https://www.kpopcomebacks.com/calendar/2026/11/",
@@ -67,8 +37,8 @@
    "title": "Album « DREAM AFTER DREAM »",
    "at": "2026-11-09T18:00:00+09:00",
    "tbc": false,
-   "url": "https://www.kpopcomebacks.com/calendar/2026/11/",
-   "src": "kpopcomebacks.com"
+   "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261105/nct-dream-turns-10-year-milestone-into-disco-celebration-with-boogie-woogie",
+   "src": "Korea Times"
   },
   {
    "id": "e9",
@@ -107,8 +77,8 @@
    "title": "Mini-album « PERFECT STORM »",
    "at": "2026-11-16T18:00:00+09:00",
    "tbc": false,
-   "url": "https://www.kpopcomebacks.com/calendar/2026/11/",
-   "src": "kpopcomebacks.com"
+   "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261105/txt-previews-new-album-with-6-tracks-capturing-turbulence-of-youth",
+   "src": "Korea Times"
   },
   {
    "id": "e13",
@@ -124,11 +94,11 @@
    "id": "e14",
    "g": "twice",
    "type": "mv",
-   "title": "Nayeon · single solo « NA-sty »",
+   "title": "Nayeon · single solo « NA-sty » (titre « BABY ANGEL »)",
    "at": "2026-11-20T14:00:00+09:00",
    "tbc": false,
-   "url": "https://www.kpopcomebacks.com/calendar/2026/11/",
-   "src": "kpopcomebacks.com"
+   "url": "https://www.soompi.com/article/1881049wpp/watch-twices-nayeon-gears-up-for-solo-comeback-with-teaser-for-new-single-na-sty",
+   "src": "Soompi"
   },
   {
    "id": "e15",
@@ -187,8 +157,48 @@
    "title": "Concert à Paris, Bataclan",
    "at": "2026-12-11T20:00:00+01:00",
    "tbc": true,
-   "url": "https://blog.ticketmaster.fr/musique/concerts-kpop-france-2026-paris-billets/",
-   "src": "Ticketmaster"
+   "url": "https://75.agendaculturel.fr/concert/verivery-give-me-five-keep-that-vibe-2026.html",
+   "src": "Agenda Culturel"
+  },
+  {
+   "id": "e24",
+   "g": "txt",
+   "type": "concert",
+   "title": "D Awards à Paris, Plenitude Arena (Nanterre)",
+   "at": "2027-01-15T19:00:00+01:00",
+   "tbc": false,
+   "url": "https://sports.khan.co.kr/en/article/202610131741007",
+   "src": "Sports Kyunghyang"
+  },
+  {
+   "id": "e25",
+   "g": "p1h",
+   "type": "concert",
+   "title": "D Awards à Paris, Plenitude Arena (Nanterre)",
+   "at": "2027-01-15T19:00:00+01:00",
+   "tbc": false,
+   "url": "https://sports.khan.co.kr/en/article/202610131741007",
+   "src": "Sports Kyunghyang"
+  },
+  {
+   "id": "e26",
+   "g": "kissoflife",
+   "type": "concert",
+   "title": "D Awards à Paris, Plenitude Arena (Nanterre)",
+   "at": "2027-01-15T19:00:00+01:00",
+   "tbc": false,
+   "url": "https://sports.khan.co.kr/en/article/202610131741007",
+   "src": "Sports Kyunghyang"
+  },
+  {
+   "id": "e27",
+   "g": "twice",
+   "type": "concert",
+   "title": "Jihyo · présentatrice des D Awards à Paris, Plenitude Arena",
+   "at": "2027-01-15T19:00:00+01:00",
+   "tbc": false,
+   "url": "https://sports.khan.co.kr/en/article/202610131741007",
+   "src": "Sports Kyunghyang"
   },
   {
    "id": "e19",
@@ -203,108 +213,211 @@
  ],
  "posts": [
   {
-   "id": "n27",
+   "id": "n50",
    "kind": "news",
    "vtype": "Article",
-   "artist": "A2O LITE",
-   "title": "Circle Chart : A2O LITE, IVE, JxJ et BTS en tête de la semaine 📊",
-   "at": "2026-11-01T14:33:00+09:00",
-   "c": "#ff2e93",
-   "txt": "Sur la semaine du 18 au 24 octobre, « NEON » d'A2O LITE reste n° 1 du classement digital global pour la 2e semaine d'affilée 🔥 « Looks Can Kill » d'IVE mène les téléchargements, « DREAMSCAPE » de JxJ (SEVENTEEN) les albums, et BTS prend la 1re place du classement social.",
-   "url": "https://www.soompi.com/article/1883259wpp/a2o-lite-ive-seventeens-jxj-and-bts-top-circle-weekly-charts",
+   "artist": "ILLIT",
+   "title": "ILLIT : « jellyous » passe les 100 millions de vues, leur 3e MV à y arriver 🍬",
+   "at": "2026-11-05T15:11:24+09:00",
+   "c": "#9b7bff",
+   "txt": "Le MV de « jellyous », face B de leur 3e mini-album, a franchi les 100 millions de vues sur YouTube ce jeudi vers 5 h 46, heure de Séoul, selon BELIFT LAB 💜 Après « Magnetic » et « It's Me », c'est le 3e MV d'ILLIT à atteindre ce cap. Il était sorti le 7 juillet 2025.",
+   "url": "https://www.soompi.com/article/1884331wpp/illits-jellyous-becomes-their-3rd-mv-to-hit-100-million-views",
    "src": "Soompi",
-   "img": "https://0.soompi.io/wp-content/uploads/2026/11/01142824/A2O-LITE-IVE-JxJ-BTS.jpg"
+   "img": "https://0.soompi.io/wp-content/uploads/2026/11/05145851/jellyous_64247d.jpg"
   },
   {
-   "id": "n25",
-   "kind": "news",
-   "vtype": "Article",
-   "artist": "AND2BLE",
-   "title": "AND2BLE bat son record de ventes en première semaine… en 5 jours 📀",
-   "at": "2026-11-01T12:36:00+09:00",
-   "c": "#2ec27e",
-   "txt": "Selon Hanteo, « Sequence 02: Attraction » s'est écoulé à 751 299 exemplaires entre sa sortie le 27 octobre et le 31 octobre, au-delà des 731 673 du premier mini-album 🔥 Et la semaine de référence n'est pas encore finie (jusqu'au 2 novembre).",
-   "url": "https://www.soompi.com/article/1883227wpp/and2ble-breaks-their-1st-week-sales-record-in-just-5-days-with-sequence-02-attraction",
-   "src": "Soompi",
-   "img": "https://0.soompi.io/wp-content/uploads/2026/11/01123232/AND2BLE.jpeg"
-  },
-  {
-   "id": "n26",
-   "kind": "news",
-   "vtype": "Article",
-   "artist": "A2O LITE",
-   "title": "A2O LITE remporte une 7e victoire avec « NEON » au « Music Core » 🏆",
-   "at": "2026-11-01T09:21:00+09:00",
-   "c": "#ff2e93",
-   "txt": "Face à « Looks Can Kill » d'IVE et « Birthday Wish » de NMIXX, le titre de débuts d'A2O LITE l'emporte avec 6 557 points dans l'épisode du 31 octobre ✨ Sur scène aussi : ATEEZ, RIIZE, ILLIT, NCT WISH, AND2BLE et plein d'autres.",
-   "url": "https://www.soompi.com/article/1883215wpp/watch-a2o-lite-takes-7th-win-for-neon-on-music-core-performances-by-bestie-ateez-riize-illit-and-more",
-   "src": "Soompi",
-   "img": "https://0.soompi.io/wp-content/uploads/2026/11/01091124/A2O-LITE-Music-Core.jpeg"
-  },
-  {
-   "id": "n23",
-   "kind": "news",
-   "vtype": "Article",
-   "artist": "AMPERS&ONE",
-   "title": "AMPERS&ONE annonce son tout premier album complet « PATHFINDER » 🧭",
-   "at": "2026-11-01T00:47:00+09:00",
-   "c": "#7a5cff",
-   "txt": "Le groupe a dévoilé la vidéo « WE ARE UNCROWNED », qui lance la promo de son 1er album complet 🎬 Sortie prévue le 17 novembre à 18 h, heure de Séoul (10 h à Paris).",
-   "url": "https://www.soompi.com/article/1883212wpp/watch-ampersone-announces-comeback-date-with-main-sequence-for-pathfinder",
-   "src": "Soompi",
-   "img": "https://0.soompi.io/wp-content/uploads/2026/11/01004658/vlcsnap-2026-11-01-00h43m43s462.jpg"
-  },
-  {
-   "id": "n24",
-   "kind": "news",
-   "vtype": "Article",
-   "artist": "ATEEZ",
-   "title": "Hongjoong (ATEEZ) absent de « Music Core » pour se reposer",
-   "at": "2026-10-31T17:53:00+09:00",
-   "c": "#ff7a1a",
-   "txt": "KQ Entertainment indique que Hongjoong n'a pas pu participer au « Show! Music Core » du 31 octobre pour raisons de santé, et qu'il va prendre le temps de se reposer 🫶 Prompt rétablissement, et on attend toujours « GOLDEN HOUR : Part.6 » le 13 novembre.",
-   "url": "https://www.soompi.com/article/1883128wpp/ateezs-hongjoong-sits-out-music-core-due-to-health",
-   "src": "Soompi",
-   "img": "https://0.soompi.io/wp-content/uploads/2026/10/31174748/Hongjoong_477cf8.jpg"
-  },
-  {
-   "id": "n19",
-   "kind": "news",
-   "vtype": "Article",
-   "artist": "NMIXX",
-   "title": "NMIXX décroche sa 1re victoire avec « Birthday Wish » 🎂",
-   "at": "2026-10-30T20:24:00+09:00",
-   "c": "#00a3a3",
-   "txt": "Premier trophée pour « Birthday Wish » au « Music Bank » du 30 octobre, devant « Looks Can Kill » d'IVE 🏆 L'épisode accueillait aussi ATEEZ, ILLIT, RIIZE, AND2BLE, NCT WISH et MEOVV.",
-   "url": "https://www.soompi.com/article/1882971wpp/watch-nmixx-takes-1st-win-for-birthday-wish-on-music-bank-performances-by-ateez-illit-and-more",
-   "src": "Soompi",
-   "img": "https://0.soompi.io/wp-content/uploads/2026/10/30202408/nmixx-music-bank.jpg"
-  },
-  {
-   "id": "n13",
+   "id": "n51",
    "kind": "news",
    "vtype": "Article",
    "artist": "BLACKPINK",
-   "title": "BLACKPINK, premier girl group K-pop décoré de l'Ordre du mérite culturel",
-   "at": "2026-10-30T10:34:00+09:00",
-   "c": "#ff2e93",
-   "txt": "Jisoo, Jennie, Rosé et Lisa ont reçu jeudi soir à Séoul la médaille Okgwan, lors de la cérémonie des Korea Popular Culture and Arts Awards 🏅 Une première pour un girl group K-pop, rappelle YG, qui en profite pour lister leurs records, comme les 100 millions d'abonnés YouTube.",
-   "url": "https://www.koreaherald.com/article/10920234",
-   "src": "Korea Herald",
-   "img": "https://wimg.heraldcorp.com/news/cms/2026/10/30/news-p.v1.20261030.08fcbaa66cf249659a0264fa7c6319fa_P1.jpg"
+   "title": "BLACKPINK : le MV de « GO » dépasse les 100 millions de vues 🖤💗",
+   "at": "2026-11-05T14:55:31+09:00",
+   "c": "#e8457c",
+   "txt": "Sorti le 27 février, le MV de « GO » a passé les 100 millions de vues sur YouTube le 4 novembre, en environ huit mois et huit jours 🚀 C'est le 16e MV de groupe de BLACKPINK à atteindre ce cap !",
+   "url": "https://www.soompi.com/article/1884332wpp/blackpinks-go-becomes-their-16th-group-mv-to-surpass-100-million-views",
+   "src": "Soompi",
+   "img": "https://0.soompi.io/wp-content/uploads/2026/11/05150501/blackpink-5.jpeg"
   },
   {
-   "id": "n14",
+   "id": "n45",
    "kind": "news",
    "vtype": "Article",
-   "artist": "IVE",
-   "title": "IVE prépare un remix de « Looks Can Kill » avec Tiger JK",
-   "at": "2026-10-30T12:11:00+09:00",
-   "c": "#ff2e93",
-   "txt": "Starship annonce une version remix du titre phare, avec le rappeur Tiger JK et le producteur français Alawn 🇫🇷 Le nouvel EP d'IVE a déjà dépassé les 700 000 exemplaires vendus, selon l'agence 💋",
-   "url": "https://koreaherald.com/article/10920493",
-   "src": "Korea Herald",
-   "img": "https://wimg.heraldcorp.com/news/cms/2026/10/30/news-p.v1.20261030.0f7ecdf788814b1fa65515a87bb00079_P1.jpg"
+   "artist": "STRAY KIDS & NMIXX",
+   "title": "AAA 2026 : Stray Kids, NMIXX et Tzuyu remportent les prix de popularité 🏆",
+   "at": "2026-11-05T11:28:00+09:00",
+   "c": "#e0262f",
+   "txt": "Les votes des fans ont parlé ✨ Stray Kids gagne le prix de popularité chez les groupes masculins, NMIXX chez les groupes féminins, et Tzuyu (TWICE) chez les solistes féminines. Côté acteurs, Byeon Woo-seok et Kim Hye-yoon sont récompensés. La cérémonie aura lieu les 5 et 6 décembre à Kaohsiung, à Taïwan 🎉",
+   "url": "https://starnewskorea.com/en/star/2026/11/05/2026110511045125342",
+   "src": "Star News",
+   "img": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=815,fit=cover,q=high,sharpen=2/21/2026/11/2026110511045125342_4.jpg"
+  },
+  {
+   "id": "n46",
+   "kind": "news",
+   "vtype": "Article",
+   "artist": "TOMORROW X TOGETHER",
+   "title": "TXT dévoile un aperçu de « PERFECT STORM », 6 titres sur la jeunesse en tempête ⛈️",
+   "at": "2026-11-05T10:18:00+09:00",
+   "c": "#3fa9f5",
+   "txt": "Un extrait de chaque chanson du 9e mini-album est en ligne sur la chaîne HYBE LABELS 🎧 Six titres, menés par « Angel Bite ». Sortie le 16 novembre à 18 h, heure de Séoul (10 h à Paris).",
+   "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261105/txt-previews-new-album-with-6-tracks-capturing-turbulence-of-youth",
+   "src": "Korea Times",
+   "img": "https://newsimg.koreatimes.co.kr/2026/11/05/f8e08ff5-a7c6-49de-a613-9213c3aa7e55.jpg"
+  },
+  {
+   "id": "n47",
+   "kind": "news",
+   "vtype": "Article",
+   "artist": "NCT DREAM",
+   "title": "NCT DREAM fête ses 10 ans en mode disco avec « Boogie Woogie » 🪩",
+   "at": "2026-11-05T10:20:00+09:00",
+   "c": "#14c79a",
+   "txt": "Le 6e album complet « DREAM AFTER DREAM » compte 10 titres, dont « Boogie Woogie », un morceau disco-funk 💚 Jaemin a participé à l'écriture des paroles. Sortie lundi 9 novembre à 18 h, heure de Séoul (10 h à Paris), puis showcase « The Harvest Day » à Séoul le 12 novembre.",
+   "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261105/nct-dream-turns-10-year-milestone-into-disco-celebration-with-boogie-woogie",
+   "src": "Korea Times",
+   "img": "https://newsimg.koreatimes.co.kr/2026/11/05/ec7f59b6-6fcf-4d33-bbab-1e17999340cb.jpg"
+  },
+  {
+   "id": "n48",
+   "kind": "news",
+   "vtype": "Article",
+   "artist": "STRAY KIDS",
+   "title": "Stray Kids décroche un 3e disque de platine au Japon avant le Tokyo Dome 💿",
+   "at": "2026-11-05T10:15:00+09:00",
+   "c": "#e0262f",
+   "txt": "« Special » a passé les 100 millions d'écoutes au Japon, après « MANIAC » et « CASE 143 » 🎶 Le groupe enchaîne avec trois soirs au Tokyo Dome de vendredi à dimanche pour la tournée « RUN IT ». Le concert du 7 novembre sera retransmis en direct dans des cinémas du monde entier 🎬",
+   "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261105/stray-kids-score-3rd-japanese-platinum-certification-ahead-of-tokyo-dome-concerts",
+   "src": "Korea Times",
+   "img": "https://newsimg.koreatimes.co.kr/2026/11/05/9b01e00f-a30f-4c3f-8dfd-48554f2e0752.jpg"
+  },
+  {
+   "id": "n43",
+   "kind": "news",
+   "vtype": "Article",
+   "artist": "SM ENTERTAINMENT",
+   "title": "SM dévoile ses sorties du début 2027 : RIIZE, Hearts2Hearts, aespa… 🗓️",
+   "at": "2026-11-04T19:10:23+09:00",
+   "c": "#ff9b3d",
+   "txt": "En présentant ses résultats du 3e trimestre, SM a annoncé son programme de janvier à mars 2027 ✨ RIIZE, Seulgi et Jaehyun sortiront chacun un album complet, Hearts2Hearts reviendra avec un mini-album et SUPER JUNIOR-83z avec un single. Côté scène, NCT 127, NCT WISH, aespa, WayV, Yesung, Changmin et Minho donneront des concerts 🎤",
+   "url": "https://www.soompi.com/article/1884192wpp/sm-announces-comeback-lineup-for-1st-quarter-of-2027",
+   "src": "Soompi",
+   "img": "https://0.soompi.io/wp-content/uploads/2026/11/04191014/sm-2027-1.jpg"
+  },
+  {
+   "id": "v20",
+   "kind": "video",
+   "vtype": "MV",
+   "artist": "Dragon Pony",
+   "title": "Calling back",
+   "at": "2026-11-05T18:00:00+09:00",
+   "c": "#ff6a3d",
+   "txt": "Le groupe rock Dragon Pony revient avec le single « Calling back », sorti ce jeudi à 18 h, heure de Séoul 🎸 Une chanson de rupture plus mûre et plus rock que leurs titres pétillants d'avant. Concerts solo prévus les 5 et 6 décembre à Séoul.",
+   "url": "https://www.youtube.com/results?search_query=Dragon+Pony+Calling+back+MV",
+   "src": "Recherche YouTube",
+   "img": "https://en.koreadaily.com/wp-content/uploads/2026/11/202611051544772264_6aec3e7cded18.jpeg"
+  },
+  {
+   "id": "v21",
+   "kind": "video",
+   "vtype": "MV",
+   "artist": "UNCHILD",
+   "title": "TiNG TiNG (팅팅)",
+   "at": "2026-11-05T18:00:00+09:00",
+   "c": "#3ddc84",
+   "txt": "UNCHILD sort son 2e single numérique « TiNG TiNG » ce jeudi à 18 h, heure de Séoul 🐸 Le teaser montrait des grenouilles venimeuses qui créent un « bug » dans un Séoul souterrain : univers jeu vidéo garanti !",
+   "url": "https://www.youtube.com/results?search_query=UNCHILD+TiNG+TiNG+MV",
+   "src": "Recherche YouTube",
+   "img": "https://images.khan.co.kr/article/2026/10/28/news-p.v1.20261028.289b36a476dd438383e31b1b27abb5b2_P1.jpg"
+  },
+  {
+   "id": "v16",
+   "kind": "video",
+   "vtype": "MV",
+   "artist": "ZEROBASEONE EMP",
+   "title": "RUN (with Dynamicduo)",
+   "at": "2026-11-04T18:00:00+09:00",
+   "c": "#3fa9f5",
+   "txt": "La sous-unité EMP (Seok Matthew et Park Gun Wook) sort « RUN » avec Dynamicduo 🏃 Rap à trois voix sur une prod hip-hop et drum and bass, en avant-goût du single « OFF script » attendu le 10 novembre.",
+   "url": "https://www.youtube.com/watch?v=sMazlfiJN_w",
+   "src": "Vidéo officielle (lien cité par Soompi)",
+   "img": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1601,fit=cover,q=high,sharpen=2/21/2026/11/2026110414543738501_1.jpg"
+  },
+  {
+   "id": "v17",
+   "kind": "video",
+   "vtype": "MV",
+   "artist": "Baby DONT Cry",
+   "title": "Replay",
+   "at": "2026-11-04T18:00:00+09:00",
+   "c": "#ff9ec7",
+   "txt": "Le single numérique « Replay » est sorti ce mercredi en Corée et au Japon 🎶 PSY en est le producteur exécutif et Crush a participé à la composition. Premier retour du groupe depuis huit mois !",
+   "url": "https://www.youtube.com/results?search_query=Baby+DONT+Cry+Replay+MV",
+   "src": "Recherche YouTube",
+   "img": "https://en.koreadaily.com/wp-content/uploads/2026/10/202610270822772468_6adfe34657ab6.jpg"
+  },
+  {
+   "id": "v15",
+   "kind": "video",
+   "vtype": "Performance film",
+   "artist": "SEVENTEEN DINO",
+   "title": "AUTOMATIC",
+   "at": "2026-11-03T18:00:00+09:00",
+   "c": "#8fb3ff",
+   "txt": "Dino sort « AUTOMATIC » avec un performance film 💙 Un titre qu'il a co-écrit et co-composé, à regarder en boucle.",
+   "url": "https://www.youtube.com/watch?v=qCF3_Xk_ZXQ",
+   "src": "Vidéo officielle (lien cité par Soompi)"
+  },
+  {
+   "id": "v14",
+   "kind": "video",
+   "vtype": "MV",
+   "artist": "RESCENE",
+   "title": "With",
+   "at": "2026-11-03T18:00:00+09:00",
+   "c": "#ff7ac0",
+   "txt": "Le MV du titre phare du mini-album « PULSE » est en ligne 💗 Une intro douce qui monte jusqu'à un refrain qui explose.",
+   "url": "https://www.youtube.com/results?search_query=RESCENE+With+MV",
+   "src": "Recherche YouTube",
+   "img": "https://image.starnewskorea.com/21/2026/11/2026110314175662169_1.jpg"
+  },
+  {
+   "id": "v11",
+   "kind": "video",
+   "vtype": "MV",
+   "artist": "TWS",
+   "title": "Call My Name (내 이름을 불러줘)",
+   "at": "2026-11-02T18:00:00+09:00",
+   "c": "#6fc8ff",
+   "txt": "Le MV du titre phare du single album « TO US » est sorti ce lundi ☀️ Un morceau sur la jeunesse qui fonce sans avoir peur. Le single est aussi n° 2 du classement quotidien Oricon au Japon.",
+   "url": "https://www.youtube.com/results?search_query=TWS+Call+My+Name+MV",
+   "src": "Recherche YouTube",
+   "img": "https://wimg.heraldcorp.com/news/cms/2026/11/01/news-p.v1.20261101.c91ec6be2f144b51bb7cc39e6aef027f_P1.jpg"
+  },
+  {
+   "id": "v12",
+   "kind": "video",
+   "vtype": "MV",
+   "artist": "TREASURE",
+   "title": "SHOCK",
+   "at": "2026-11-02T18:00:00+09:00",
+   "c": "#3b6cff",
+   "txt": "Le MV du single numérique « SHOCK » est en ligne ⚡ Hip-hop et synthés, avec un clin d'œil au « Hot » de 1TYM.",
+   "url": "https://www.youtube.com/watch?v=u_hpZueWI9g",
+   "src": "Vidéo officielle (lien cité par Soompi)",
+   "img": "https://wimg.heraldcorp.com/news/cms/2026/11/02/news-p.v1.20261102.8acf1ae241b345a7be20ea5c7e30dab4_P1.jpg"
+  },
+  {
+   "id": "v13",
+   "kind": "video",
+   "vtype": "MV",
+   "artist": "xikers",
+   "title": "DIENAMITE",
+   "at": "2026-11-02T18:00:00+09:00",
+   "c": "#ff4f1a",
+   "txt": "Titre phare du 8e mini-album « ROUTE ZERO : The CALLING », avec un solo de guitare bien rock 🎸",
+   "url": "https://www.youtube.com/results?search_query=xikers+DIENAMITE+MV",
+   "src": "Recherche YouTube",
+   "img": "https://images.khan.co.kr/article/2026/11/02/news-p.v1.20261102.8415f27a400e405193911e093be6033e_P1.jpg"
   },
   {
    "id": "v8",
@@ -314,86 +427,26 @@
    "title": "ADDICTED",
    "at": "2026-10-30T08:00:00+09:00",
    "c": "#ff2e93",
-   "txt": "Le MV d'« ADDICTED » est en ligne ! 2e pré-sortie avant le premier album complet de Jisoo, après « CLICK » 💗",
+   "txt": "Le MV d'« ADDICTED » est en ligne ! 2e pré-sortie avant le premier album complet de Jisoo, après « CLICK » 💗 Le titre a pris la 1re place d'iTunes dans 28 pays.",
    "url": "https://www.youtube.com/watch?v=Pksr9T8m_aA",
    "src": "Chaîne YouTube officielle JISOO"
   },
   {
-   "id": "v9",
-   "kind": "video",
-   "vtype": "MV",
-   "artist": "AND2BLE",
-   "title": "French Kissing",
-   "at": "2026-10-27T18:00:00+09:00",
-   "c": "#2ec27e",
-   "txt": "Le titre phare du 2e mini-album « Sequence 02: Attraction », entre R&B et vibes tropicales 🌴",
-   "url": "https://www.youtube.com/watch?v=WbNnbiB_Wt8",
-   "src": "Chaîne YouTube officielle AND2BLE"
-  },
-  {
-   "id": "v2",
-   "kind": "video",
-   "vtype": "MV",
-   "artist": "ILLIT",
-   "title": "You're Under Arrest (체포하겠어)",
-   "at": "2026-10-26T18:00:00+09:00",
-   "c": "#7a5cff",
-   "txt": "Titre phare du 5e mini-album « BREAK EVEN », avec l'acteur Song Kang dans le MV 💔➡️💪",
-   "url": "https://www.youtube.com/watch?v=V2V9-9VhYJo",
-   "src": "Chaîne YouTube officielle HYBE LABELS"
-  },
-  {
-   "id": "v7",
-   "kind": "video",
-   "vtype": "EP",
-   "artist": "IVE",
-   "title": "Looks Can Kill",
-   "at": "2026-10-26T18:00:00+09:00",
-   "c": "#ff2e93",
-   "txt": "Le nouvel EP d'IVE est sorti, six titres menés par « Looks Can Kill » 💋",
-   "url": "https://www.youtube.com/watch?v=rsNhWkC4neE",
-   "src": "Chaîne YouTube officielle STARSHIP"
-  },
-  {
-   "id": "v3",
-   "kind": "video",
-   "vtype": "Single",
-   "artist": "RIIZE",
-   "title": "Insomnia",
-   "at": "2026-10-26T00:00:00+09:00",
-   "c": "#ff7a1a",
-   "txt": "Un single prologue avant le 2e album complet de RIIZE, prévu au printemps 🌙",
-   "url": "https://www.youtube.com/watch?v=RgkoXU4BlOE",
-   "src": "Chaîne YouTube officielle SMTOWN"
-  },
-  {
-   "id": "a2",
+   "id": "a11",
    "kind": "soon",
-   "vtype": "Single album",
-   "artist": "TWS",
-   "title": "TO US",
-   "at": "2026-11-02T18:00:00+09:00",
-   "c": "#6fc8ff",
-   "txt": "Retour de TWS avec le single album « TO US », porté par « Call My Name » ☀️",
-   "url": "https://www.kpopcomebacks.com/calendar/2026/11/",
-   "src": "kpopcomebacks.com"
-  },
-  {
-   "id": "a7",
-   "kind": "soon",
-   "vtype": "Single",
-   "artist": "TREASURE",
-   "title": "SHOCK",
-   "at": "2026-11-02T18:00:00+09:00",
-   "c": "#3b6cff",
-   "txt": "TREASURE dégaine le single numérique « SHOCK » ⚡",
-   "url": "https://www.kpopcomebacks.com/calendar/2026/11/",
-   "src": "kpopcomebacks.com"
+   "vtype": "OST",
+   "artist": "JENNIE",
+   "title": "Someone to Hold",
+   "at": "2026-11-06T14:00:00+09:00",
+   "c": "#e8457c",
+   "txt": "Jennie chante « Someone to Hold », la chanson du film Netflix « Steps » 🎬 Sortie ce vendredi à 14 h, heure de Séoul (6 h à Paris).",
+   "url": "https://www.whats-on-netflix.com/news/steps-trailer-drop-blackpink-jennie-soundtrack-news/",
+   "src": "What's on Netflix"
   },
   {
    "id": "a8",
    "kind": "soon",
-   "vtype": "EP",
+   "vtype": "Mini-album",
    "artist": "P1Harmony",
    "title": "Blow Up",
    "at": "2026-11-06T14:00:00+09:00",
@@ -412,8 +465,9 @@
    "at": "2026-11-09T18:00:00+09:00",
    "c": "#14c79a",
    "txt": "6e album complet de NCT DREAM, avec « Boogie Woogie » en titre phare 💚",
-   "url": "https://www.kpopcomebacks.com/calendar/2026/11/",
-   "src": "kpopcomebacks.com"
+   "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261105/nct-dream-turns-10-year-milestone-into-disco-celebration-with-boogie-woogie",
+   "src": "Korea Times",
+   "img": "https://newsimg.koreatimes.co.kr/2026/11/05/ec7f59b6-6fcf-4d33-bbab-1e17999340cb.jpg"
   },
   {
    "id": "a9",
@@ -436,8 +490,9 @@
    "at": "2026-11-16T18:00:00+09:00",
    "c": "#3fa9f5",
    "txt": "TXT revient avec le mini-album « PERFECT STORM », porté par « Angel Bite » ⛈️",
-   "url": "https://www.kpopcomebacks.com/calendar/2026/11/",
-   "src": "kpopcomebacks.com"
+   "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261105/txt-previews-new-album-with-6-tracks-capturing-turbulence-of-youth",
+   "src": "Korea Times",
+   "img": "https://newsimg.koreatimes.co.kr/2026/11/05/f8e08ff5-a7c6-49de-a613-9213c3aa7e55.jpg"
   },
   {
    "id": "c2",
@@ -483,7 +538,7 @@
    "title": "Paris La Défense Arena",
    "at": "2027-02-27T20:00:00+01:00",
    "c": "#3a3a5e",
-   "txt": "La tournée « BLOOD SAGA » passe par Paris La Défense Arena, à Nanterre 🦇 Heure et ouverture de la billetterie à confirmer.",
+   "txt": "La tournée « BLOOD SAGA » passe par Paris La Défense Arena, à Nanterre 🦇 Heure à confirmer.",
    "url": "https://www.parisladefense.com/en/news/events/enhyphen-concert-paris-defense-arena-saturday-february-27-2027",
    "src": "Paris La Défense"
   }
@@ -502,10 +557,22 @@
    "src": "What's on Netflix"
   },
   {
+   "id": "d11",
+   "title": "The Remarried Empress",
+   "pf": "Disney+",
+   "st": "new",
+   "at": "2026-11-03T17:00:00+09:00",
+   "sched": "4 épisodes dispo depuis le 3 nov., puis 2 chaque mer. · final le 25 nov.",
+   "cast": "Shin Min-a, Ju Ji-hoon, Lee Jong-suk, Lee Se-young",
+   "txt": "Trahie par l'empereur, une impératrice épouse le prince du royaume voisin… et garde son titre 👑 Adapté d'un webtoon.",
+   "url": "https://www.soompi.com/article/1883808wpp/watch-the-remarried-empress-moves-up-premiere-date",
+   "src": "Soompi"
+  },
+  {
    "id": "d1",
    "title": "Summer Vacation",
    "pf": "Viki",
-   "st": "new",
+   "st": "airing",
    "at": "2026-10-26T22:50:00+09:00",
    "sched": "Nouveaux épisodes lun. et mar.",
    "cast": "Cho Yi-hyun, Jin Young, Hong Ye-ji",
@@ -577,31 +644,6 @@
    "src": "Esquire India"
   },
   {
-   "id": "d7",
-   "title": "Dive into You",
-   "pf": "Viki",
-   "st": "airing",
-   "at": "2026-10-31T22:30:00+09:00",
-   "sched": "Sam. et dim. · final le 1er nov.",
-   "cast": "Kim Ji-yeon (Bona), Jang Se-hyuk",
-   "idol": "Bona (WJSN)",
-   "txt": "Une actrice échange son corps avec son jumeau champion de judo et remonte le temps pour sauver son premier amour 🥋",
-   "url": "https://www.esquireindia.co.in/entertainment/what-to-stream/new-drama-ott-releases-this-week-oct-25-nov-1-summer-vacation-dead-end-job-the-perfect-lie-final-table-doctor-x-mafia-in-white-netflix-jiohotstar-viki",
-   "src": "Esquire India"
-  },
-  {
-   "id": "d8",
-   "title": "A Love Other Than Yours",
-   "pf": "Prime Video",
-   "st": "airing",
-   "at": "2026-10-31T21:20:00+09:00",
-   "sched": "Sam. et dim. · final le 1er nov.",
-   "cast": "Ahn Eun-jin, Seo Kang-joon",
-   "txt": "Ensemble depuis dix ans, un couple se demande si c'est encore l'amour ou juste l'habitude 💞",
-   "url": "https://www.esquireindia.co.in/entertainment/what-to-stream/new-drama-ott-releases-this-week-oct-25-nov-1-summer-vacation-dead-end-job-the-perfect-lie-final-table-doctor-x-mafia-in-white-netflix-jiohotstar-viki",
-   "src": "Esquire India"
-  },
-  {
    "id": "d9",
    "title": "Love on the Menu",
    "pf": "Viki",
@@ -615,18 +657,6 @@
    "src": "Esquire India"
   },
   {
-   "id": "d11",
-   "title": "Remarried Empress",
-   "pf": "Disney+",
-   "st": "soon",
-   "at": "2026-11-04T17:00:00+09:00",
-   "sched": "4 épisodes le 4 nov., puis 2 chaque mer. · final le 25 nov.",
-   "cast": "Shin Min-a, Ju Ji-hoon, Lee Jong-suk, Lee Se-young",
-   "txt": "Trahie par l'empereur, une impératrice épouse le roi du royaume voisin… et garde son titre 👑 Adapté d'un webtoon.",
-   "url": "https://kshownow.net/k-dramas-november-2026/",
-   "src": "KShowNow"
-  },
-  {
    "id": "d12",
    "title": "Possible Love",
    "pf": "Netflix",
@@ -637,6 +667,19 @@
    "txt": "Deux couples voient leur vie bouleversée quand une documentariste décide de les filmer 🎥 Un film de Lee Chang-dong.",
    "url": "https://www.whats-on-netflix.com/news/k-dramas/k-dramas-coming-to-netflix-november-2026/",
    "src": "What's on Netflix"
+  },
+  {
+   "id": "d15",
+   "title": "What a Boss Wants",
+   "pf": "Viki",
+   "st": "soon",
+   "at": "2026-11-11T22:20:00+09:00",
+   "sched": "Début le 11 nov.",
+   "cast": "Sung Hoon, Oh Se-young, Lee Jung-shin",
+   "idol": "Lee Jung-shin (CNBLUE)",
+   "txt": "Un PDG qui a perdu le goût cherche la voix mystère d'un album… et engage la chanteuse comme secrétaire sous contrat 🎙️",
+   "url": "https://www.soompi.com/article/1883493wpp/sung-hoon-oh-se-young-and-lee-jung-shin-are-entangled-in-a-love-triangle-in-what-a-boss-wants",
+   "src": "Soompi"
   },
   {
    "id": "d13",
@@ -660,6 +703,18 @@
    "cast": "Son Suk-ku, Eita Nagayama",
    "txt": "Un policier de Séoul et un policier de Tokyo traquent ensemble un tueur qui laisse des messages entre la Corée et le Japon 🔎",
    "url": "https://www.whats-on-netflix.com/news/k-dramas/k-dramas-coming-to-netflix-november-2026/",
+   "src": "What's on Netflix"
+  },
+  {
+   "id": "d16",
+   "title": "Good Partner 2",
+   "pf": "Viki",
+   "st": "soon",
+   "at": "2026-11-20T21:50:00+09:00",
+   "sched": "Début le 20 nov. · ven. et sam. · 16 épisodes",
+   "cast": "Jang Na-ra, Kim Hye-yoon, Park Hae-jin",
+   "txt": "L'avocate spécialiste des divorces Cha Eun-kyung a ouvert son propre cabinet et accueille une nouvelle recrue très ambitieuse ⚖️",
+   "url": "https://www.whats-on-netflix.com/news/k-dramas/good-partner-season-2-cast-kim-hye-yoon-release-date/",
    "src": "What's on Netflix"
   }
  ]
