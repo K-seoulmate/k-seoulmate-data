@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T04:41:07.424Z",
+ "updated": "2026-11-08T16:08:25.445Z",
  "poll": {
   "q": "Quel K-drama as-tu envie de lancer ce week-end ? 🎬",
   "o": [
@@ -10,26 +10,6 @@
   ]
  },
  "events": [
-  {
-   "id": "e7",
-   "g": "p1h",
-   "type": "album",
-   "title": "Mini-album « Blow Up »",
-   "at": "2026-11-06T14:00:00+09:00",
-   "tbc": false,
-   "url": "https://www.kpopcomebacks.com/calendar/2026/11/",
-   "src": "kpopcomebacks.com"
-  },
-  {
-   "id": "e23",
-   "g": "blackpink",
-   "type": "mv",
-   "title": "Jennie · OST « Someone to Hold » (film Netflix « Steps »)",
-   "at": "2026-11-06T14:00:00+09:00",
-   "tbc": false,
-   "url": "https://www.kpopcomebacks.com/calendar/2026/11/",
-   "src": "kpopcomebacks.com"
-  },
   {
    "id": "e8",
    "g": "nctdream",
@@ -213,19 +193,6 @@
  ],
  "posts": [
   {
-   "id": "n50",
-   "kind": "news",
-   "vtype": "Article",
-   "artist": "ILLIT",
-   "title": "ILLIT : « jellyous » passe les 100 millions de vues, leur 3e MV à y arriver 🍬",
-   "at": "2026-11-05T15:11:24+09:00",
-   "c": "#9b7bff",
-   "txt": "Le MV de « jellyous », face B de leur 3e mini-album, a franchi les 100 millions de vues sur YouTube ce jeudi vers 5 h 46, heure de Séoul, selon BELIFT LAB 💜 Après « Magnetic » et « It's Me », c'est le 3e MV d'ILLIT à atteindre ce cap. Il était sorti le 7 juillet 2025.",
-   "url": "https://www.soompi.com/article/1884331wpp/illits-jellyous-becomes-their-3rd-mv-to-hit-100-million-views",
-   "src": "Soompi",
-   "img": "https://0.soompi.io/wp-content/uploads/2026/11/05145851/jellyous_64247d.jpg"
-  },
-  {
    "id": "n51",
    "kind": "news",
    "vtype": "Article",
@@ -237,19 +204,6 @@
    "url": "https://www.soompi.com/article/1884332wpp/blackpinks-go-becomes-their-16th-group-mv-to-surpass-100-million-views",
    "src": "Soompi",
    "img": "https://0.soompi.io/wp-content/uploads/2026/11/05150501/blackpink-5.jpeg"
-  },
-  {
-   "id": "n45",
-   "kind": "news",
-   "vtype": "Article",
-   "artist": "STRAY KIDS & NMIXX",
-   "title": "AAA 2026 : Stray Kids, NMIXX et Tzuyu remportent les prix de popularité 🏆",
-   "at": "2026-11-05T11:28:00+09:00",
-   "c": "#e0262f",
-   "txt": "Les votes des fans ont parlé ✨ Stray Kids gagne le prix de popularité chez les groupes masculins, NMIXX chez les groupes féminins, et Tzuyu (TWICE) chez les solistes féminines. Côté acteurs, Byeon Woo-seok et Kim Hye-yoon sont récompensés. La cérémonie aura lieu les 5 et 6 décembre à Kaohsiung, à Taïwan 🎉",
-   "url": "https://starnewskorea.com/en/star/2026/11/05/2026110511045125342",
-   "src": "Star News",
-   "img": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=815,fit=cover,q=high,sharpen=2/21/2026/11/2026110511045125342_4.jpg"
   },
   {
    "id": "n46",
@@ -276,19 +230,6 @@
    "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261105/nct-dream-turns-10-year-milestone-into-disco-celebration-with-boogie-woogie",
    "src": "Korea Times",
    "img": "https://newsimg.koreatimes.co.kr/2026/11/05/ec7f59b6-6fcf-4d33-bbab-1e17999340cb.jpg"
-  },
-  {
-   "id": "n48",
-   "kind": "news",
-   "vtype": "Article",
-   "artist": "STRAY KIDS",
-   "title": "Stray Kids décroche un 3e disque de platine au Japon avant le Tokyo Dome 💿",
-   "at": "2026-11-05T10:15:00+09:00",
-   "c": "#e0262f",
-   "txt": "« Special » a passé les 100 millions d'écoutes au Japon, après « MANIAC » et « CASE 143 » 🎶 Le groupe enchaîne avec trois soirs au Tokyo Dome de vendredi à dimanche pour la tournée « RUN IT ». Le concert du 7 novembre sera retransmis en direct dans des cinémas du monde entier 🎬",
-   "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261105/stray-kids-score-3rd-japanese-platinum-certification-ahead-of-tokyo-dome-concerts",
-   "src": "Korea Times",
-   "img": "https://newsimg.koreatimes.co.kr/2026/11/05/9b01e00f-a30f-4c3f-8dfd-48554f2e0752.jpg"
   },
   {
    "id": "n43",
@@ -420,43 +361,6 @@
    "img": "https://images.khan.co.kr/article/2026/11/02/news-p.v1.20261102.8415f27a400e405193911e093be6033e_P1.jpg"
   },
   {
-   "id": "v8",
-   "kind": "video",
-   "vtype": "MV",
-   "artist": "JISOO",
-   "title": "ADDICTED",
-   "at": "2026-10-30T08:00:00+09:00",
-   "c": "#ff2e93",
-   "txt": "Le MV d'« ADDICTED » est en ligne ! 2e pré-sortie avant le premier album complet de Jisoo, après « CLICK » 💗 Le titre a pris la 1re place d'iTunes dans 28 pays.",
-   "url": "https://www.youtube.com/watch?v=Pksr9T8m_aA",
-   "src": "Chaîne YouTube officielle JISOO"
-  },
-  {
-   "id": "a11",
-   "kind": "soon",
-   "vtype": "OST",
-   "artist": "JENNIE",
-   "title": "Someone to Hold",
-   "at": "2026-11-06T14:00:00+09:00",
-   "c": "#e8457c",
-   "txt": "Jennie chante « Someone to Hold », la chanson du film Netflix « Steps » 🎬 Sortie ce vendredi à 14 h, heure de Séoul (6 h à Paris).",
-   "url": "https://www.whats-on-netflix.com/news/steps-trailer-drop-blackpink-jennie-soundtrack-news/",
-   "src": "What's on Netflix"
-  },
-  {
-   "id": "a8",
-   "kind": "soon",
-   "vtype": "Mini-album",
-   "artist": "P1Harmony",
-   "title": "Blow Up",
-   "at": "2026-11-06T14:00:00+09:00",
-   "c": "#ff3d7f",
-   "txt": "10e EP de P1Harmony, qui poursuit son histoire de super-héros 🦸 Leur premier inédit depuis environ huit mois.",
-   "url": "https://www.koreaherald.com/article/10916091",
-   "src": "Korea Herald",
-   "img": "https://wimg.heraldcorp.com/news/cms/2026/10/27/news-p.v1.20261027.3e4150e8cdf143c0a77430c73fe422c7_P1.jpg"
-  },
-  {
    "id": "a3",
    "kind": "soon",
    "vtype": "Album",
@@ -541,21 +445,81 @@
    "txt": "La tournée « BLOOD SAGA » passe par Paris La Défense Arena, à Nanterre 🦇 Heure à confirmer.",
    "url": "https://www.parisladefense.com/en/news/events/enhyphen-concert-paris-defense-arena-saturday-february-27-2027",
    "src": "Paris La Défense"
+  },
+  {
+   "id": "n52",
+   "kind": "news",
+   "vtype": "Article",
+   "artist": "ILLIT",
+   "title": "ILLIT : « Tick-Tack » devient leur 5e MV à franchir les 100 millions de vues 🎉",
+   "at": "2026-11-08T10:00:00+09:00",
+   "c": "#ff7ab8",
+   "txt": "Le clip de « Tick-Tack » vient de passer la barre des 100 millions de vues sur YouTube, un cinquième MV du groupe à atteindre ce cap. Bravo aux GLLIT ! 💖",
+   "url": "https://www.soompi.com/article/1884912wpp/illits-tick-tack-becomes-their-5th-mv-to-hit-100-million-views",
+   "src": "Soompi"
+  },
+  {
+   "id": "n53",
+   "kind": "news",
+   "vtype": "Article",
+   "artist": "LE SSERAFIM, ILLIT & KATSEYE",
+   "title": "« ICONIC BY MISTAKE » dépasse les 200 millions de vues 🚀",
+   "at": "2026-11-08T09:00:00+09:00",
+   "c": "#8b5cf6",
+   "txt": "Le clip collaboratif de LE SSERAFIM, ILLIT et KATSEYE franchit les 200 millions de vues sur YouTube. Un joli score pour ce trio de choc ✨",
+   "url": "https://www.soompi.com/article/1884909wpp/watch-le-sserafim-illit-and-katseyes-iconic-by-mistake-mv-surpasses-200-million-views",
+   "src": "Soompi"
+  },
+  {
+   "id": "n54",
+   "kind": "news",
+   "vtype": "Article",
+   "artist": "A2O LITE",
+   "title": "A2O LITE décroche sa 10e victoire avec « NEON » à Music Core 🏆",
+   "at": "2026-11-08T10:00:00+09:00",
+   "c": "#14c79a",
+   "txt": "« NEON » remporte un dixième trophée en télé. L'émission a aussi réuni des performances de Jisoo (BLACKPINK), RESCENE, TREASURE et d'autres artistes 🎤",
+   "url": "https://www.soompi.com/article/1884917wpp/watch-a2o-lite-takes-10th-win-for-neon-on-music-core-performances-by-blackpinks-jisoo-rescene-treasure-and-more",
+   "src": "Soompi"
+  },
+  {
+   "id": "v22",
+   "kind": "video",
+   "vtype": "Teaser",
+   "artist": "A2O SOUL",
+   "title": "Dancing In The Dark (teaser du MV)",
+   "at": "2026-11-08T13:00:00+09:00",
+   "c": "#3b6cff",
+   "txt": "A2O SOUL dévoile le teaser du clip de « Dancing In The Dark », titre de leurs débuts. L'EP « SUPERSTAR » sort le 9 nov. à 18 h (heure de Séoul) 🌟",
+   "url": "https://www.youtube.com/results?search_query=A2O+SOUL+Dancing+In+The+Dark+MV+teaser",
+   "src": "Recherche YouTube"
+  },
+  {
+   "id": "a12",
+   "kind": "soon",
+   "vtype": "Album",
+   "artist": "CHAERYEONG (ITZY)",
+   "title": "Lovesick",
+   "at": "2026-11-09T18:00:00+09:00",
+   "c": "#ff4fa3",
+   "txt": "Chaeryeong d'ITZY sort son premier album solo « Lovesick » le 9 nov. à 18 h (heure de Séoul) 💗",
+   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
+   "src": "Kpop Official"
+  },
+  {
+   "id": "a13",
+   "kind": "soon",
+   "vtype": "Single",
+   "artist": "NAYEON (TWICE)",
+   "title": "NA-sty",
+   "at": "2026-11-20T14:00:00+09:00",
+   "c": "#ff9a3d",
+   "txt": "Nayeon de TWICE revient avec le single album « NA-sty » le 20 nov. à 14 h (heure de Séoul) 🍭",
+   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
+   "src": "Kpop Official"
   }
  ],
  "dramas": [
-  {
-   "id": "d10",
-   "title": "Dead-End Job",
-   "pf": "Netflix",
-   "st": "new",
-   "at": "2026-10-30T16:00:00+09:00",
-   "sched": "Les 8 épisodes d'un coup, dispo depuis le 30 oct. à 8 h",
-   "cast": "Lee Jae-wook, Go Min-si",
-   "txt": "Un petit boulot payé bien plus que la normale… sauf que le lieu cache des horreurs 😱 Horreur et humour.",
-   "url": "https://www.whats-on-netflix.com/coming-soon/whats-coming-to-netflix-this-week-october-26-to-november-1-2026/",
-   "src": "What's on Netflix"
-  },
   {
    "id": "d11",
    "title": "The Remarried Empress",
@@ -660,7 +624,7 @@
    "id": "d12",
    "title": "Possible Love",
    "pf": "Netflix",
-   "st": "soon",
+   "st": "new",
    "at": "2026-11-06T17:00:00+09:00",
    "sched": "Film · sortie le 6 nov.",
    "cast": "Jeon Do-yeon, Sul Kyung-gu, Zo In-sung",
@@ -716,6 +680,19 @@
    "txt": "L'avocate spécialiste des divorces Cha Eun-kyung a ouvert son propre cabinet et accueille une nouvelle recrue très ambitieuse ⚖️",
    "url": "https://www.whats-on-netflix.com/news/k-dramas/good-partner-season-2-cast-kim-hye-yoon-release-date/",
    "src": "What's on Netflix"
+  },
+  {
+   "id": "d17",
+   "title": "One-of-a-Kind Romance",
+   "pf": "Viki",
+   "st": "soon",
+   "at": "2026-11-09T18:00:00+09:00",
+   "sched": "Début le 9 nov. · lundis",
+   "cast": "Joy, Kim Hyun-jin, Shin Hyun-soo, Kang Na-eon",
+   "idol": "Joy (Red Velvet)",
+   "txt": "Une jeune femme en recherche d'emploi devient manager d'une star qui cache les séquelles d'une affaire de harcèlement 🌟",
+   "url": "https://www.soompi.com/article/1883792wpp/14-new-k-dramas-to-watch-in-november-2026",
+   "src": "Soompi"
   }
  ]
 }
