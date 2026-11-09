@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T04:43:44.960Z",
+ "updated": "2026-11-09T16:42:24.934Z",
  "poll": {
   "q": "Quel MV de la semaine te donne le plus envie de le mettre en boucle ? 🎶",
   "o": [
@@ -10,26 +10,6 @@
   ]
  },
  "events": [
-  {
-   "id": "e8",
-   "g": "nctdream",
-   "type": "album",
-   "title": "Album « DREAM AFTER DREAM »",
-   "at": "2026-11-09T18:00:00+09:00",
-   "tbc": false,
-   "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261105/nct-dream-turns-10-year-milestone-into-disco-celebration-with-boogie-woogie",
-   "src": "Korea Times"
-  },
-  {
-   "id": "e9",
-   "g": "itzy",
-   "type": "album",
-   "title": "Chaeryeong · mini-album solo « Lovesick »",
-   "at": "2026-11-09T18:00:00+09:00",
-   "tbc": false,
-   "url": "https://www.kpopcomebacks.com/calendar/2026/11/",
-   "src": "kpopcomebacks.com"
-  },
   {
    "id": "e10",
    "g": "zb1",
@@ -193,19 +173,6 @@
  ],
  "posts": [
   {
-   "id": "n51",
-   "kind": "news",
-   "vtype": "Article",
-   "artist": "BLACKPINK",
-   "title": "BLACKPINK : le MV de « GO » dépasse les 100 millions de vues 🖤💗",
-   "at": "2026-11-05T14:55:31+09:00",
-   "c": "#e8457c",
-   "txt": "Sorti le 27 février, le MV de « GO » a passé les 100 millions de vues sur YouTube le 4 novembre, en environ huit mois et huit jours 🚀 C'est le 16e MV de groupe de BLACKPINK à atteindre ce cap !",
-   "url": "https://www.soompi.com/article/1884332wpp/blackpinks-go-becomes-their-16th-group-mv-to-surpass-100-million-views",
-   "src": "Soompi",
-   "img": "https://0.soompi.io/wp-content/uploads/2026/11/05150501/blackpink-5.jpeg"
-  },
-  {
    "id": "n46",
    "kind": "news",
    "vtype": "Article",
@@ -322,32 +289,6 @@
    "img": "https://image.starnewskorea.com/21/2026/11/2026110314175662169_1.jpg"
   },
   {
-   "id": "v11",
-   "kind": "video",
-   "vtype": "MV",
-   "artist": "TWS",
-   "title": "Call My Name (내 이름을 불러줘)",
-   "at": "2026-11-02T18:00:00+09:00",
-   "c": "#6fc8ff",
-   "txt": "Le MV du titre phare du single album « TO US » est sorti ce lundi ☀️ Un morceau sur la jeunesse qui fonce sans avoir peur. Le single est aussi n° 2 du classement quotidien Oricon au Japon.",
-   "url": "https://www.youtube.com/results?search_query=TWS+Call+My+Name+MV",
-   "src": "Recherche YouTube",
-   "img": "https://wimg.heraldcorp.com/news/cms/2026/11/01/news-p.v1.20261101.c91ec6be2f144b51bb7cc39e6aef027f_P1.jpg"
-  },
-  {
-   "id": "v12",
-   "kind": "video",
-   "vtype": "MV",
-   "artist": "TREASURE",
-   "title": "SHOCK",
-   "at": "2026-11-02T18:00:00+09:00",
-   "c": "#3b6cff",
-   "txt": "Le MV du single numérique « SHOCK » est en ligne ⚡ Hip-hop et synthés, avec un clin d'œil au « Hot » de 1TYM.",
-   "url": "https://www.youtube.com/watch?v=u_hpZueWI9g",
-   "src": "Vidéo officielle (lien cité par Soompi)",
-   "img": "https://wimg.heraldcorp.com/news/cms/2026/11/02/news-p.v1.20261102.8acf1ae241b345a7be20ea5c7e30dab4_P1.jpg"
-  },
-  {
    "id": "v13",
    "kind": "video",
    "vtype": "MV",
@@ -359,19 +300,6 @@
    "url": "https://www.youtube.com/results?search_query=xikers+DIENAMITE+MV",
    "src": "Recherche YouTube",
    "img": "https://images.khan.co.kr/article/2026/11/02/news-p.v1.20261102.8415f27a400e405193911e093be6033e_P1.jpg"
-  },
-  {
-   "id": "a3",
-   "kind": "soon",
-   "vtype": "Album",
-   "artist": "NCT DREAM",
-   "title": "DREAM AFTER DREAM",
-   "at": "2026-11-09T18:00:00+09:00",
-   "c": "#14c79a",
-   "txt": "6e album complet de NCT DREAM, avec « Boogie Woogie » en titre phare 💚",
-   "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261105/nct-dream-turns-10-year-milestone-into-disco-celebration-with-boogie-woogie",
-   "src": "Korea Times",
-   "img": "https://newsimg.koreatimes.co.kr/2026/11/05/ec7f59b6-6fcf-4d33-bbab-1e17999340cb.jpg"
   },
   {
    "id": "a9",
@@ -495,18 +423,6 @@
    "src": "Recherche YouTube"
   },
   {
-   "id": "a12",
-   "kind": "soon",
-   "vtype": "Album",
-   "artist": "CHAERYEONG (ITZY)",
-   "title": "Lovesick",
-   "at": "2026-11-09T18:00:00+09:00",
-   "c": "#ff4fa3",
-   "txt": "Chaeryeong d'ITZY sort son premier album solo « Lovesick » le 9 nov. à 18 h (heure de Séoul) 💗",
-   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
-   "src": "Kpop Official"
-  },
-  {
    "id": "a13",
    "kind": "soon",
    "vtype": "Single",
@@ -517,6 +433,53 @@
    "txt": "Nayeon de TWICE revient avec le single album « NA-sty » le 20 nov. à 14 h (heure de Séoul) 🍭",
    "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
    "src": "Kpop Official"
+  },
+  {
+   "id": "v23",
+   "kind": "video",
+   "vtype": "mv",
+   "artist": "NCT DREAM",
+   "title": "NCT DREAM sort le MV de « Boogie Woogie » 🪩",
+   "at": "2026-11-09T18:00:00+09:00",
+   "c": "#7CFC00",
+   "txt": "Pour leurs 10 ans, les Dream débarquent avec leur 6e album « DREAM AFTER DREAM » et un MV disco très festif. À regarder en boucle ! 💚",
+   "url": "https://www.youtube.com/results?search_query=NCT%20DREAM%20Boogie%20Woogie%20MV",
+   "src": "Recherche YouTube",
+   "img": "https://newsimg.koreatimes.co.kr/2026/11/05/ec7f59b6-6fcf-4d33-bbab-1e17999340cb.jpg"
+  },
+  {
+   "id": "v24",
+   "kind": "video",
+   "vtype": "mv",
+   "artist": "CHAERYEONG (ITZY)",
+   "title": "Chaeryeong lance sa carrière solo avec « Lovesick » 💖",
+   "at": "2026-11-09T18:00:00+09:00",
+   "c": "#FF4D8D",
+   "txt": "La membre d'ITZY dévoile son tout premier album solo « Lovesick ». Un nouveau chapitre à découvrir dès maintenant ✨",
+   "url": "https://www.youtube.com/results?search_query=Chaeryeong%20Lovesick%20MV",
+   "src": "Recherche YouTube"
+  },
+  {
+   "id": "a14",
+   "kind": "soon",
+   "artist": "D.O. (EXO)",
+   "title": "D.O. de retour le 11 novembre avec le single « Darling »",
+   "at": "2026-11-11T18:00:00+09:00",
+   "c": "#A78BFA",
+   "txt": "Le chanteur d'EXO annonce un nouveau single, « Darling », pour mercredi à 18 h (heure de Séoul). Prépare tes écouteurs 🎧",
+   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
+   "src": "KpopOfficial"
+  },
+  {
+   "id": "a15",
+   "kind": "soon",
+   "artist": "WENDY (Red Velvet)",
+   "title": "Wendy revient avec le mini-album « Gleam Hour »",
+   "at": "2026-11-23T18:00:00+09:00",
+   "c": "#FF6B6B",
+   "txt": "Le 4e mini-album solo de Wendy est prévu pour le 23 novembre. Une belle voix à retrouver bientôt 🌟",
+   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
+   "src": "KpopOfficial"
   }
  ],
  "dramas": [
