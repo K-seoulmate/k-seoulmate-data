@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-10T16:41:54.550Z",
+ "updated": "2026-11-11T04:42:18.247Z",
  "poll": {
-  "q": "Quel MV de la semaine te donne le plus envie de le mettre en boucle ? 🎶",
+  "q": "Quelle sortie de la semaine prochaine as-tu le plus hâte d'écouter ? 🎧",
   "o": [
-   "NCT DREAM · Boogie Woogie",
    "ATEEZ · Up",
    "TXT · Angel Bite",
+   "NAYEON · BABY ANGEL",
    "ENHYPEN · I Want You"
   ]
  },
@@ -163,45 +163,6 @@
  ],
  "posts": [
   {
-   "id": "n46",
-   "kind": "news",
-   "vtype": "Article",
-   "artist": "TOMORROW X TOGETHER",
-   "title": "TXT dévoile un aperçu de « PERFECT STORM », 6 titres sur la jeunesse en tempête ⛈️",
-   "at": "2026-11-05T10:18:00+09:00",
-   "c": "#3fa9f5",
-   "txt": "Un extrait de chaque chanson du 9e mini-album est en ligne sur la chaîne HYBE LABELS 🎧 Six titres, menés par « Angel Bite ». Sortie le 16 novembre à 18 h, heure de Séoul (10 h à Paris).",
-   "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261105/txt-previews-new-album-with-6-tracks-capturing-turbulence-of-youth",
-   "src": "Korea Times",
-   "img": "https://newsimg.koreatimes.co.kr/2026/11/05/f8e08ff5-a7c6-49de-a613-9213c3aa7e55.jpg"
-  },
-  {
-   "id": "n47",
-   "kind": "news",
-   "vtype": "Article",
-   "artist": "NCT DREAM",
-   "title": "NCT DREAM fête ses 10 ans en mode disco avec « Boogie Woogie » 🪩",
-   "at": "2026-11-05T10:20:00+09:00",
-   "c": "#14c79a",
-   "txt": "Le 6e album complet « DREAM AFTER DREAM » compte 10 titres, dont « Boogie Woogie », un morceau disco-funk 💚 Jaemin a participé à l'écriture des paroles. Sortie lundi 9 novembre à 18 h, heure de Séoul (10 h à Paris), puis showcase « The Harvest Day » à Séoul le 12 novembre.",
-   "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261105/nct-dream-turns-10-year-milestone-into-disco-celebration-with-boogie-woogie",
-   "src": "Korea Times",
-   "img": "https://newsimg.koreatimes.co.kr/2026/11/05/ec7f59b6-6fcf-4d33-bbab-1e17999340cb.jpg"
-  },
-  {
-   "id": "n43",
-   "kind": "news",
-   "vtype": "Article",
-   "artist": "SM ENTERTAINMENT",
-   "title": "SM dévoile ses sorties du début 2027 : RIIZE, Hearts2Hearts, aespa… 🗓️",
-   "at": "2026-11-04T19:10:23+09:00",
-   "c": "#ff9b3d",
-   "txt": "En présentant ses résultats du 3e trimestre, SM a annoncé son programme de janvier à mars 2027 ✨ RIIZE, Seulgi et Jaehyun sortiront chacun un album complet, Hearts2Hearts reviendra avec un mini-album et SUPER JUNIOR-83z avec un single. Côté scène, NCT 127, NCT WISH, aespa, WayV, Yesung, Changmin et Minho donneront des concerts 🎤",
-   "url": "https://www.soompi.com/article/1884192wpp/sm-announces-comeback-lineup-for-1st-quarter-of-2027",
-   "src": "Soompi",
-   "img": "https://0.soompi.io/wp-content/uploads/2026/11/04191014/sm-2027-1.jpg"
-  },
-  {
    "id": "v20",
    "kind": "video",
    "vtype": "MV",
@@ -277,19 +238,6 @@
    "url": "https://www.youtube.com/results?search_query=RESCENE+With+MV",
    "src": "Recherche YouTube",
    "img": "https://image.starnewskorea.com/21/2026/11/2026110314175662169_1.jpg"
-  },
-  {
-   "id": "v13",
-   "kind": "video",
-   "vtype": "MV",
-   "artist": "xikers",
-   "title": "DIENAMITE",
-   "at": "2026-11-02T18:00:00+09:00",
-   "c": "#ff4f1a",
-   "txt": "Titre phare du 8e mini-album « ROUTE ZERO : The CALLING », avec un solo de guitare bien rock 🎸",
-   "url": "https://www.youtube.com/results?search_query=xikers+DIENAMITE+MV",
-   "src": "Recherche YouTube",
-   "img": "https://images.khan.co.kr/article/2026/11/02/news-p.v1.20261102.8415f27a400e405193911e093be6033e_P1.jpg"
   },
   {
    "id": "a9",
@@ -470,6 +418,54 @@
    "txt": "Le 4e mini-album solo de Wendy est prévu pour le 23 novembre, avec « Before Sunrise » en titre phare 🌟",
    "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
    "src": "KpopOfficial"
+  },
+  {
+   "id": "v25",
+   "kind": "video",
+   "vtype": "MV",
+   "artist": "LNGSHOT",
+   "title": "LNGSHOT revient avec « Bananas » 🍌",
+   "at": "2026-11-10T18:00:00+09:00",
+   "c": "#f5c542",
+   "txt": "Le groupe signe son retour avec l'EP « S.W.I.S.H. » et le MV de « Bananas », sortis le 10 novembre à 18 h, heure de Séoul.",
+   "url": "https://www.youtube.com/results?search_query=LNGSHOT%20Bananas%20MV",
+   "src": "Recherche YouTube"
+  },
+  {
+   "id": "a16",
+   "kind": "soon",
+   "vtype": "Comeback",
+   "artist": "ENHYPEN",
+   "title": "ENHYPEN dévoile « THE SIN : PARALLEL WORLD » le 20 novembre 🔥",
+   "at": "2026-11-20T14:00:00+09:00",
+   "c": "#e0457b",
+   "txt": "Le single spin-off arrive avec « I Want You » à 14 h, heure de Séoul (6 h à Paris).",
+   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
+   "src": "kpopofficial.com"
+  },
+  {
+   "id": "a17",
+   "kind": "soon",
+   "vtype": "Comeback",
+   "artist": "TAEYEON",
+   "title": "TAEYEON prépare son 4e album complet « Unspecial » 💿",
+   "at": "2026-11-30T18:00:00+09:00",
+   "c": "#7b6cf6",
+   "txt": "Sortie annoncée le 30 novembre à 18 h, heure de Séoul (10 h à Paris).",
+   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
+   "src": "kpopofficial.com"
+  },
+  {
+   "id": "a18",
+   "kind": "soon",
+   "vtype": "Comeback",
+   "artist": "H1-KEY",
+   "title": "H1-KEY de retour avec le single « Unbelievable » ✨",
+   "at": "2026-11-13T18:00:00+09:00",
+   "c": "#3fc7c0",
+   "txt": "Le single numérique arrive le 13 novembre à 18 h, heure de Séoul (10 h à Paris).",
+   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
+   "src": "kpopofficial.com"
   }
  ],
  "dramas": [
@@ -477,9 +473,9 @@
    "id": "d11",
    "title": "The Remarried Empress",
    "pf": "Disney+",
-   "st": "new",
+   "st": "airing",
    "at": "2026-11-03T17:00:00+09:00",
-   "sched": "4 épisodes dispo depuis le 3 nov., puis 2 chaque mer. · final le 25 nov.",
+   "sched": "Nouveaux épisodes le mercredi · final le 25 nov.",
    "cast": "Shin Min-a, Ju Ji-hoon, Lee Jong-suk, Lee Se-young",
    "txt": "Trahie par l'empereur, une impératrice épouse le prince du royaume voisin… et garde son titre 👑 Adapté d'un webtoon.",
    "url": "https://www.soompi.com/article/1883808wpp/watch-the-remarried-empress-moves-up-premiere-date",
@@ -574,22 +570,10 @@
    "src": "Esquire India"
   },
   {
-   "id": "d12",
-   "title": "Possible Love",
-   "pf": "Netflix",
-   "st": "new",
-   "at": "2026-11-06T17:00:00+09:00",
-   "sched": "Film · sortie le 6 nov.",
-   "cast": "Jeon Do-yeon, Sul Kyung-gu, Zo In-sung",
-   "txt": "Deux couples voient leur vie bouleversée quand une documentariste décide de les filmer 🎥 Un film de Lee Chang-dong.",
-   "url": "https://www.whats-on-netflix.com/news/k-dramas/k-dramas-coming-to-netflix-november-2026/",
-   "src": "What's on Netflix"
-  },
-  {
    "id": "d15",
    "title": "What a Boss Wants",
    "pf": "Viki",
-   "st": "soon",
+   "st": "new",
    "at": "2026-11-11T22:20:00+09:00",
    "sched": "Début le 11 nov.",
    "cast": "Sung Hoon, Oh Se-young, Lee Jung-shin",
@@ -644,6 +628,18 @@
    "cast": "Joy, Kim Hyun-jin, Shin Hyun-soo, Kang Na-eon",
    "idol": "Joy (Red Velvet)",
    "txt": "Une jeune femme en recherche d'emploi devient manager d'une star qui cache les séquelles d'une affaire de harcèlement 🌟",
+   "url": "https://www.soompi.com/article/1883792wpp/14-new-k-dramas-to-watch-in-november-2026",
+   "src": "Soompi"
+  },
+  {
+   "id": "d18",
+   "title": "The Substitute",
+   "pf": "Viki",
+   "st": "soon",
+   "at": "2026-11-23T20:00:00+09:00",
+   "sched": "Début le 23 nov. · tous les lundis",
+   "cast": "Bae Hyeon Seong, Cha Kang Yoon, Park Yoon Ho, Uhm Ji Won",
+   "txt": "Trois jeunes hommes se retrouvent embarqués dans un mauvais coup le jour du concours d'entrée à l'université 📚",
    "url": "https://www.soompi.com/article/1883792wpp/14-new-k-dramas-to-watch-in-november-2026",
    "src": "Soompi"
   }
