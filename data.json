@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T04:42:18.247Z",
+ "updated": "2026-11-11T09:42:08.887Z",
  "poll": {
   "q": "Quelle sortie de la semaine prochaine as-tu le plus hâte d'écouter ? 🎧",
   "o": [
@@ -215,31 +215,6 @@
    "img": "https://en.koreadaily.com/wp-content/uploads/2026/10/202610270822772468_6adfe34657ab6.jpg"
   },
   {
-   "id": "v15",
-   "kind": "video",
-   "vtype": "Performance film",
-   "artist": "SEVENTEEN DINO",
-   "title": "AUTOMATIC",
-   "at": "2026-11-03T18:00:00+09:00",
-   "c": "#8fb3ff",
-   "txt": "Dino sort « AUTOMATIC » avec un performance film 💙 Un titre qu'il a co-écrit et co-composé, à regarder en boucle.",
-   "url": "https://www.youtube.com/watch?v=qCF3_Xk_ZXQ",
-   "src": "Vidéo officielle (lien cité par Soompi)"
-  },
-  {
-   "id": "v14",
-   "kind": "video",
-   "vtype": "MV",
-   "artist": "RESCENE",
-   "title": "With",
-   "at": "2026-11-03T18:00:00+09:00",
-   "c": "#ff7ac0",
-   "txt": "Le MV du titre phare du mini-album « PULSE » est en ligne 💗 Une intro douce qui monte jusqu'à un refrain qui explose.",
-   "url": "https://www.youtube.com/results?search_query=RESCENE+With+MV",
-   "src": "Recherche YouTube",
-   "img": "https://image.starnewskorea.com/21/2026/11/2026110314175662169_1.jpg"
-  },
-  {
    "id": "a9",
    "kind": "soon",
    "vtype": "Mini-album",
@@ -399,14 +374,15 @@
   },
   {
    "id": "a14",
-   "kind": "soon",
+   "kind": "video",
    "artist": "D.O. (EXO)",
-   "title": "D.O. de retour le 11 novembre avec le single « Darling »",
+   "title": "D.O. (EXO) sort le single « Darling » 💿",
    "at": "2026-11-11T18:00:00+09:00",
    "c": "#A78BFA",
-   "txt": "Le chanteur d'EXO annonce un nouveau single, « Darling », pour mercredi à 18 h (heure de Séoul). Prépare tes écouteurs 🎧",
-   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
-   "src": "KpopOfficial"
+   "txt": "Le chanteur d'EXO est de retour avec « Darling », disponible depuis ce mercredi 18 h (heure de Séoul). Prépare tes écouteurs 🎧",
+   "url": "https://www.youtube.com/results?search_query=D.O.%20Darling%20MV",
+   "src": "Recherche YouTube",
+   "vtype": "Single"
   },
   {
    "id": "a15",
@@ -466,6 +442,18 @@
    "txt": "Le single numérique arrive le 13 novembre à 18 h, heure de Séoul (10 h à Paris).",
    "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
    "src": "kpopofficial.com"
+  },
+  {
+   "id": "v26",
+   "kind": "video",
+   "vtype": "EP",
+   "artist": "KYUHYUN",
+   "title": "Kyuhyun revient avec l'EP « CONTINUE » et « I'll Be Here » 🎶",
+   "at": "2026-11-11T18:00:00+09:00",
+   "c": "#38bdf8",
+   "txt": "Le chanteur de Super Junior sort l'EP « CONTINUE », porté par le titre « I'll Be Here », ce mercredi à 18 h (heure de Séoul).",
+   "url": "https://www.youtube.com/results?search_query=Kyuhyun%20I%27ll%20Be%20Here%20MV",
+   "src": "Recherche YouTube"
   }
  ],
  "dramas": [
