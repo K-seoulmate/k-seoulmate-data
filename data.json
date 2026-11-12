@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-11T09:42:08.887Z",
+ "updated": "2026-11-12T04:41:55.322Z",
  "poll": {
-  "q": "Quelle sortie de la semaine prochaine as-tu le plus hâte d'écouter ? 🎧",
+  "q": "Quelle sortie de la semaine as-tu le plus hâte d'écouter ? 🎧",
   "o": [
    "ATEEZ · Up",
    "TXT · Angel Bite",
-   "NAYEON · BABY ANGEL",
+   "NCT DREAM · Boogie Woogie",
    "ENHYPEN · I Want You"
   ]
  },
@@ -187,32 +187,6 @@
    "url": "https://www.youtube.com/results?search_query=UNCHILD+TiNG+TiNG+MV",
    "src": "Recherche YouTube",
    "img": "https://images.khan.co.kr/article/2026/10/28/news-p.v1.20261028.289b36a476dd438383e31b1b27abb5b2_P1.jpg"
-  },
-  {
-   "id": "v16",
-   "kind": "video",
-   "vtype": "MV",
-   "artist": "ZEROBASEONE EMP",
-   "title": "RUN (with Dynamicduo)",
-   "at": "2026-11-04T18:00:00+09:00",
-   "c": "#3fa9f5",
-   "txt": "La sous-unité EMP (Seok Matthew et Park Gun Wook) sort « RUN » avec Dynamicduo 🏃 Rap à trois voix sur une prod hip-hop et drum and bass, en avant-goût du single « OFF script » attendu le 10 novembre.",
-   "url": "https://www.youtube.com/watch?v=sMazlfiJN_w",
-   "src": "Vidéo officielle (lien cité par Soompi)",
-   "img": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1601,fit=cover,q=high,sharpen=2/21/2026/11/2026110414543738501_1.jpg"
-  },
-  {
-   "id": "v17",
-   "kind": "video",
-   "vtype": "MV",
-   "artist": "Baby DONT Cry",
-   "title": "Replay",
-   "at": "2026-11-04T18:00:00+09:00",
-   "c": "#ff9ec7",
-   "txt": "Le single numérique « Replay » est sorti ce mercredi en Corée et au Japon 🎶 PSY en est le producteur exécutif et Crush a participé à la composition. Premier retour du groupe depuis huit mois !",
-   "url": "https://www.youtube.com/results?search_query=Baby+DONT+Cry+Replay+MV",
-   "src": "Recherche YouTube",
-   "img": "https://en.koreadaily.com/wp-content/uploads/2026/10/202610270822772468_6adfe34657ab6.jpg"
   },
   {
    "id": "a9",
