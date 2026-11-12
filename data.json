@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T04:41:55.322Z",
+ "updated": "2026-11-12T16:41:33.452Z",
  "poll": {
   "q": "Quelle sortie de la semaine as-tu le plus hâte d'écouter ? 🎧",
   "o": [
@@ -187,6 +187,19 @@
    "url": "https://www.youtube.com/results?search_query=UNCHILD+TiNG+TiNG+MV",
    "src": "Recherche YouTube",
    "img": "https://images.khan.co.kr/article/2026/10/28/news-p.v1.20261028.289b36a476dd438383e31b1b27abb5b2_P1.jpg"
+  },
+  {
+   "id": "v27",
+   "kind": "video",
+   "vtype": "MV",
+   "artist": "KEYVITUP",
+   "title": "KEYVITUP dévoile le MV « NAGARI » 🔥",
+   "at": "2026-11-09T18:00:00+09:00",
+   "c": "#ff3d81",
+   "txt": "Le groupe de 5 membres KEYVITUP revient avec son 2e EP « NA-GARI » et le MV du titre « NAGARI » ! Un retour sur le thème des nouveaux départs, avec 5 titres dont « CHEMISTRY » et « ALRIGHT » 🎶",
+   "url": "https://www.youtube.com/results?search_query=KEYVITUP+NAGARI+MV",
+   "src": "Recherche YouTube",
+   "img": "https://process.filestackapi.com/crop=d:%5B0%2C168%2C3000%2C1500%5D/resize=w:1200%2Ch:600%2Cf:crop%2Ca:center/pjpg=q:90/compress/mT1ZO6krT4iEqXxtL6yV"
   },
   {
    "id": "a9",
@@ -415,7 +428,8 @@
    "c": "#3fc7c0",
    "txt": "Le single numérique arrive le 13 novembre à 18 h, heure de Séoul (10 h à Paris).",
    "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
-   "src": "kpopofficial.com"
+   "src": "kpopofficial.com",
+   "img": "https://images.khan.co.kr/article/2026/11/10/news-p.v1.20261110.6ce7375edd4646b9b11bd59484a2e3d1_P1.jpg"
   },
   {
    "id": "v26",
