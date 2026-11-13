@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-12T16:41:33.452Z",
+ "updated": "2026-11-13T04:42:06.125Z",
  "poll": {
-  "q": "Quelle sortie de la semaine as-tu le plus hâte d'écouter ? 🎧",
+  "q": "Quelle sortie de la semaine prochaine as-tu le plus hâte d'écouter ? 🎧",
   "o": [
-   "ATEEZ · Up",
    "TXT · Angel Bite",
-   "NCT DREAM · Boogie Woogie",
-   "ENHYPEN · I Want You"
+   "NAYEON · BABY ANGEL",
+   "ENHYPEN · I Want You",
+   "WENDY · Before Sunrise"
   ]
  },
  "events": [
@@ -202,18 +202,6 @@
    "img": "https://process.filestackapi.com/crop=d:%5B0%2C168%2C3000%2C1500%5D/resize=w:1200%2Ch:600%2Cf:crop%2Ca:center/pjpg=q:90/compress/mT1ZO6krT4iEqXxtL6yV"
   },
   {
-   "id": "a9",
-   "kind": "soon",
-   "vtype": "Mini-album",
-   "artist": "ATEEZ",
-   "title": "GOLDEN HOUR : Part.6",
-   "at": "2026-11-13T14:00:00+09:00",
-   "c": "#ff7a1a",
-   "txt": "Nouveau chapitre de la série « GOLDEN HOUR » pour ATEEZ, avec « UP » en titre phare 🏴‍☠️",
-   "url": "https://www.kpopcomebacks.com/calendar/2026/11/",
-   "src": "kpopcomebacks.com"
-  },
-  {
    "id": "a10",
    "kind": "soon",
    "vtype": "Mini-album",
@@ -273,6 +261,19 @@
    "txt": "La tournée « BLOOD SAGA » passe par Paris La Défense Arena, à Nanterre 🦇 Heure à confirmer.",
    "url": "https://www.parisladefense.com/en/news/events/enhyphen-concert-paris-defense-arena-saturday-february-27-2027",
    "src": "Paris La Défense"
+  },
+  {
+   "id": "n55",
+   "kind": "news",
+   "vtype": "",
+   "artist": "ENHYPEN",
+   "title": "ENHYPEN enchaîne un 3e comeback de l'année avec « THE SIN : PARALLEL WORLD » 💫",
+   "at": "2026-11-09T12:00:00+09:00",
+   "c": "#8a5cff",
+   "txt": "ENHYPEN sortira le 20 novembre un single spin-off qui clôt la série « THE SIN », après l'EP de janvier et celui d'août. Les deux EP ont dépassé les 2 millions d'exemplaires en première semaine, selon Korea Times. La tournée « BLOOD SAGA » se poursuit en parallèle !",
+   "url": "https://www.koreatimes.co.kr/entertainment/20261109/enhypen-to-make-3-comebacks-in-1-year-keeping-momentum-through-year-end",
+   "src": "Korea Times",
+   "img": "https://newsimg.koreatimes.co.kr/2026/11/09/bde8e0ae-ee46-4cf0-920e-7ad925d18f06.jpg"
   },
   {
    "id": "n52",
@@ -521,31 +522,6 @@
    "src": "Esquire India"
   },
   {
-   "id": "d6",
-   "title": "Make Me Tingle",
-   "pf": "Viki",
-   "st": "airing",
-   "at": "2026-10-29T20:00:00+09:00",
-   "sched": "2 nouveaux épisodes chaque jeudi",
-   "cast": "Nam Ji-hyun, Kim Jae-yeong",
-   "txt": "Une marketeuse très sage et un patron de start-up cynique confrontent leur vision de l'amour 💬",
-   "url": "https://www.esquireindia.co.in/entertainment/what-to-stream/new-drama-ott-releases-this-week-oct-25-nov-1-summer-vacation-dead-end-job-the-perfect-lie-final-table-doctor-x-mafia-in-white-netflix-jiohotstar-viki",
-   "src": "Esquire India"
-  },
-  {
-   "id": "d9",
-   "title": "Love on the Menu",
-   "pf": "Viki",
-   "st": "airing",
-   "at": "2026-10-31T00:00:00+09:00",
-   "sched": "Nouveaux épisodes sam. et dim.",
-   "cast": "Ha Seok-jin, Hani",
-   "idol": "Hani (EXID)",
-   "txt": "Huit ans après leur rupture, deux ex se retrouvent et tentent de réparer leurs familles 🍲",
-   "url": "https://www.esquireindia.co.in/entertainment/what-to-stream/new-drama-ott-releases-this-week-oct-25-nov-1-summer-vacation-dead-end-job-the-perfect-lie-final-table-doctor-x-mafia-in-white-netflix-jiohotstar-viki",
-   "src": "Esquire India"
-  },
-  {
    "id": "d15",
    "title": "What a Boss Wants",
    "pf": "Viki",
@@ -618,6 +594,30 @@
    "txt": "Trois jeunes hommes se retrouvent embarqués dans un mauvais coup le jour du concours d'entrée à l'université 📚",
    "url": "https://www.soompi.com/article/1883792wpp/14-new-k-dramas-to-watch-in-november-2026",
    "src": "Soompi"
+  },
+  {
+   "id": "d19",
+   "title": "Between Steps",
+   "pf": "Disney+",
+   "st": "airing",
+   "at": "2026-10-26T21:00:00+09:00",
+   "sched": "Nouveaux épisodes lun. et mar.",
+   "cast": "Choo Young-woo, Kim So-hyun",
+   "txt": "Une ancienne nageuse et un étudiant en master vivent une romance dans un labo de robotique, entre ambition et confiance 🤖💞",
+   "url": "https://www.esquireindia.co.in/entertainment/what-to-stream/13-new-k-drama-ott-releases-this-week-nov-9-15-happy-anding-sword-silence-love-in-disguise-summer-vacation-between-steps-kidnap-game",
+   "src": "Esquire India"
+  },
+  {
+   "id": "d20",
+   "title": "The Perfect Lie",
+   "pf": "Disney+",
+   "st": "airing",
+   "at": "2026-10-30T21:00:00+09:00",
+   "sched": "Nouveaux épisodes ven. et sam.",
+   "cast": "Yoo Yeon-seok, Seo Hyun-jin",
+   "txt": "Un chirurgien et une bibliothécaire gardent des souvenirs opposés d'un même événement… qui dit la vérité ? 🔍",
+   "url": "https://www.esquireindia.co.in/entertainment/what-to-stream/13-new-k-drama-ott-releases-this-week-nov-9-15-happy-anding-sword-silence-love-in-disguise-summer-vacation-between-steps-kidnap-game",
+   "src": "Esquire India"
   }
  ]
 }
