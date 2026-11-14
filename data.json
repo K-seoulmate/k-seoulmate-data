@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T04:42:54.947Z",
+ "updated": "2026-11-14T09:41:19.789Z",
  "poll": {
   "q": "Quel MV de la semaine tourne en boucle dans ta playlist ? 🔁",
   "o": [
@@ -476,6 +476,18 @@
    "txt": "Stray Kids posera ses valises à Paris La Défense Arena (Plenitude Arena, Nanterre) le 9 juillet 2027. Préventes le 18 novembre, mise en vente générale le 19 novembre à 15 h (inscription à la prévente artiste avant le 15 novembre à 21 h) 🎟️",
    "url": "https://www.sortiraparis.com/en/what-to-see-in-paris/concerts-music-festival/articles/357805-stray-kids-in-concert-in-paris-in-2027-everything-you-need-to-know-about-when-tickets-go-on-sale",
    "src": "Sortiraparis"
+  },
+  {
+   "id": "a19",
+   "kind": "soon",
+   "artist": "AMPERS&ONE",
+   "title": "AMPERS&ONE prépare son 1er album complet « PATHFINDER » 💿",
+   "at": "2026-11-17T18:00:00+09:00",
+   "c": "#4DA3FF",
+   "txt": "Le 1er album complet du groupe est annoncé pour le 17 novembre à 18 h heure de Séoul. À suivre de près 🚀",
+   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
+   "src": "KpopOfficial",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Kpop-Comeback-Schedule-November-2026.webp"
   }
  ],
  "dramas": [
@@ -639,6 +651,18 @@
    "txt": "Une comédie romantique de bureau : une adjointe de direction très investie dans son travail se rapproche d'un jeune stagiaire du service juridique 💼",
    "url": "https://www.koreaboo.com/lists/new-k-drama-release-dates-november-2026-netflix-disney-watch/",
    "src": "Koreaboo"
+  },
+  {
+   "id": "d22",
+   "title": "Merry Berry Love",
+   "pf": "Disney+",
+   "st": "airing",
+   "at": "2026-11-11T21:00:00+09:00",
+   "sched": "Épisodes chaque semaine, dernier le 11 nov.",
+   "cast": "Ji Chang-wook, Imada Mio",
+   "txt": "Une romance internationale portée par Ji Chang-wook et Imada Mio, en cours de diffusion sur Disney+ 🍓",
+   "url": "https://www.esquireindia.co.in/entertainment/what-to-stream/13-new-k-drama-ott-releases-this-week-nov-9-15-happy-anding-sword-silence-love-in-disguise-summer-vacation-between-steps-kidnap-game",
+   "src": "Esquire India"
   }
  ]
 }
