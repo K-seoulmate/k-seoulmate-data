@@ -1,25 +1,15 @@
 {
- "updated": "2026-11-13T04:42:06.125Z",
+ "updated": "2026-11-14T04:42:54.947Z",
  "poll": {
-  "q": "Quelle sortie de la semaine prochaine as-tu le plus hâte d'écouter ? 🎧",
+  "q": "Quel MV de la semaine tourne en boucle dans ta playlist ? 🔁",
   "o": [
-   "TXT · Angel Bite",
-   "NAYEON · BABY ANGEL",
-   "ENHYPEN · I Want You",
-   "WENDY · Before Sunrise"
+   "ATEEZ · UP",
+   "H1-KEY · Unbelievable",
+   "NCT DREAM · Boogie Woogie",
+   "CHAERYEONG · Lovesick"
   ]
  },
  "events": [
-  {
-   "id": "e11",
-   "g": "ateez",
-   "type": "album",
-   "title": "Mini-album « GOLDEN HOUR : Part.6 »",
-   "at": "2026-11-13T14:00:00+09:00",
-   "tbc": false,
-   "url": "https://www.kpopcomebacks.com/calendar/2026/11/",
-   "src": "kpopcomebacks.com"
-  },
   {
    "id": "e12",
    "g": "txt",
@@ -159,9 +149,41 @@
    "tbc": true,
    "url": "https://blog.ticketmaster.fr/musique/concerts-kpop-france-2026-paris-billets/",
    "src": "Ticketmaster"
+  },
+  {
+   "id": "e28",
+   "g": "straykids",
+   "type": "preco",
+   "title": "Billetterie : concert à Paris, Plenitude Arena (vente générale)",
+   "at": "2026-11-19T15:00:00+01:00",
+   "tbc": false,
+   "url": "https://www.sortiraparis.com/en/what-to-see-in-paris/concerts-music-festival/articles/357805-stray-kids-in-concert-in-paris-in-2027-everything-you-need-to-know-about-when-tickets-go-on-sale",
+   "src": "Sortiraparis"
+  },
+  {
+   "id": "e29",
+   "g": "straykids",
+   "type": "concert",
+   "title": "Concert à Paris, Plenitude Arena (Nanterre)",
+   "at": "2027-07-09T20:00:00+02:00",
+   "tbc": true,
+   "url": "https://www.sortiraparis.com/en/what-to-see-in-paris/concerts-music-festival/articles/357805-stray-kids-in-concert-in-paris-in-2027-everything-you-need-to-know-about-when-tickets-go-on-sale",
+   "src": "Sortiraparis"
   }
  ],
  "posts": [
+  {
+   "id": "v28",
+   "kind": "video",
+   "vtype": "mv",
+   "artist": "ATEEZ",
+   "title": "ATEEZ revient avec « UP » sur le mini-album « GOLDEN HOUR : Part.6 » 🔥",
+   "at": "2026-11-13T14:00:00+09:00",
+   "c": "#ff4d8d",
+   "txt": "Le comeback d'ATEEZ est sorti le 13 novembre ! Retrouve « UP » et le mini-album « GOLDEN HOUR : Part.6 » sur leur chaîne YouTube officielle 🎧",
+   "url": "https://www.youtube.com/results?search_query=ATEEZ%20UP%20MV%20official",
+   "src": "Recherche YouTube"
+  },
   {
    "id": "v20",
    "kind": "video",
@@ -421,7 +443,7 @@
   },
   {
    "id": "a18",
-   "kind": "soon",
+   "kind": "video",
    "vtype": "Comeback",
    "artist": "H1-KEY",
    "title": "H1-KEY de retour avec le single « Unbelievable » ✨",
@@ -443,6 +465,17 @@
    "txt": "Le chanteur de Super Junior sort l'EP « CONTINUE », porté par le titre « I'll Be Here », ce mercredi à 18 h (heure de Séoul).",
    "url": "https://www.youtube.com/results?search_query=Kyuhyun%20I%27ll%20Be%20Here%20MV",
    "src": "Recherche YouTube"
+  },
+  {
+   "id": "c7",
+   "kind": "live",
+   "artist": "Stray Kids",
+   "title": "Stray Kids en concert à Paris le 9 juillet 2027 🎤",
+   "at": "2026-11-19T15:00:00+01:00",
+   "c": "#7c5cff",
+   "txt": "Stray Kids posera ses valises à Paris La Défense Arena (Plenitude Arena, Nanterre) le 9 juillet 2027. Préventes le 18 novembre, mise en vente générale le 19 novembre à 15 h (inscription à la prévente artiste avant le 15 novembre à 21 h) 🎟️",
+   "url": "https://www.sortiraparis.com/en/what-to-see-in-paris/concerts-music-festival/articles/357805-stray-kids-in-concert-in-paris-in-2027-everything-you-need-to-know-about-when-tickets-go-on-sale",
+   "src": "Sortiraparis"
   }
  ],
  "dramas": [
@@ -482,18 +515,6 @@
    "txt": "Un chef se lance dans un grand concours de cuisine pour représenter son restaurant 🍳",
    "url": "https://www.esquireindia.co.in/entertainment/what-to-stream/new-drama-ott-releases-this-week-oct-25-nov-1-summer-vacation-dead-end-job-the-perfect-lie-final-table-doctor-x-mafia-in-white-netflix-jiohotstar-viki",
    "src": "Esquire India"
-  },
-  {
-   "id": "d2",
-   "title": "Doctor X: Mafia in White",
-   "pf": "Netflix",
-   "st": "airing",
-   "at": "2026-10-30T21:50:00+09:00",
-   "sched": "Nouveaux épisodes ven. et sam. · final le 14 nov.",
-   "cast": "Kim Ji-won, Lee Jung-eun",
-   "txt": "Une chirurgienne de génie s'attaque aux magouilles d'un hôpital universitaire 🩺",
-   "url": "https://www.whats-on-netflix.com/news/k-dramas/k-dramas-coming-to-netflix-november-2026/",
-   "src": "What's on Netflix"
   },
   {
    "id": "d3",
@@ -596,18 +617,6 @@
    "src": "Soompi"
   },
   {
-   "id": "d19",
-   "title": "Between Steps",
-   "pf": "Disney+",
-   "st": "airing",
-   "at": "2026-10-26T21:00:00+09:00",
-   "sched": "Nouveaux épisodes lun. et mar.",
-   "cast": "Choo Young-woo, Kim So-hyun",
-   "txt": "Une ancienne nageuse et un étudiant en master vivent une romance dans un labo de robotique, entre ambition et confiance 🤖💞",
-   "url": "https://www.esquireindia.co.in/entertainment/what-to-stream/13-new-k-drama-ott-releases-this-week-nov-9-15-happy-anding-sword-silence-love-in-disguise-summer-vacation-between-steps-kidnap-game",
-   "src": "Esquire India"
-  },
-  {
    "id": "d20",
    "title": "The Perfect Lie",
    "pf": "Disney+",
@@ -618,6 +627,18 @@
    "txt": "Un chirurgien et une bibliothécaire gardent des souvenirs opposés d'un même événement… qui dit la vérité ? 🔍",
    "url": "https://www.esquireindia.co.in/entertainment/what-to-stream/13-new-k-drama-ott-releases-this-week-nov-9-15-happy-anding-sword-silence-love-in-disguise-summer-vacation-between-steps-kidnap-game",
    "src": "Esquire India"
+  },
+  {
+   "id": "d21",
+   "title": "Nine to Six",
+   "pf": "Prime Video",
+   "st": "soon",
+   "at": "2026-11-25T21:00:00+09:00",
+   "sched": "Début le 25 nov. · mercredis et jeudis · 12 épisodes",
+   "cast": "Distribution à confirmer",
+   "txt": "Une comédie romantique de bureau : une adjointe de direction très investie dans son travail se rapproche d'un jeune stagiaire du service juridique 💼",
+   "url": "https://www.koreaboo.com/lists/new-k-drama-release-dates-november-2026-netflix-disney-watch/",
+   "src": "Koreaboo"
   }
  ]
 }
