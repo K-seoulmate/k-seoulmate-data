@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T09:41:19.789Z",
+ "updated": "2026-11-15T04:42:25.552Z",
  "poll": {
   "q": "Quel MV de la semaine tourne en boucle dans ta playlist ? 🔁",
   "o": [
@@ -183,32 +183,6 @@
    "txt": "Le comeback d'ATEEZ est sorti le 13 novembre ! Retrouve « UP » et le mini-album « GOLDEN HOUR : Part.6 » sur leur chaîne YouTube officielle 🎧",
    "url": "https://www.youtube.com/results?search_query=ATEEZ%20UP%20MV%20official",
    "src": "Recherche YouTube"
-  },
-  {
-   "id": "v20",
-   "kind": "video",
-   "vtype": "MV",
-   "artist": "Dragon Pony",
-   "title": "Calling back",
-   "at": "2026-11-05T18:00:00+09:00",
-   "c": "#ff6a3d",
-   "txt": "Le groupe rock Dragon Pony revient avec le single « Calling back », sorti ce jeudi à 18 h, heure de Séoul 🎸 Une chanson de rupture plus mûre et plus rock que leurs titres pétillants d'avant. Concerts solo prévus les 5 et 6 décembre à Séoul.",
-   "url": "https://www.youtube.com/results?search_query=Dragon+Pony+Calling+back+MV",
-   "src": "Recherche YouTube",
-   "img": "https://en.koreadaily.com/wp-content/uploads/2026/11/202611051544772264_6aec3e7cded18.jpeg"
-  },
-  {
-   "id": "v21",
-   "kind": "video",
-   "vtype": "MV",
-   "artist": "UNCHILD",
-   "title": "TiNG TiNG (팅팅)",
-   "at": "2026-11-05T18:00:00+09:00",
-   "c": "#3ddc84",
-   "txt": "UNCHILD sort son 2e single numérique « TiNG TiNG » ce jeudi à 18 h, heure de Séoul 🐸 Le teaser montrait des grenouilles venimeuses qui créent un « bug » dans un Séoul souterrain : univers jeu vidéo garanti !",
-   "url": "https://www.youtube.com/results?search_query=UNCHILD+TiNG+TiNG+MV",
-   "src": "Recherche YouTube",
-   "img": "https://images.khan.co.kr/article/2026/10/28/news-p.v1.20261028.289b36a476dd438383e31b1b27abb5b2_P1.jpg"
   },
   {
    "id": "v27",
@@ -488,6 +462,18 @@
    "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
    "src": "KpopOfficial",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Kpop-Comeback-Schedule-November-2026.webp"
+  },
+  {
+   "id": "v29",
+   "kind": "video",
+   "vtype": "mv",
+   "artist": "ZEROBASEONE EMP",
+   "title": "ZEROBASEONE EMP sort le single « OFF script » avec « RUN » feat. Dynamicduo 🏃",
+   "at": "2026-11-10T18:00:00+09:00",
+   "c": "#7c5cff",
+   "txt": "Le single numérique « OFF script » d'ZEROBASEONE EMP est dispo depuis le 10 novembre, avec le titre « RUN » en collab avec Dynamicduo 🎧",
+   "url": "https://www.youtube.com/results?search_query=ZEROBASEONE%20EMP%20RUN%20Dynamicduo%20MV",
+   "src": "Recherche YouTube"
   }
  ],
  "dramas": [
