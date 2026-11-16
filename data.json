@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-15T04:42:25.552Z",
+ "updated": "2026-11-16T04:42:10.432Z",
  "poll": {
-  "q": "Quel MV de la semaine tourne en boucle dans ta playlist ? 🔁",
+  "q": "Quel MV de la semaine va être ton coup de cœur ? 💜",
   "o": [
    "ATEEZ · UP",
    "H1-KEY · Unbelievable",
-   "NCT DREAM · Boogie Woogie",
-   "CHAERYEONG · Lovesick"
+   "KEYVITUP · NAGARI",
+   "TXT · Angel Bite"
   ]
  },
  "events": [
@@ -474,6 +474,18 @@
    "txt": "Le single numérique « OFF script » d'ZEROBASEONE EMP est dispo depuis le 10 novembre, avec le titre « RUN » en collab avec Dynamicduo 🎧",
    "url": "https://www.youtube.com/results?search_query=ZEROBASEONE%20EMP%20RUN%20Dynamicduo%20MV",
    "src": "Recherche YouTube"
+  },
+  {
+   "id": "a20",
+   "kind": "soon",
+   "artist": "EXO-KASE",
+   "title": "EXO-KASE prépare son 1er mini-album « Waking Up The City » 💿",
+   "at": "2026-12-01T18:00:00+09:00",
+   "c": "#7c5cff",
+   "txt": "Le 1er décembre à 18 h (heure de Séoul), EXO-KASE arrive avec son premier mini-album « Waking Up The City ». Date relevée sur le calendrier des comebacks de décembre : à confirmer par l'agence.",
+   "url": "https://kpopofficial.com/kpop-comeback-schedule-december-2026/",
+   "src": "Kpopofficial",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/Kpop-Comeback-Schedule-December-2026.webp"
   }
  ],
  "dramas": [
