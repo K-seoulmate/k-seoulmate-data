@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T09:41:49.359Z",
+ "updated": "2026-11-16T16:40:46.168Z",
  "poll": {
   "q": "Quel MV de la semaine va être ton coup de cœur ? 💜",
   "o": [
@@ -10,16 +10,6 @@
   ]
  },
  "events": [
-  {
-   "id": "e12",
-   "g": "txt",
-   "type": "album",
-   "title": "Mini-album « PERFECT STORM »",
-   "at": "2026-11-16T18:00:00+09:00",
-   "tbc": false,
-   "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261105/txt-previews-new-album-with-6-tracks-capturing-turbulence-of-youth",
-   "src": "Korea Times"
-  },
   {
    "id": "e13",
    "g": "taemin",
