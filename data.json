@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T04:42:10.432Z",
+ "updated": "2026-11-16T09:41:49.359Z",
  "poll": {
   "q": "Quel MV de la semaine va être ton coup de cœur ? 💜",
   "o": [
@@ -272,54 +272,6 @@
    "img": "https://newsimg.koreatimes.co.kr/2026/11/09/bde8e0ae-ee46-4cf0-920e-7ad925d18f06.jpg"
   },
   {
-   "id": "n52",
-   "kind": "news",
-   "vtype": "Article",
-   "artist": "ILLIT",
-   "title": "ILLIT : « Tick-Tack » devient leur 5e MV à franchir les 100 millions de vues 🎉",
-   "at": "2026-11-08T10:00:00+09:00",
-   "c": "#ff7ab8",
-   "txt": "Le MV de « Tick-Tack » vient de passer la barre des 100 millions de vues sur YouTube, un cinquième MV du groupe à atteindre ce cap. Bravo aux GLLIT ! 💖",
-   "url": "https://www.soompi.com/article/1884912wpp/illits-tick-tack-becomes-their-5th-mv-to-hit-100-million-views",
-   "src": "Soompi"
-  },
-  {
-   "id": "n53",
-   "kind": "news",
-   "vtype": "Article",
-   "artist": "LE SSERAFIM, ILLIT & KATSEYE",
-   "title": "« ICONIC BY MISTAKE » dépasse les 200 millions de vues 🚀",
-   "at": "2026-11-08T09:00:00+09:00",
-   "c": "#8b5cf6",
-   "txt": "Le MV collaboratif de LE SSERAFIM, ILLIT et KATSEYE franchit les 200 millions de vues sur YouTube. Un joli score pour ce trio de choc ✨",
-   "url": "https://www.soompi.com/article/1884909wpp/watch-le-sserafim-illit-and-katseyes-iconic-by-mistake-mv-surpasses-200-million-views",
-   "src": "Soompi"
-  },
-  {
-   "id": "n54",
-   "kind": "news",
-   "vtype": "Article",
-   "artist": "A2O LITE",
-   "title": "A2O LITE décroche sa 10e victoire avec « NEON » à Music Core 🏆",
-   "at": "2026-11-08T10:00:00+09:00",
-   "c": "#14c79a",
-   "txt": "« NEON » remporte un dixième trophée en télé. L'émission a aussi réuni des performances de Jisoo (BLACKPINK), RESCENE, TREASURE et d'autres artistes 🎤",
-   "url": "https://www.soompi.com/article/1884917wpp/watch-a2o-lite-takes-10th-win-for-neon-on-music-core-performances-by-blackpinks-jisoo-rescene-treasure-and-more",
-   "src": "Soompi"
-  },
-  {
-   "id": "v22",
-   "kind": "video",
-   "vtype": "MV",
-   "artist": "A2O SOUL",
-   "title": "A2O SOUL débute avec « Dancing In The Dark » 🌟",
-   "at": "2026-11-08T13:00:00+09:00",
-   "c": "#3b6cff",
-   "txt": "A2O SOUL a fait ses débuts le 9 nov. avec l'EP « SUPERSTAR » et le MV de « Dancing In The Dark ». À retrouver sur YouTube !",
-   "url": "https://www.youtube.com/results?search_query=A2O+SOUL+Dancing+In+The+Dark+MV+teaser",
-   "src": "Recherche YouTube"
-  },
-  {
    "id": "a13",
    "kind": "soon",
    "vtype": "Single",
@@ -486,6 +438,18 @@
    "url": "https://kpopofficial.com/kpop-comeback-schedule-december-2026/",
    "src": "Kpopofficial",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/11/Kpop-Comeback-Schedule-December-2026.webp"
+  },
+  {
+   "id": "n56",
+   "kind": "news",
+   "artist": "TWS",
+   "title": "TWS dévoile les coulisses du tournage du MV « Call My Name » 🎬",
+   "at": "2026-11-11T10:03:00+09:00",
+   "c": "#4FC3F7",
+   "txt": "Les coulisses du MV « Call My Name », titre phare du 2e single « TO US », sont en ligne ! Selon Sports Kyunghyang, le MV a dépassé les 10 millions de vues sur YouTube en trois jours environ et s’est classé 7e du classement quotidien des MV les plus populaires en Corée. 💙",
+   "url": "https://sports.khan.co.kr/en/article/202611111003007",
+   "src": "Sports Kyunghyang",
+   "img": "https://images.khan.co.kr/article/2026/11/11/news-p.v1.20261111.c5476b1885e4474a9832b08c9c405049_P1.jpg"
   }
  ],
  "dramas": [
