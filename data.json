@@ -1,25 +1,15 @@
 {
- "updated": "2026-11-16T16:40:46.168Z",
+ "updated": "2026-11-17T04:46:38.145Z",
  "poll": {
-  "q": "Quel MV de la semaine va être ton coup de cœur ? 💜",
+  "q": "Quelle sortie de la semaine te fait le plus craquer ? 💜",
   "o": [
-   "ATEEZ · UP",
-   "H1-KEY · Unbelievable",
-   "KEYVITUP · NAGARI",
-   "TXT · Angel Bite"
+   "TXT · Angel Bite",
+   "NAYEON · BABY ANGEL",
+   "ENHYPEN · I Want You",
+   "AMPERS&ONE · King's Way"
   ]
  },
  "events": [
-  {
-   "id": "e13",
-   "g": "taemin",
-   "type": "concert",
-   "title": "Concert à Paris, adidas arena",
-   "at": "2026-11-16T20:00:00+01:00",
-   "tbc": true,
-   "url": "https://blog.ticketmaster.fr/musique/concerts-kpop-france-2026-paris-billets/",
-   "src": "Ticketmaster"
-  },
   {
    "id": "e14",
    "g": "twice",
@@ -159,6 +149,16 @@
    "tbc": true,
    "url": "https://www.sortiraparis.com/en/what-to-see-in-paris/concerts-music-festival/articles/357805-stray-kids-in-concert-in-paris-in-2027-everything-you-need-to-know-about-when-tickets-go-on-sale",
    "src": "Sortiraparis"
+  },
+  {
+   "id": "e30",
+   "g": "kissoflife",
+   "type": "mv",
+   "title": "Single d'hiver « Greedy »",
+   "at": "2026-11-25T18:00:00+09:00",
+   "tbc": false,
+   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
+   "src": "KpopOfficial"
   }
  ],
  "posts": [
@@ -189,28 +189,16 @@
   },
   {
    "id": "a10",
-   "kind": "soon",
-   "vtype": "Mini-album",
+   "kind": "video",
+   "vtype": "MV",
    "artist": "TOMORROW X TOGETHER",
-   "title": "PERFECT STORM",
+   "title": "TXT est de retour avec « Angel Bite » et le mini-album « PERFECT STORM » ⛈️",
    "at": "2026-11-16T18:00:00+09:00",
    "c": "#3fa9f5",
-   "txt": "TXT revient avec le mini-album « PERFECT STORM », porté par « Angel Bite » ⛈️",
-   "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261105/txt-previews-new-album-with-6-tracks-capturing-turbulence-of-youth",
-   "src": "Korea Times",
+   "txt": "Le 9e mini-album de TXT, « PERFECT STORM », est sorti le 16 novembre, avec « Angel Bite » en titre phare. Plonge dans l'album ! 💙",
+   "url": "https://www.youtube.com/results?search_query=TXT+Angel+Bite+MV",
+   "src": "Recherche YouTube",
    "img": "https://newsimg.koreatimes.co.kr/2026/11/05/f8e08ff5-a7c6-49de-a613-9213c3aa7e55.jpg"
-  },
-  {
-   "id": "c2",
-   "kind": "live",
-   "vtype": "Concert",
-   "artist": "TAEMIN",
-   "title": "adidas arena",
-   "at": "2026-11-16T20:00:00+01:00",
-   "c": "#7a5cff",
-   "txt": "Concert à Paris, à l'adidas arena.",
-   "url": "https://blog.ticketmaster.fr/musique/concerts-kpop-france-2026-paris-billets/",
-   "src": "Ticketmaster"
   },
   {
    "id": "c3",
@@ -397,10 +385,10 @@
    "id": "a19",
    "kind": "soon",
    "artist": "AMPERS&ONE",
-   "title": "AMPERS&ONE prépare son 1er album complet « PATHFINDER » 💿",
+   "title": "AMPERS&ONE sort son 1er album complet « PATHFINDER » 💿",
    "at": "2026-11-17T18:00:00+09:00",
    "c": "#4DA3FF",
-   "txt": "Le 1er album complet du groupe est annoncé pour le 17 novembre à 18 h heure de Séoul. À suivre de près 🚀",
+   "txt": "Le 1er album complet du groupe arrive aujourd'hui à 18 h heure de Séoul, avec « King's Way » en titre phare. À écouter sans attendre 🚀",
    "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
    "src": "KpopOfficial",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Kpop-Comeback-Schedule-November-2026.webp"
@@ -440,6 +428,42 @@
    "url": "https://sports.khan.co.kr/en/article/202611111003007",
    "src": "Sports Kyunghyang",
    "img": "https://images.khan.co.kr/article/2026/11/11/news-p.v1.20261111.c5476b1885e4474a9832b08c9c405049_P1.jpg"
+  },
+  {
+   "id": "a21",
+   "kind": "soon",
+   "vtype": "Single",
+   "artist": "KISS OF LIFE",
+   "title": "KISS OF LIFE revient avec le single d'hiver « Greedy » ❄️",
+   "at": "2026-11-25T18:00:00+09:00",
+   "c": "#ff4d8d",
+   "txt": "Un single numérique d'hiver est annoncé pour le 25 novembre à 18 h heure de Séoul. Les fans de KISS OF LIFE vont se régaler 💋",
+   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
+   "src": "KpopOfficial"
+  },
+  {
+   "id": "a22",
+   "kind": "soon",
+   "vtype": "Single",
+   "artist": "CL",
+   "title": "CL dévoile le single « ICONIC » 🖤",
+   "at": "2026-11-20T18:00:00+09:00",
+   "c": "#ffb020",
+   "txt": "CL sort le single numérique « ICONIC » le 20 novembre à 18 h heure de Séoul. Rendez-vous vendredi ! ✨",
+   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
+   "src": "KpopOfficial"
+  },
+  {
+   "id": "a23",
+   "kind": "soon",
+   "vtype": "Single",
+   "artist": "YVES",
+   "title": "YVES revient avec l'EP « Cute & Anxiety » 💜",
+   "at": "2026-11-20T12:00:00+09:00",
+   "c": "#9b7bff",
+   "txt": "Le 5e EP d'YVES, « Cute & Anxiety », est annoncé pour le 20 novembre, avec « Too Much » en titre phare 🎧",
+   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
+   "src": "KpopOfficial"
   }
  ],
  "dramas": [
@@ -523,7 +547,7 @@
    "id": "d13",
    "title": "Crash 2",
    "pf": "Disney+",
-   "st": "soon",
+   "st": "airing",
    "at": "2026-11-16T22:00:00+09:00",
    "sched": "Début le 16 nov. · lun. et mar.",
    "cast": "Lee Min-ki, Kwak Sun-young",
@@ -559,7 +583,7 @@
    "id": "d17",
    "title": "One-of-a-Kind Romance",
    "pf": "Viki",
-   "st": "new",
+   "st": "airing",
    "at": "2026-11-09T18:00:00+09:00",
    "sched": "Début le 9 nov. · lundis",
    "cast": "Joy, Kim Hyun-jin, Shin Hyun-soo, Kang Na-eon",
