@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-17T04:46:38.145Z",
+ "updated": "2026-11-18T04:46:48.753Z",
  "poll": {
-  "q": "Quelle sortie de la semaine te fait le plus craquer ? 💜",
+  "q": "Quel MV de la semaine te fait le plus craquer ? 💜",
   "o": [
+   "ATEEZ · UP",
    "TXT · Angel Bite",
-   "NAYEON · BABY ANGEL",
-   "ENHYPEN · I Want You",
-   "AMPERS&ONE · King's Way"
+   "NCT DREAM · Boogie Woogie",
+   "KEYVITUP · NAGARI"
   ]
  },
  "events": [
@@ -382,18 +382,6 @@
    "src": "Sortiraparis"
   },
   {
-   "id": "a19",
-   "kind": "soon",
-   "artist": "AMPERS&ONE",
-   "title": "AMPERS&ONE sort son 1er album complet « PATHFINDER » 💿",
-   "at": "2026-11-17T18:00:00+09:00",
-   "c": "#4DA3FF",
-   "txt": "Le 1er album complet du groupe arrive aujourd'hui à 18 h heure de Séoul, avec « King's Way » en titre phare. À écouter sans attendre 🚀",
-   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
-   "src": "KpopOfficial",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Kpop-Comeback-Schedule-November-2026.webp"
-  },
-  {
    "id": "v29",
    "kind": "video",
    "vtype": "mv",
@@ -464,6 +452,19 @@
    "txt": "Le 5e EP d'YVES, « Cute & Anxiety », est annoncé pour le 20 novembre, avec « Too Much » en titre phare 🎧",
    "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
    "src": "KpopOfficial"
+  },
+  {
+   "id": "v30",
+   "kind": "video",
+   "vtype": "mv",
+   "artist": "RESCENE",
+   "title": "RESCENE dévoile le MV spécial « With » 🔮",
+   "at": "2026-11-12T08:26:00+09:00",
+   "c": "#B388FF",
+   "txt": "Le groupe sort un MV spécial pour « With », titre du mini-album « PULSE », mêlé à des images du film Disney « Hex: Witch Kingdom ». Le morceau sert aussi de chanson de générique de fin pour les versions coréennes du film. ✨",
+   "url": "https://www.youtube.com/results?search_query=RESCENE+With+MV",
+   "src": "Recherche YouTube",
+   "img": "https://images.khan.co.kr/article/2026/11/12/news-p.v1.20261112.8f89612115354968ab8572ff8f82a5e5_P1.jpg"
   }
  ],
  "dramas": [
@@ -580,19 +581,6 @@
    "src": "What's on Netflix"
   },
   {
-   "id": "d17",
-   "title": "One-of-a-Kind Romance",
-   "pf": "Viki",
-   "st": "airing",
-   "at": "2026-11-09T18:00:00+09:00",
-   "sched": "Début le 9 nov. · lundis",
-   "cast": "Joy, Kim Hyun-jin, Shin Hyun-soo, Kang Na-eon",
-   "idol": "Joy (Red Velvet)",
-   "txt": "Une jeune femme en recherche d'emploi devient manager d'une star qui cache les séquelles d'une affaire de harcèlement 🌟",
-   "url": "https://www.soompi.com/article/1883792wpp/14-new-k-dramas-to-watch-in-november-2026",
-   "src": "Soompi"
-  },
-  {
    "id": "d18",
    "title": "The Substitute",
    "pf": "Viki",
@@ -638,6 +626,18 @@
    "cast": "Ji Chang-wook, Imada Mio",
    "txt": "Une romance internationale portée par Ji Chang-wook et Imada Mio, en cours de diffusion sur Disney+ 🍓",
    "url": "https://www.esquireindia.co.in/entertainment/what-to-stream/13-new-k-drama-ott-releases-this-week-nov-9-15-happy-anding-sword-silence-love-in-disguise-summer-vacation-between-steps-kidnap-game",
+   "src": "Esquire India"
+  },
+  {
+   "id": "d23",
+   "title": "Tantara",
+   "pf": "Netflix",
+   "st": "soon",
+   "at": "2026-12-11T17:00:00+09:00",
+   "sched": "Début le 11 déc.",
+   "cast": "Song Hye-kyo, Gong Yoo, Kim Seol-hyun, Cha Seung-won",
+   "txt": "Entre les années 1960 et 1980, une jeune fille pauvre et son ami d’enfance se lancent dans le monde de la musique 🎶",
+   "url": "https://www.esquireindia.co.in/entertainment/what-to-stream/5-upcoming-k-drama-ott-releases-november-december-2026-remarried-empress-one-of-a-kind-romance-gift-sacred-jewel-tantara",
    "src": "Esquire India"
   }
  ]
