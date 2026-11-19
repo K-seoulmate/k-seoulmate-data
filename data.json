@@ -203,6 +203,18 @@
    "src": "Ticketmaster"
   },
   {
+   "id": "c8",
+   "kind": "live",
+   "vtype": "En direct",
+   "artist": "MAMA Awards 2026",
+   "title": "MAMA Awards 2026 : les cérémonies en direct sur france.tv et France 4 📺",
+   "at": "2026-11-20T10:00:00+01:00",
+   "c": "#ff2e93",
+   "txt": "Les MAMA Awards 2026 arrivent en France 🏆 Sur france.tv, en direct : vendredi 20 nov. tapis rouge à 7 h 30 puis cérémonie de 10 h à 13 h 30, et samedi 21 nov. tapis rouge à 4 h 30 puis cérémonie de 7 h à 10 h. Sur France 4 : les deux cérémonies, vendredi à 21 h et samedi à 18 h (heures de France).",
+   "url": "https://www.francetvpro.fr/contenu-de-presse/79288421",
+   "src": "France Télévisions"
+  },
+  {
    "id": "c5",
    "kind": "live",
    "vtype": "Concert",
