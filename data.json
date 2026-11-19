@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T09:46:57.656Z",
+ "updated": "2026-11-19T16:41:02.181Z",
  "poll": {
   "q": "Quel MV de la semaine te fait le plus craquer ? 💜",
   "o": [
@@ -129,16 +129,6 @@
    "tbc": true,
    "url": "https://blog.ticketmaster.fr/musique/concerts-kpop-france-2026-paris-billets/",
    "src": "Ticketmaster"
-  },
-  {
-   "id": "e28",
-   "g": "straykids",
-   "type": "preco",
-   "title": "Billetterie : concert à Paris, Plenitude Arena (vente générale)",
-   "at": "2026-11-19T15:00:00+01:00",
-   "tbc": false,
-   "url": "https://www.sortiraparis.com/en/what-to-see-in-paris/concerts-music-festival/articles/357805-stray-kids-in-concert-in-paris-in-2027-everything-you-need-to-know-about-when-tickets-go-on-sale",
-   "src": "Sortiraparis"
   },
   {
    "id": "e29",
