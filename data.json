@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-18T04:46:48.753Z",
+ "updated": "2026-11-19T04:41:18.228Z",
  "poll": {
   "q": "Quel MV de la semaine te fait le plus craquer ? 💜",
   "o": [
-   "ATEEZ · UP",
    "TXT · Angel Bite",
-   "NCT DREAM · Boogie Woogie",
-   "KEYVITUP · NAGARI"
+   "ATEEZ · UP",
+   "AMPERS&ONE · King's Way",
+   "H1-KEY · Unbelievable"
   ]
  },
  "events": [
@@ -175,19 +175,6 @@
    "src": "Recherche YouTube"
   },
   {
-   "id": "v27",
-   "kind": "video",
-   "vtype": "MV",
-   "artist": "KEYVITUP",
-   "title": "KEYVITUP dévoile le MV « NAGARI » 🔥",
-   "at": "2026-11-09T18:00:00+09:00",
-   "c": "#ff3d81",
-   "txt": "Le groupe de 5 membres KEYVITUP revient avec son 2e EP « NA-GARI » et le MV du titre « NAGARI » ! Un retour sur le thème des nouveaux départs, avec 5 titres dont « CHEMISTRY » et « ALRIGHT » 🎶",
-   "url": "https://www.youtube.com/results?search_query=KEYVITUP+NAGARI+MV",
-   "src": "Recherche YouTube",
-   "img": "https://process.filestackapi.com/crop=d:%5B0%2C168%2C3000%2C1500%5D/resize=w:1200%2Ch:600%2Cf:crop%2Ca:center/pjpg=q:90/compress/mT1ZO6krT4iEqXxtL6yV"
-  },
-  {
    "id": "a10",
    "kind": "video",
    "vtype": "MV",
@@ -237,19 +224,6 @@
    "src": "Paris La Défense"
   },
   {
-   "id": "n55",
-   "kind": "news",
-   "vtype": "",
-   "artist": "ENHYPEN",
-   "title": "ENHYPEN enchaîne un 3e comeback de l'année avec « THE SIN : PARALLEL WORLD » 💫",
-   "at": "2026-11-09T12:00:00+09:00",
-   "c": "#8a5cff",
-   "txt": "ENHYPEN sortira le 20 novembre un single spin-off qui clôt la série « THE SIN », après l'EP de janvier et celui d'août. Les deux EP ont dépassé les 2 millions d'exemplaires en première semaine, selon Korea Times. La tournée « BLOOD SAGA » se poursuit en parallèle !",
-   "url": "https://www.koreatimes.co.kr/entertainment/20261109/enhypen-to-make-3-comebacks-in-1-year-keeping-momentum-through-year-end",
-   "src": "Korea Times",
-   "img": "https://newsimg.koreatimes.co.kr/2026/11/09/bde8e0ae-ee46-4cf0-920e-7ad925d18f06.jpg"
-  },
-  {
    "id": "a13",
    "kind": "soon",
    "vtype": "Single",
@@ -262,43 +236,6 @@
    "src": "Kpop Official"
   },
   {
-   "id": "v23",
-   "kind": "video",
-   "vtype": "mv",
-   "artist": "NCT DREAM",
-   "title": "NCT DREAM sort le MV de « Boogie Woogie » 🪩",
-   "at": "2026-11-09T18:00:00+09:00",
-   "c": "#7CFC00",
-   "txt": "Pour leurs 10 ans, les Dream débarquent avec leur 6e album « DREAM AFTER DREAM » et un MV disco très festif. À regarder en boucle ! 💚",
-   "url": "https://www.youtube.com/results?search_query=NCT%20DREAM%20Boogie%20Woogie%20MV",
-   "src": "Recherche YouTube",
-   "img": "https://newsimg.koreatimes.co.kr/2026/11/05/ec7f59b6-6fcf-4d33-bbab-1e17999340cb.jpg"
-  },
-  {
-   "id": "v24",
-   "kind": "video",
-   "vtype": "mv",
-   "artist": "CHAERYEONG (ITZY)",
-   "title": "Chaeryeong lance sa carrière solo avec « Lovesick » 💖",
-   "at": "2026-11-09T18:00:00+09:00",
-   "c": "#FF4D8D",
-   "txt": "La membre d'ITZY dévoile son tout premier album solo « Lovesick ». Un nouveau chapitre à découvrir dès maintenant ✨",
-   "url": "https://www.youtube.com/results?search_query=Chaeryeong%20Lovesick%20MV",
-   "src": "Recherche YouTube"
-  },
-  {
-   "id": "a14",
-   "kind": "video",
-   "artist": "D.O. (EXO)",
-   "title": "D.O. (EXO) sort le single « Darling » 💿",
-   "at": "2026-11-11T18:00:00+09:00",
-   "c": "#A78BFA",
-   "txt": "Le chanteur d'EXO est de retour avec « Darling », disponible depuis ce mercredi 18 h (heure de Séoul). Prépare tes écouteurs 🎧",
-   "url": "https://www.youtube.com/results?search_query=D.O.%20Darling%20MV",
-   "src": "Recherche YouTube",
-   "vtype": "Single"
-  },
-  {
    "id": "a15",
    "kind": "soon",
    "artist": "WENDY (Red Velvet)",
@@ -308,18 +245,6 @@
    "txt": "Le 4e mini-album solo de Wendy est prévu pour le 23 novembre, avec « Before Sunrise » en titre phare 🌟",
    "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
    "src": "KpopOfficial"
-  },
-  {
-   "id": "v25",
-   "kind": "video",
-   "vtype": "MV",
-   "artist": "LNGSHOT",
-   "title": "LNGSHOT revient avec « Bananas » 🍌",
-   "at": "2026-11-10T18:00:00+09:00",
-   "c": "#f5c542",
-   "txt": "Le groupe signe son retour avec l'EP « S.W.I.S.H. » et le MV de « Bananas », sortis le 10 novembre à 18 h, heure de Séoul.",
-   "url": "https://www.youtube.com/results?search_query=LNGSHOT%20Bananas%20MV",
-   "src": "Recherche YouTube"
   },
   {
    "id": "a16",
@@ -359,18 +284,6 @@
    "img": "https://images.khan.co.kr/article/2026/11/10/news-p.v1.20261110.6ce7375edd4646b9b11bd59484a2e3d1_P1.jpg"
   },
   {
-   "id": "v26",
-   "kind": "video",
-   "vtype": "EP",
-   "artist": "KYUHYUN",
-   "title": "Kyuhyun revient avec l'EP « CONTINUE » et « I'll Be Here » 🎶",
-   "at": "2026-11-11T18:00:00+09:00",
-   "c": "#38bdf8",
-   "txt": "Le chanteur de Super Junior sort l'EP « CONTINUE », porté par le titre « I'll Be Here », ce mercredi à 18 h (heure de Séoul).",
-   "url": "https://www.youtube.com/results?search_query=Kyuhyun%20I%27ll%20Be%20Here%20MV",
-   "src": "Recherche YouTube"
-  },
-  {
    "id": "c7",
    "kind": "live",
    "artist": "Stray Kids",
@@ -380,18 +293,6 @@
    "txt": "Stray Kids posera ses valises à Paris La Défense Arena (Plenitude Arena, Nanterre) le 9 juillet 2027. Préventes le 18 novembre, mise en vente générale le 19 novembre à 15 h (inscription à la prévente artiste avant le 15 novembre à 21 h) 🎟️",
    "url": "https://www.sortiraparis.com/en/what-to-see-in-paris/concerts-music-festival/articles/357805-stray-kids-in-concert-in-paris-in-2027-everything-you-need-to-know-about-when-tickets-go-on-sale",
    "src": "Sortiraparis"
-  },
-  {
-   "id": "v29",
-   "kind": "video",
-   "vtype": "mv",
-   "artist": "ZEROBASEONE EMP",
-   "title": "ZEROBASEONE EMP sort le single « OFF script » avec « RUN » feat. Dynamicduo 🏃",
-   "at": "2026-11-10T18:00:00+09:00",
-   "c": "#7c5cff",
-   "txt": "Le single numérique « OFF script » d'ZEROBASEONE EMP est dispo depuis le 10 novembre, avec le titre « RUN » en collab avec Dynamicduo 🎧",
-   "url": "https://www.youtube.com/results?search_query=ZEROBASEONE%20EMP%20RUN%20Dynamicduo%20MV",
-   "src": "Recherche YouTube"
   },
   {
    "id": "a20",
@@ -404,18 +305,6 @@
    "url": "https://kpopofficial.com/kpop-comeback-schedule-december-2026/",
    "src": "Kpopofficial",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/11/Kpop-Comeback-Schedule-December-2026.webp"
-  },
-  {
-   "id": "n56",
-   "kind": "news",
-   "artist": "TWS",
-   "title": "TWS dévoile les coulisses du tournage du MV « Call My Name » 🎬",
-   "at": "2026-11-11T10:03:00+09:00",
-   "c": "#4FC3F7",
-   "txt": "Les coulisses du MV « Call My Name », titre phare du 2e single « TO US », sont en ligne ! Selon Sports Kyunghyang, le MV a dépassé les 10 millions de vues sur YouTube en trois jours environ et s’est classé 7e du classement quotidien des MV les plus populaires en Corée. 💙",
-   "url": "https://sports.khan.co.kr/en/article/202611111003007",
-   "src": "Sports Kyunghyang",
-   "img": "https://images.khan.co.kr/article/2026/11/11/news-p.v1.20261111.c5476b1885e4474a9832b08c9c405049_P1.jpg"
   },
   {
    "id": "a21",
@@ -465,6 +354,30 @@
    "url": "https://www.youtube.com/results?search_query=RESCENE+With+MV",
    "src": "Recherche YouTube",
    "img": "https://images.khan.co.kr/article/2026/11/12/news-p.v1.20261112.8f89612115354968ab8572ff8f82a5e5_P1.jpg"
+  },
+  {
+   "id": "v31",
+   "kind": "video",
+   "vtype": "mv",
+   "artist": "AMPERS&ONE",
+   "title": "AMPERS&ONE sort son 1er album « PATHFINDER » avec le titre « King's Way » 👑",
+   "at": "2026-11-17T18:00:00+09:00",
+   "c": "#7c4dff",
+   "txt": "Le groupe passe un cap avec un premier album complet ! Le titre « King's Way » ouvre un nouveau chapitre, à écouter et à regarder dès maintenant 🎶",
+   "url": "https://www.youtube.com/results?search_query=AMPERS%26ONE+King%27s+Way+MV",
+   "src": "Recherche YouTube"
+  },
+  {
+   "id": "v32",
+   "kind": "video",
+   "vtype": "mv",
+   "artist": "I.N (Stray Kids)",
+   "title": "I.N (Stray Kids) dévoile le single « NO RETURN » 🔥",
+   "at": "2026-11-17T18:00:00+09:00",
+   "c": "#ff4d6d",
+   "txt": "Le plus jeune de Stray Kids sort un single numérique en solo : de quoi patienter avant le concert parisien de 2027 💫",
+   "url": "https://www.youtube.com/results?search_query=I.N+Stray+Kids+NO+RETURN+MV",
+   "src": "Recherche YouTube"
   }
  ],
  "dramas": [
@@ -535,7 +448,7 @@
    "id": "d15",
    "title": "What a Boss Wants",
    "pf": "Viki",
-   "st": "new",
+   "st": "airing",
    "at": "2026-11-11T22:20:00+09:00",
    "sched": "Début le 11 nov.",
    "cast": "Sung Hoon, Oh Se-young, Lee Jung-shin",
@@ -548,7 +461,7 @@
    "id": "d13",
    "title": "Crash 2",
    "pf": "Disney+",
-   "st": "airing",
+   "st": "new",
    "at": "2026-11-16T22:00:00+09:00",
    "sched": "Début le 16 nov. · lun. et mar.",
    "cast": "Lee Min-ki, Kwak Sun-young",
@@ -615,18 +528,6 @@
    "txt": "Une comédie romantique de bureau : une adjointe de direction très investie dans son travail se rapproche d'un jeune stagiaire du service juridique 💼",
    "url": "https://www.koreaboo.com/lists/new-k-drama-release-dates-november-2026-netflix-disney-watch/",
    "src": "Koreaboo"
-  },
-  {
-   "id": "d22",
-   "title": "Merry Berry Love",
-   "pf": "Disney+",
-   "st": "airing",
-   "at": "2026-11-11T21:00:00+09:00",
-   "sched": "Épisodes chaque semaine, dernier le 11 nov.",
-   "cast": "Ji Chang-wook, Imada Mio",
-   "txt": "Une romance internationale portée par Ji Chang-wook et Imada Mio, en cours de diffusion sur Disney+ 🍓",
-   "url": "https://www.esquireindia.co.in/entertainment/what-to-stream/13-new-k-drama-ott-releases-this-week-nov-9-15-happy-anding-sword-silence-love-in-disguise-summer-vacation-between-steps-kidnap-game",
-   "src": "Esquire India"
   },
   {
    "id": "d23",
