@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T04:41:18.228Z",
+ "updated": "2026-11-19T09:46:57.656Z",
  "poll": {
   "q": "Quel MV de la semaine te fait le plus craquer ? 💜",
   "o": [
@@ -162,6 +162,19 @@
   }
  ],
  "posts": [
+  {
+   "id": "n40",
+   "kind": "news",
+   "vtype": "",
+   "artist": "OVUS",
+   "title": "OVUS dévoile le deuxième film musical « AMIGO » avec une ambiance 90s 🎞️",
+   "at": "2026-11-16T15:51:00+09:00",
+   "c": "#ff9f1c",
+   "txt": "Le groupe rookie OVUS a publié le 14 novembre le film musical de « AMIGO », deuxième des dix films prévus pour leur premier album. Un titre rythmé écrit par KD, dans une histoire qui se suit d'un film à l'autre. Prochain rendez-vous : « DAYFLOWER » (JEON SEO) le 21 novembre, avant des débuts officiels en janvier 2027 ✨",
+   "url": "https://sports.khan.co.kr/en/article/202611161551017",
+   "src": "Sports Kyunghyang",
+   "img": "https://images.khan.co.kr/article/2026/11/16/news-p.v1.20261116.e2c5754e66db419ead2ca4dc950da002_P1.png"
+  },
   {
    "id": "v28",
    "kind": "video",
