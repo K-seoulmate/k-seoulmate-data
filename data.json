@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T18:13:36.909Z",
+ "updated": "2026-11-21T18:14:16.457Z",
  "poll": {
   "q": "Quelle sortie de la semaine te fait le plus craquer ? 💜",
   "o": [
@@ -132,6 +132,32 @@
   }
  ],
  "posts": [
+  {
+   "id": "n49",
+   "kind": "news",
+   "vtype": "Coulisses",
+   "artist": "ILLIT",
+   "title": "ILLIT : l'agence ralentit les activités pour laisser les membres se reposer 🤍",
+   "at": "2026-11-19T17:20:00+09:00",
+   "c": "#ff9bd0",
+   "txt": "L'agence Belift Lab a indiqué que trois membres sont passées par l'hôpital pour de la fièvre et des courbatures, avec une consigne de repos, et que deux membres soignent une blessure à la cheville. Les passages en émissions musicales de la semaine suivante pour le 5e mini-album « Break Even » sont réduits. Le groupe reste prévu aux MAMA Awards, avec une participation qui peut évoluer selon la forme des membres le jour J. Beaucoup de fans leur envoient des messages de soutien 💕",
+   "url": "https://www.koreaherald.com/article/10943077",
+   "src": "The Korea Herald",
+   "img": "https://wimg.heraldcorp.com/news/cms/2026/11/19/news-p.v1.20261119.41b8deed675d4bd3963c463826d99420_P1.jpg"
+  },
+  {
+   "id": "n50",
+   "kind": "news",
+   "vtype": "Coulisses",
+   "artist": "MAMA Awards 2026",
+   "title": "MAMA Awards 2026 : deux soirées en direct sur France 4 et france.tv 📺",
+   "at": "2026-11-18T05:24:00+01:00",
+   "c": "#ffb703",
+   "txt": "La cérémonie se tient au Kyocera Dome d'Osaka et France 4 la diffuse à 21 h le vendredi 20 novembre puis à 18 h le samedi 21 novembre. france.tv propose la couverture complète en direct, tapis rouge compris. Le commentaire est assuré par Marie Palot et Laël Song, avec notamment ENHYPEN, IVE, BIGBANG et LE SSERAFIM annoncés au programme.",
+   "url": "https://www.serie-news.com/tnt/france-4-tnt/72872-mama-awards-2026-sur-france-4-la-grande-ceremonie-de-la-k-pop-en-direct-dosaka-18-11-2026/",
+   "src": "Serie-News",
+   "img": "https://www.serie-news.com/app/uploads/2026/11/sn-79288421-une.webp"
+  },
   {
    "id": "n46",
    "kind": "news",
