@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T18:14:16.457Z",
+ "updated": "2026-11-21T19:20:00.000Z",
  "poll": {
   "q": "Quelle sortie de la semaine te fait le plus craquer ? 💜",
   "o": [
@@ -132,6 +132,30 @@
   }
  ],
  "posts": [
+  {
+   "id": "n60",
+   "kind": "news",
+   "vtype": "Résultats",
+   "artist": "MAMA Awards 2026",
+   "title": "MAMA Awards 2026 : BTS, CORTIS et ENHYPEN décrochent les 4 grands prix 🏆",
+   "at": "2026-11-21T20:25:00+01:00",
+   "c": "#ff2e93",
+   "txt": "Au terme de deux soirées au Kyocera Dome d'Osaka, les quatre Daesang sont attribués 👑 Artiste de l'année : BTS. Album de l'année : BTS pour « ARIRANG ». Chanson de l'année : CORTIS pour « REDRED ». Fans' Choice of the Year : ENHYPEN 💜",
+   "url": "https://www.musiquealliance.fr/32865-mama-awards-2026-bts-cortis-bigbang-palmares-osaka.html",
+   "src": "Musique Alliance"
+  },
+  {
+   "id": "n61",
+   "kind": "news",
+   "vtype": "Résultats",
+   "artist": "MAMA Awards 2026",
+   "title": "MAMA 2026 : BTS en tête avec 5 trophées, CORTIS en compte 4 ✨",
+   "at": "2026-11-21T20:24:00+01:00",
+   "c": "#7a4bd6",
+   "txt": "BTS repart avec cinq trophées (dont les deux Daesang Artiste et Album de l'année), devant CORTIS (quatre prix) puis BIGBANG, ENHYPEN, ILLIT et LE SSERAFIM, trois distinctions chacun. Jour 1 : Yeonjun (TXT) meilleur artiste masculin et Soyeon (i-dle) meilleure artiste féminine. Jour 2 : BIGBANG, Taeyang, ILLIT, LE SSERAFIM, HWASA et ZEROBASEONE récompensés. La cérémonie était présentée par Park Bo-gum et diffusée sur France 4 🎬",
+   "url": "https://philstarlife.com/celebrity/539828-list-winners-2026-mama-awards",
+   "src": "PhilSTAR Life · Musique Alliance"
+  },
   {
    "id": "n49",
    "kind": "news",
