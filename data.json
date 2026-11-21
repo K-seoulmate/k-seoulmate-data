@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T09:41:41.311Z",
+ "updated": "2026-11-21T18:13:36.909Z",
  "poll": {
   "q": "Quelle sortie de la semaine te fait le plus craquer ? 💜",
   "o": [
@@ -132,6 +132,43 @@
   }
  ],
  "posts": [
+  {
+   "id": "n46",
+   "kind": "news",
+   "vtype": "Coulisses",
+   "artist": "KATSEYE",
+   "title": "KATSEYE : Megan remonte sur scène assise après une commotion cérébrale 💛",
+   "at": "2026-11-11T22:35:00+01:00",
+   "c": "#ff7ab8",
+   "txt": "Après des concerts reportés à Detroit, Chicago et Minneapolis à cause d'une commotion cérébrale, Megan est revenue sur scène à Austin le 10 novembre, assise et avec des lunettes de soleil. Dans un message sur Weverse, elle explique que ses médecins lui recommandent un programme adapté, avec moins de chorégraphie et des pauses. Des fans s'inquiètent du rythme de la tournée et Kesha a réagi publiquement. Les billets restent valables pour les nouvelles dates, selon la presse.",
+   "url": "https://stereogum.com/2517694/katseyes-megan-performs-seated-and-wearing-sunglasses-after-concussion/news",
+   "src": "Stereogum",
+   "img": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/Mobile-SOCIAL.jpeg"
+  },
+  {
+   "id": "n47",
+   "kind": "news",
+   "artist": "ENHYPEN",
+   "title": "ENHYPEN boucle sa saga THE SIN avec « THE SIN : PARALLEL WORLD » 🔥",
+   "at": "2026-11-20T09:00:00+01:00",
+   "c": "#e8423f",
+   "txt": "Le single « THE SIN : PARALLEL WORLD » est sorti le 20 novembre : c'est le troisième retour du groupe en 2026 et la fin de la série THE SIN. Le titre « I Want You » a son MV depuis le 13 novembre. Le groupe est à six membres depuis mars.",
+   "url": "https://www.koreatimes.co.kr/entertainment/20261109/enhypen-to-make-3-comebacks-in-1-year-keeping-momentum-through-year-end",
+   "src": "The Korea Times",
+   "img": "https://newsimg.koreatimes.co.kr/2026/11/09/bde8e0ae-ee46-4cf0-920e-7ad925d18f06.jpg"
+  },
+  {
+   "id": "n48",
+   "kind": "news",
+   "artist": "KEYVITUP",
+   "title": "KEYVITUP revient avec le 2e EP « NA-GARI » et le MV « NAGARI » 🎴",
+   "at": "2026-11-16T12:00:00+01:00",
+   "c": "#7c5cff",
+   "txt": "Le groupe produit par Kim Jae-joong a sorti le 9 novembre son deuxième EP de cinq titres, son premier retour depuis ses débuts. Le MV du titre « NAGARI » est disponible. Le nom de l'EP vient d'un terme d'argot du jeu de cartes hwatu.",
+   "url": "https://www.bandwagon.asia/articles/keyvitup-embrace-fresh-starts-on-2nd-ep-na-gari-unveil-nagari-music-video",
+   "src": "Bandwagon",
+   "img": "https://process.filestackapi.com/crop=d:%5B0%2C168%2C3000%2C1500%5D/resize=w:1200%2Ch:600%2Cf:crop%2Ca:center/pjpg=q:90/compress/mT1ZO6krT4iEqXxtL6yV"
+  },
   {
    "id": "n40",
    "kind": "news",
