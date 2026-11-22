@@ -1,25 +1,15 @@
 {
- "updated": "2026-11-21T19:20:00.000Z",
+ "updated": "2026-11-22T04:42:08.948Z",
  "poll": {
-  "q": "Quelle sortie de la semaine te fait le plus craquer ? 💜",
+  "q": "Quel comeback attends-tu le plus cette semaine ? 🎧",
   "o": [
    "WENDY · Before Sunrise",
    "KISS OF LIFE · Greedy",
-   "TAEYEON · Unspecial",
-   "NAYEON · BABY ANGEL"
+   "KIIRAS · OVER U",
+   "TAEYEON · Unspecial"
   ]
  },
  "events": [
-  {
-   "id": "e16",
-   "g": "oneus",
-   "type": "concert",
-   "title": "Concert à Paris, Bataclan",
-   "at": "2026-11-21T20:00:00+01:00",
-   "tbc": true,
-   "url": "https://blog.ticketmaster.fr/musique/concerts-kpop-france-2026-paris-billets/",
-   "src": "Ticketmaster"
-  },
   {
    "id": "e21",
    "g": "enhypen",
@@ -133,6 +123,31 @@
  ],
  "posts": [
   {
+   "id": "n62",
+   "kind": "news",
+   "artist": "IVE",
+   "title": "IVE dévoile les coulisses de sa répétition pour les MMA 2026 🎀",
+   "at": "2026-11-19T20:11:00+09:00",
+   "c": "#ec4899",
+   "txt": "Le groupe a publié sur sa chaîne officielle une vidéo de répétition pour sa scène aux MMA 2026, avec « DEAR. CUPID », « BANG BANG » et « Looks Can Kill » et des dizaines de danseurs. IVE est repartie de la cérémonie du 15 novembre avec cinq trophées, dont la chanson de l'année pour « BANG BANG » ✨",
+   "url": "https://sports.khan.co.kr/en/article/202611192011007",
+   "src": "Sports Khan",
+   "img": "https://images.khan.co.kr/article/2026/11/19/news-p.v1.20261119.eb317da3076046c085c4f11d32365ec3_P1.jpg"
+  },
+  {
+   "id": "v33",
+   "kind": "video",
+   "vtype": "mv",
+   "artist": "GIRLSET",
+   "title": "GIRLSET sort le single « young & dumb » avec son MV 💫",
+   "at": "2026-11-13T00:00:00+09:00",
+   "c": "#a855f7",
+   "txt": "Le single « young & dumb » est sorti à minuit le 13 novembre (heure de Séoul), avec un MV. Il a été coécrit par Lexi, Camila, Kendall et Savanna, pour une ambiance libre et pleine d'énergie 🎶",
+   "url": "https://www.youtube.com/results?search_query=GIRLSET+young+%26+dumb+MV",
+   "src": "Recherche YouTube",
+   "img": "https://images.khan.co.kr/article/2026/11/13/news-p.v1.20261113.34059399178c432c8df7db440acc9860_P1.jpg"
+  },
+  {
    "id": "n60",
    "kind": "news",
    "vtype": "Résultats",
@@ -181,19 +196,6 @@
    "url": "https://www.serie-news.com/tnt/france-4-tnt/72872-mama-awards-2026-sur-france-4-la-grande-ceremonie-de-la-k-pop-en-direct-dosaka-18-11-2026/",
    "src": "Serie-News",
    "img": "https://www.serie-news.com/app/uploads/2026/11/sn-79288421-une.webp"
-  },
-  {
-   "id": "n46",
-   "kind": "news",
-   "vtype": "Coulisses",
-   "artist": "KATSEYE",
-   "title": "KATSEYE : Megan remonte sur scène assise après une commotion cérébrale 💛",
-   "at": "2026-11-11T22:35:00+01:00",
-   "c": "#ff7ab8",
-   "txt": "Après des concerts reportés à Detroit, Chicago et Minneapolis à cause d'une commotion cérébrale, Megan est revenue sur scène à Austin le 10 novembre, assise et avec des lunettes de soleil. Dans un message sur Weverse, elle explique que ses médecins lui recommandent un programme adapté, avec moins de chorégraphie et des pauses. Des fans s'inquiètent du rythme de la tournée et Kesha a réagi publiquement. Les billets restent valables pour les nouvelles dates, selon la presse.",
-   "url": "https://stereogum.com/2517694/katseyes-megan-performs-seated-and-wearing-sunglasses-after-concussion/news",
-   "src": "Stereogum",
-   "img": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/Mobile-SOCIAL.jpeg"
   },
   {
    "id": "n47",
@@ -246,30 +248,6 @@
    "img": "https://newsimg.koreatimes.co.kr/2026/11/05/f8e08ff5-a7c6-49de-a613-9213c3aa7e55.jpg"
   },
   {
-   "id": "c3",
-   "kind": "live",
-   "vtype": "Concert",
-   "artist": "ONEUS",
-   "title": "Bataclan",
-   "at": "2026-11-21T20:00:00+01:00",
-   "c": "#ff7a1a",
-   "txt": "Concert à Paris, au Bataclan.",
-   "url": "https://blog.ticketmaster.fr/musique/concerts-kpop-france-2026-paris-billets/",
-   "src": "Ticketmaster"
-  },
-  {
-   "id": "c8",
-   "kind": "live",
-   "vtype": "En direct",
-   "artist": "MAMA Awards 2026",
-   "title": "MAMA Awards 2026 : les cérémonies en direct sur france.tv et France 4 📺",
-   "at": "2026-11-20T10:00:00+01:00",
-   "c": "#ff2e93",
-   "txt": "Les MAMA Awards 2026 arrivent en France 🏆 Sur france.tv, en direct : vendredi 20 nov. tapis rouge à 7 h 30 puis cérémonie de 10 h à 13 h 30, et samedi 21 nov. tapis rouge à 4 h 30 puis cérémonie de 7 h à 10 h. Sur France 4 : les deux cérémonies, vendredi à 21 h et samedi à 18 h (heures de France).",
-   "url": "https://www.francetvpro.fr/contenu-de-presse/79288421",
-   "src": "France Télévisions"
-  },
-  {
    "id": "c5",
    "kind": "live",
    "vtype": "Concert",
@@ -294,18 +272,6 @@
    "src": "Paris La Défense"
   },
   {
-   "id": "a13",
-   "kind": "soon",
-   "vtype": "Single",
-   "artist": "NAYEON (TWICE)",
-   "title": "NA-sty",
-   "at": "2026-11-20T14:00:00+09:00",
-   "c": "#ff9a3d",
-   "txt": "Nayeon de TWICE revient avec le single album « NA-sty » le 20 nov. à 14 h (heure de Séoul) 🍭",
-   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
-   "src": "Kpop Official"
-  },
-  {
    "id": "a15",
    "kind": "soon",
    "artist": "WENDY (Red Velvet)",
@@ -315,18 +281,6 @@
    "txt": "Le 4e mini-album solo de Wendy est prévu pour le 23 novembre, avec « Before Sunrise » en titre phare 🌟",
    "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
    "src": "KpopOfficial"
-  },
-  {
-   "id": "a16",
-   "kind": "soon",
-   "vtype": "Comeback",
-   "artist": "ENHYPEN",
-   "title": "ENHYPEN dévoile « THE SIN : PARALLEL WORLD » le 20 novembre 🔥",
-   "at": "2026-11-20T14:00:00+09:00",
-   "c": "#e0457b",
-   "txt": "Le single spin-off arrive avec « I Want You » à 14 h, heure de Séoul (6 h à Paris).",
-   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
-   "src": "kpopofficial.com"
   },
   {
    "id": "a17",
@@ -372,30 +326,6 @@
    "at": "2026-11-25T18:00:00+09:00",
    "c": "#ff4d8d",
    "txt": "Un single numérique d'hiver est annoncé pour le 25 novembre à 18 h heure de Séoul. Les fans de KISS OF LIFE vont se régaler 💋",
-   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
-   "src": "KpopOfficial"
-  },
-  {
-   "id": "a22",
-   "kind": "soon",
-   "vtype": "Single",
-   "artist": "CL",
-   "title": "CL dévoile le single « ICONIC » 🖤",
-   "at": "2026-11-20T18:00:00+09:00",
-   "c": "#ffb020",
-   "txt": "CL sort le single numérique « ICONIC » le 20 novembre à 18 h heure de Séoul. Rendez-vous vendredi ! ✨",
-   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
-   "src": "KpopOfficial"
-  },
-  {
-   "id": "a23",
-   "kind": "soon",
-   "vtype": "Single",
-   "artist": "YVES",
-   "title": "YVES revient avec l'EP « Cute & Anxiety » 💜",
-   "at": "2026-11-20T12:00:00+09:00",
-   "c": "#9b7bff",
-   "txt": "Le 5e EP d'YVES, « Cute & Anxiety », est annoncé pour le 20 novembre, avec « Too Much » en titre phare 🎧",
    "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
    "src": "KpopOfficial"
   },
@@ -598,19 +528,6 @@
    "src": "Esquire India"
   },
   {
-   "id": "d15",
-   "title": "What a Boss Wants",
-   "pf": "Viki",
-   "st": "airing",
-   "at": "2026-11-11T22:20:00+09:00",
-   "sched": "Début le 11 nov.",
-   "cast": "Sung Hoon, Oh Se-young, Lee Jung-shin",
-   "idol": "Lee Jung-shin (CNBLUE)",
-   "txt": "Un PDG qui a perdu le goût cherche la voix mystère d'un album… et engage la chanteuse comme secrétaire sous contrat 🎙️",
-   "url": "https://www.soompi.com/article/1883493wpp/sung-hoon-oh-se-young-and-lee-jung-shin-are-entangled-in-a-love-triangle-in-what-a-boss-wants",
-   "src": "Soompi"
-  },
-  {
    "id": "d13",
    "title": "Crash 2",
    "pf": "Disney+",
@@ -717,19 +634,6 @@
    "txt": "Une romance pleine de douceur à suivre sur Disney+ chaque semaine 🍓",
    "url": "https://www.esquireindia.co.in/entertainment/what-to-stream/new-k-drama-ott-releases-this-week-nov-16-22-the-blue-road-good-partner-crash-season-2-on-netflix-disney-and-more",
    "src": "Esquire India"
-  },
-  {
-   "id": "d26",
-   "title": "One-of-a-Kind Romance",
-   "pf": "Viki",
-   "st": "airing",
-   "at": "2026-11-09T18:00:00+09:00",
-   "sched": "Début le 9 nov. · lun.",
-   "cast": "Joy, Kim Hyun-jin, Shin Hyun-soo",
-   "txt": "Une romance où la chanteuse Joy (Red Velvet) joue l’un des rôles principaux 💖",
-   "url": "https://www.soompi.com/article/1883792wpp/14-new-k-dramas-to-watch-in-november-2026",
-   "src": "Soompi",
-   "idol": "Joy (Red Velvet)"
   }
  ]
 }
