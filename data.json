@@ -1,25 +1,15 @@
 {
- "updated": "2026-11-22T16:40:52.567Z",
+ "updated": "2026-11-23T04:41:58.887Z",
  "poll": {
-  "q": "Quel comeback attends-tu le plus cette semaine ? 🎧",
+  "q": "Quel comeback te tente le plus cette semaine ? 🎧",
   "o": [
-   "WENDY · Before Sunrise",
+   "WENDY · Gleam Hour",
    "KISS OF LIFE · Greedy",
-   "KIIRAS · OVER U",
-   "TAEYEON · Unspecial"
+   "TAEYEON · Unspecial",
+   "RIIZE x PLAVE · Lowkey"
   ]
  },
  "events": [
-  {
-   "id": "e21",
-   "g": "enhypen",
-   "type": "album",
-   "title": "Album physique « THE SIN : PARALLEL WORLD »",
-   "at": "2026-11-23T12:00:00+09:00",
-   "tbc": false,
-   "url": "https://sports.khan.co.kr/en/article/202610261511007/",
-   "src": "Sports Kyunghyang"
-  },
   {
    "id": "e17",
    "g": "straykids",
@@ -123,29 +113,69 @@
  ],
  "posts": [
   {
-   "id": "n62",
+   "id": "n63",
    "kind": "news",
-   "artist": "IVE",
-   "title": "IVE dévoile les coulisses de sa répétition pour les MMA 2026 🎀",
-   "at": "2026-11-19T20:11:00+09:00",
-   "c": "#ec4899",
-   "txt": "Le groupe a publié sur sa chaîne officielle une vidéo de répétition pour sa scène aux MMA 2026, avec « DEAR. CUPID », « BANG BANG » et « Looks Can Kill » et des dizaines de danseurs. IVE est repartie de la cérémonie du 15 novembre avec cinq trophées, dont la chanson de l'année pour « BANG BANG » ✨",
-   "url": "https://sports.khan.co.kr/en/article/202611192011007",
-   "src": "Sports Khan",
-   "img": "https://images.khan.co.kr/article/2026/11/19/news-p.v1.20261119.eb317da3076046c085c4f11d32365ec3_P1.jpg"
+   "vtype": "Coulisses",
+   "artist": "KATSEYE",
+   "title": "KATSEYE : Megan remonte sur scène à Austin, assise, après sa commotion cérébrale 💛",
+   "at": "2026-11-11T23:31:00-05:00",
+   "c": "#a78bfa",
+   "txt": "Megan a participé au concert d'Austin du 10 novembre depuis une chaise, avec des lunettes de soleil, pendant que ses partenaires assuraient la chorégraphie. Avant le show, elle a expliqué sur Weverse aller mieux mais poursuivre sa récupération, avec une chorégraphie réduite et des pauses, sur les conseils de ses médecins. Les dates de Chicago et Minneapolis restent reportées, sans nouvelle date annoncée dans les sources consultées. Des fans ont exprimé leur inquiétude, et Kesha a réagi publiquement en commentaire.",
+   "url": "https://www.musictimes.com/articles/113278/20261111/katseyes-megan-returns-seated-austin-performance-concussion-recovery-continues.htm",
+   "src": "Music Times",
+   "img": "https://d.musictimes.com/en/full/97767/monica-schipper-getty-images-victorias-secret.jpg"
   },
   {
-   "id": "v33",
-   "kind": "video",
-   "vtype": "mv",
-   "artist": "GIRLSET",
-   "title": "GIRLSET sort le single « young & dumb » avec son MV 💫",
-   "at": "2026-11-13T00:00:00+09:00",
-   "c": "#a855f7",
-   "txt": "Le single « young & dumb » est sorti à minuit le 13 novembre (heure de Séoul), avec un MV. Il a été coécrit par Lexi, Camila, Kendall et Savanna, pour une ambiance libre et pleine d'énergie 🎶",
-   "url": "https://www.youtube.com/results?search_query=GIRLSET+young+%26+dumb+MV",
-   "src": "Recherche YouTube",
-   "img": "https://images.khan.co.kr/article/2026/11/13/news-p.v1.20261113.34059399178c432c8df7db440acc9860_P1.jpg"
+   "id": "n64",
+   "kind": "news",
+   "vtype": "Coulisses",
+   "artist": "KATSEYE",
+   "title": "KATSEYE : Detroit, Chicago et Minneapolis reportés pendant la convalescence de Megan 🎟️",
+   "at": "2026-11-09T11:40:00-05:00",
+   "c": "#a78bfa",
+   "txt": "Le groupe a reporté ses concerts de Chicago et Minneapolis, après celui de Detroit annulé peu avant le début du show. Le label a pris la décision et le groupe s'est excusé auprès des fans qui avaient fait le déplacement. Les billets et packages VIP restent valables pour les nouvelles dates, et un remboursement est proposé à celles et ceux qui ne pourront pas venir.",
+   "url": "https://www.musictimes.com/articles/113245/20261109/katseye-postpone-chicago-minneapolis-shows-megan-recovers-concussion.htm",
+   "src": "Music Times",
+   "img": "https://d.musictimes.com/en/full/97213/lara-megan-daniela-yoonchae-katseye.jpg"
+  },
+  {
+   "id": "n65",
+   "kind": "news",
+   "vtype": "Solo",
+   "artist": "TWICE (Nayeon)",
+   "title": "Nayeon (TWICE) est de retour en solo avec le single album « NA-sty » 💖",
+   "at": "2026-11-20T14:00:00+09:00",
+   "c": "#ff6fb5",
+   "txt": "Nayeon a sorti le 20 novembre son single album « NA-sty », sa première sortie solo depuis le mini-album « NA » de juin 2024. Un film visuel avait été dévoilé avant la sortie pour faire monter l'attente.",
+   "url": "https://sports.khan.co.kr/en/article/202611010658007",
+   "src": "Sports Kyunghyang",
+   "img": "https://images.khan.co.kr/article/2026/11/01/news-p.v1.20261101.936595fcfcb64dc7bd06f252ffdc94bf_P1.jpg"
+  },
+  {
+   "id": "n66",
+   "kind": "news",
+   "vtype": "MV",
+   "artist": "TWS",
+   "title": "TWS : les coulisses du MV « Call My Name » sont en ligne 🎬",
+   "at": "2026-11-11T10:03:00+09:00",
+   "c": "#38bdf8",
+   "txt": "TWS a publié sur sa chaîne officielle les coulisses du tournage de « Call My Name », avec la scène de danse sur un passage piéton et l'ambiance déconneuse des membres. Selon l'article, le MV a dépassé les 10 millions de vues environ trois jours après sa sortie.",
+   "url": "https://sports.khan.co.kr/en/article/202611111003007",
+   "src": "Sports Kyunghyang",
+   "img": "https://images.khan.co.kr/article/2026/11/11/news-p.v1.20261111.c5476b1885e4474a9832b08c9c405049_P1.jpg"
+  },
+  {
+   "id": "a26",
+   "kind": "soon",
+   "vtype": "Single",
+   "artist": "RIIZE x PLAVE",
+   "title": "RIIZE et PLAVE s'unissent sur le single « Lowkey » le 30 novembre 🤝",
+   "at": "2026-11-30T12:00:00+09:00",
+   "c": "#f59e0b",
+   "txt": "SM Entertainment et Vlast annoncent la sortie de « Lowkey » le 30 novembre à midi (heure de Séoul), avec son MV. Les 11 membres chantent sur ce titre house aux touches UK garage, dont les paroles sont signées Kenzie.",
+   "url": "https://www.koreaherald.com/article/10939050",
+   "src": "The Korea Herald",
+   "img": "https://wimg.heraldcorp.com/news/cms/2026/11/16/news-p.v1.20261116.532438c13f8a40a896b042eafa53f412_P1.jpg"
   },
   {
    "id": "n60",
@@ -158,18 +188,6 @@
    "txt": "Au terme de deux soirées au Kyocera Dome d'Osaka, les quatre Daesang sont attribués 👑 Artiste de l'année : BTS. Album de l'année : BTS pour « ARIRANG ». Chanson de l'année : CORTIS pour « REDRED ». Fans' Choice of the Year : ENHYPEN 💜",
    "url": "https://www.musiquealliance.fr/32865-mama-awards-2026-bts-cortis-bigbang-palmares-osaka.html",
    "src": "Musique Alliance"
-  },
-  {
-   "id": "n61",
-   "kind": "news",
-   "vtype": "Résultats",
-   "artist": "MAMA Awards 2026",
-   "title": "MAMA 2026 : BTS en tête avec 5 trophées, CORTIS en compte 4 ✨",
-   "at": "2026-11-21T20:24:00+01:00",
-   "c": "#7a4bd6",
-   "txt": "BTS repart avec cinq trophées (dont les deux Daesang Artiste et Album de l'année), devant CORTIS (quatre prix) puis BIGBANG, ENHYPEN, ILLIT et LE SSERAFIM, trois distinctions chacun. Jour 1 : Yeonjun (TXT) meilleur artiste masculin et Soyeon (i-dle) meilleure artiste féminine. Jour 2 : BIGBANG, Taeyang, ILLIT, LE SSERAFIM, HWASA et ZEROBASEONE récompensés. La cérémonie était présentée par Park Bo-gum et diffusée sur France 4 🎬",
-   "url": "https://philstarlife.com/celebrity/539828-list-winners-2026-mama-awards",
-   "src": "PhilSTAR Life · Musique Alliance"
   },
   {
    "id": "n49",
@@ -353,18 +371,6 @@
    "src": "Soompi"
   },
   {
-   "id": "c11",
-   "kind": "live",
-   "vtype": "Concert",
-   "artist": "KPop Demon Hunters",
-   "title": "KPop Demon Hunters Golden World Tour à Paris le 5 octobre 2027 ✨",
-   "at": "2027-10-05T20:00:00+02:00",
-   "c": "#7c5cff",
-   "txt": "La tournée événement s'arrête à la Plenitude Arena (Paris La Défense) le 5 octobre 2027, produite par AEG Presents avec Netflix. Les artistes présents à Paris n'ont pas encore été annoncés. Heure à confirmer.",
-   "url": "https://www.defense-92.fr/?p=89232",
-   "src": "Défense 92"
-  },
-  {
    "id": "n45",
    "kind": "news",
    "vtype": "",
@@ -387,30 +393,6 @@
    "c": "#ff9f1c",
    "txt": "Le mini-album « GOLDEN HOUR : Part.6 » franchit un cap historique pour le groupe dès sa première semaine. Belle récompense pour les ATINY 💙",
    "url": "https://www.soompi.com/article/1889008wpp/ateez-surpasses-2-million-1st-week-sales-for-1st-time-with-golden-hour-part-6",
-   "src": "Soompi"
-  },
-  {
-   "id": "n43",
-   "kind": "news",
-   "vtype": "",
-   "artist": "WayV",
-   "title": "WayV annonce les villes de sa tournée américaine 2027 « BORN THIS Way » 🇺🇸",
-   "at": "2026-11-20T08:30:00+09:00",
-   "c": "#06b6d4",
-   "txt": "Le groupe a dévoilé les dates et les villes de sa tournée nord-américaine de 2027. Les fans français croisent les doigts pour une date en Europe ✨",
-   "url": "https://www.soompi.com/article/1888986wpp/wayv-announces-2027-u-s-tour-dates-and-cities-for-born-this-way",
-   "src": "Soompi"
-  },
-  {
-   "id": "n44",
-   "kind": "news",
-   "vtype": "",
-   "artist": "BIGBANG",
-   "title": "BIGBANG surprend ses fans avec des teasers pour un nouveau single digital 👑",
-   "at": "2026-11-20T00:15:00+09:00",
-   "c": "#facc15",
-   "txt": "Le groupe a publié des teasers pour un nouveau single digital, sans attendre. Les VIP sont en ébullition 💛",
-   "url": "https://www.soompi.com/article/1888937wpp/bigbang-surprises-with-teasers-for-new-digital-single",
    "src": "Soompi"
   },
   {
@@ -542,7 +524,7 @@
    "id": "d18",
    "title": "The Substitute",
    "pf": "Viki",
-   "st": "soon",
+   "st": "airing",
    "at": "2026-11-23T20:00:00+09:00",
    "sched": "Début le 23 nov. · tous les lundis",
    "cast": "Bae Hyeon Seong, Cha Kang Yoon, Park Yoon Ho, Uhm Ji Won",
