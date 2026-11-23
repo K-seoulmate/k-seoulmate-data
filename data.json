@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:41:07.360Z",
+ "updated": "2026-11-23T16:41:39.895Z",
  "poll": {
   "q": "Quel comeback te tente le plus cette semaine ? 🎧",
   "o": [
@@ -113,17 +113,30 @@
  ],
  "posts": [
   {
-   "id": "n63",
+   "id": "n67",
    "kind": "news",
-   "vtype": "Coulisses",
-   "artist": "KATSEYE",
-   "title": "KATSEYE : Megan remonte sur scène à Austin, assise, après sa commotion cérébrale 💛",
-   "at": "2026-11-11T23:31:00-05:00",
-   "c": "#a78bfa",
-   "txt": "Megan a participé au concert d'Austin du 10 novembre depuis une chaise, avec des lunettes de soleil, pendant que ses partenaires assuraient la chorégraphie. Avant le show, elle a expliqué sur Weverse aller mieux mais poursuivre sa récupération, avec une chorégraphie réduite et des pauses, sur les conseils de ses médecins. Les dates de Chicago et Minneapolis restent reportées, sans nouvelle date annoncée dans les sources consultées. Des fans ont exprimé leur inquiétude, et Kesha a réagi publiquement en commentaire.",
-   "url": "https://www.musictimes.com/articles/113278/20261111/katseyes-megan-returns-seated-austin-performance-concussion-recovery-continues.htm",
-   "src": "Music Times",
-   "img": "https://d.musictimes.com/en/full/97767/monica-schipper-getty-images-victorias-secret.jpg"
+   "vtype": "Performance",
+   "artist": "IVE",
+   "title": "IVE dévoile les répétitions de sa performance aux Melon Music Awards 🏆",
+   "at": "2026-11-19T20:11:00+09:00",
+   "c": "#ff4fa3",
+   "txt": "IVE a publié sur sa chaîne officielle une vidéo de répétition de sa prestation aux Melon Music Awards 2026, avec un grand ensemble de danseurs. Le groupe a remporté cinq prix lors de la cérémonie du 15 novembre, dont la chanson de l'année pour « BANG BANG ».",
+   "url": "https://sports.khan.co.kr/en/article/202611192011007",
+   "src": "Sports Khan",
+   "img": "https://images.khan.co.kr/article/2026/11/19/news-p.v1.20261119.eb317da3076046c085c4f11d32365ec3_P1.jpg"
+  },
+  {
+   "id": "n68",
+   "kind": "news",
+   "vtype": "Performance",
+   "artist": "TOMORROW X TOGETHER",
+   "title": "TXT dévoile la performance de « Angel Bite » sur Studio Choom 💃",
+   "at": "2026-11-17T18:00:00+09:00",
+   "c": "#7c5cff",
+   "txt": "Après le MV sorti le 16 novembre, TXT publie la vidéo de performance de « Angel Bite », extraite du mini-album « PERFECT STORM ». D'après Sports Khan, le groupe sort de la chorégraphie parfaitement synchronisée habituelle de la K-pop. Le MV a dépassé les 10 millions de vues en deux jours.",
+   "url": "https://sports.khan.co.kr/en/article/202611190009007",
+   "src": "Sports Khan",
+   "img": "https://images.khan.co.kr/article/2026/11/19/news-p.v1.20261119.a3e16308e1164a15ae2e24109608761e_P1.jpg"
   },
   {
    "id": "n65",
@@ -137,19 +150,6 @@
    "url": "https://sports.khan.co.kr/en/article/202611010658007",
    "src": "Sports Kyunghyang",
    "img": "https://images.khan.co.kr/article/2026/11/01/news-p.v1.20261101.936595fcfcb64dc7bd06f252ffdc94bf_P1.jpg"
-  },
-  {
-   "id": "n66",
-   "kind": "news",
-   "vtype": "MV",
-   "artist": "TWS",
-   "title": "TWS : les coulisses du MV « Call My Name » sont en ligne 🎬",
-   "at": "2026-11-11T10:03:00+09:00",
-   "c": "#38bdf8",
-   "txt": "TWS a publié sur sa chaîne officielle les coulisses du tournage de « Call My Name », avec la scène de danse sur un passage piéton et l'ambiance déconneuse des membres. Selon l'article, le MV a dépassé les 10 millions de vues environ trois jours après sa sortie.",
-   "url": "https://sports.khan.co.kr/en/article/202611111003007",
-   "src": "Sports Kyunghyang",
-   "img": "https://images.khan.co.kr/article/2026/11/11/news-p.v1.20261111.c5476b1885e4474a9832b08c9c405049_P1.jpg"
   },
   {
    "id": "a26",
@@ -250,17 +250,6 @@
    "txt": "La tournée « BLOOD SAGA » passe par Paris La Défense Arena, à Nanterre 🦇 Heure à confirmer.",
    "url": "https://www.parisladefense.com/en/news/events/enhyphen-concert-paris-defense-arena-saturday-february-27-2027",
    "src": "Paris La Défense"
-  },
-  {
-   "id": "a15",
-   "kind": "soon",
-   "artist": "WENDY (Red Velvet)",
-   "title": "Wendy revient avec le mini-album « Gleam Hour »",
-   "at": "2026-11-23T18:00:00+09:00",
-   "c": "#FF6B6B",
-   "txt": "Le 4e mini-album solo de Wendy est prévu pour le 23 novembre, avec « Before Sunrise » en titre phare 🌟",
-   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
-   "src": "KpopOfficial"
   },
   {
    "id": "a17",
