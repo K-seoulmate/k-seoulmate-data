@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-23T16:41:39.895Z",
+ "updated": "2026-11-24T04:46:27.067Z",
  "poll": {
-  "q": "Quel comeback te tente le plus cette semaine ? 🎧",
+  "q": "Quel MV de la semaine te donne le plus envie ? 🎬",
   "o": [
-   "WENDY · Gleam Hour",
-   "KISS OF LIFE · Greedy",
-   "TAEYEON · Unspecial",
-   "RIIZE x PLAVE · Lowkey"
+   "WENDY · Before Sunrise",
+   "NAYEON · BABY ANGEL",
+   "ENHYPEN · I Want You",
+   "KISS OF LIFE · Greedy"
   ]
  },
  "events": [
@@ -112,6 +112,55 @@
   }
  ],
  "posts": [
+  {
+   "id": "v33",
+   "kind": "video",
+   "vtype": "MV",
+   "artist": "WENDY (Red Velvet)",
+   "title": "WENDY est de retour avec « Before Sunrise » 🌅",
+   "at": "2026-11-23T18:00:00+09:00",
+   "c": "#ff8fb1",
+   "txt": "Wendy de Red Velvet sort son 4e mini-album « Gleam Hour », porté par le titre « Before Sunrise ». Direction YouTube pour découvrir le MV ! 🎧",
+   "url": "https://www.youtube.com/results?search_query=WENDY+Before+Sunrise+MV",
+   "src": "Recherche YouTube"
+  },
+  {
+   "id": "v34",
+   "kind": "video",
+   "vtype": "MV",
+   "artist": "NAYEON (TWICE)",
+   "title": "NAYEON dévoile « BABY ANGEL » 😇",
+   "at": "2026-11-20T14:00:00+09:00",
+   "c": "#ff4fa3",
+   "txt": "Nayeon de TWICE revient en solo avec le single album « NA-sty » et son titre « BABY ANGEL ». Le MV est à retrouver sur YouTube.",
+   "url": "https://www.youtube.com/results?search_query=NAYEON+BABY+ANGEL+MV",
+   "src": "Recherche YouTube"
+  },
+  {
+   "id": "v35",
+   "kind": "video",
+   "vtype": "MV",
+   "artist": "ENHYPEN",
+   "title": "ENHYPEN : le MV de « I Want You » est là 🖤",
+   "at": "2026-11-20T18:00:00+09:00",
+   "c": "#7a5cff",
+   "txt": "Le single spin-off « THE SIN : PARALLEL WORLD » clôt la série « THE SIN », 3e comeback de l'année pour ENHYPEN. Le titre : « I Want You ».",
+   "url": "https://www.youtube.com/results?search_query=ENHYPEN+I+Want+You+MV",
+   "src": "Recherche YouTube",
+   "img": "https://newsimg.koreatimes.co.kr/2026/11/09/bde8e0ae-ee46-4cf0-920e-7ad925d18f06.jpg"
+  },
+  {
+   "id": "v36",
+   "kind": "video",
+   "vtype": "Single",
+   "artist": "1VERSE",
+   "title": "1VERSE sort « Dancing in the Rain » en pré-sortie ☔",
+   "at": "2026-11-24T12:00:00+09:00",
+   "c": "#22c3ee",
+   "txt": "Avant son 1er EP « UNCHARTED » (9 décembre), 1VERSE dévoile le single « Dancing in the Rain ». À écouter dès maintenant !",
+   "url": "https://www.youtube.com/results?search_query=1VERSE+Dancing+in+the+Rain",
+   "src": "Recherche YouTube"
+  },
   {
    "id": "n67",
    "kind": "news",
@@ -464,7 +513,7 @@
    "id": "d13",
    "title": "Crash 2",
    "pf": "Disney+",
-   "st": "new",
+   "st": "airing",
    "at": "2026-11-16T22:00:00+09:00",
    "sched": "Début le 16 nov. · lun. et mar.",
    "cast": "Lee Min-ki, Kwak Sun-young",
@@ -500,7 +549,7 @@
    "id": "d18",
    "title": "The Substitute",
    "pf": "Viki",
-   "st": "airing",
+   "st": "new",
    "at": "2026-11-23T20:00:00+09:00",
    "sched": "Début le 23 nov. · tous les lundis",
    "cast": "Bae Hyeon Seong, Cha Kang Yoon, Park Yoon Ho, Uhm Ji Won",
