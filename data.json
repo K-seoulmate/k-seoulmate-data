@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T04:46:27.067Z",
+ "updated": "2026-11-24T09:46:34.987Z",
  "poll": {
   "q": "Quel MV de la semaine te donne le plus envie ? 🎬",
   "o": [
@@ -112,6 +112,19 @@
   }
  ],
  "posts": [
+  {
+   "id": "v37",
+   "kind": "video",
+   "vtype": "Single",
+   "artist": "CL",
+   "title": "CL revient en solo avec le single « ICONIC » 🖤",
+   "at": "2026-11-20T18:00:00+09:00",
+   "c": "#ff2d87",
+   "txt": "CL signe son grand retour solo après cinq ans avec le single digital « ICONIC », sorti le 20 novembre à 18 h (heure de Séoul), sa première sortie depuis son arrivée chez The Black Label. Retrouve le titre et son univers visuel sur YouTube ✨",
+   "url": "https://www.youtube.com/results?search_query=CL+ICONIC+MV",
+   "src": "Recherche YouTube",
+   "img": "https://wimg.heraldcorp.com/news/cms/2026/11/17/news-p.v1.20261117.9e1f0c7d528649f29a8b7411f057674b_P1.png"
+  },
   {
    "id": "v33",
    "kind": "video",
