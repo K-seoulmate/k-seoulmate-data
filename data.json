@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T04:46:50.735Z",
+ "updated": "2026-11-25T09:41:41.526Z",
  "poll": {
   "q": "Quelle sortie de la semaine t'attire le plus ? 🎧",
   "o": [
@@ -310,18 +310,6 @@
    "img": "https://kpopofficial.com/wp-content/uploads/2026/11/Kpop-Comeback-Schedule-December-2026.webp"
   },
   {
-   "id": "a21",
-   "kind": "soon",
-   "vtype": "Single",
-   "artist": "KISS OF LIFE",
-   "title": "KISS OF LIFE revient avec le single d'hiver « Greedy » ❄️",
-   "at": "2026-11-25T18:00:00+09:00",
-   "c": "#ff4d8d",
-   "txt": "Un single numérique d'hiver est annoncé pour le 25 novembre à 18 h heure de Séoul. Les fans de KISS OF LIFE vont se régaler 💋",
-   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
-   "src": "KpopOfficial"
-  },
-  {
    "id": "v31",
    "kind": "video",
    "vtype": "mv",
@@ -477,6 +465,18 @@
    "txt": "Solar et Moonbyul de MAMAMOO ainsi que Oh My Girl sont annoncées pour ce premier concert « famille » de l'agence depuis trois ans, prévu à Taïwan.",
    "url": "https://www.koreajoongangdaily.com/entertainment/rbw-gathers-mamamoos-solar-and-moonbyul-oh-my-girl-first-family-concert-in-three-years/12988103",
    "src": "Korea JoongAng Daily"
+  },
+  {
+   "id": "v39",
+   "kind": "video",
+   "vtype": "Single",
+   "artist": "KISS OF LIFE",
+   "title": "KISS OF LIFE dévoile « Greedy », son premier single d'hiver ❄️",
+   "at": "2026-11-25T18:00:00+09:00",
+   "c": "#ff4d8d",
+   "txt": "Le single d'hiver « Greedy » était annoncé pour le 25 novembre à 18 h heure de Séoul, après un teaser animé au style rétro. Direction YouTube pour le découvrir 💋",
+   "url": "https://www.youtube.com/results?search_query=KISS+OF+LIFE+Greedy+MV",
+   "src": "Recherche YouTube"
   }
  ],
  "dramas": [
