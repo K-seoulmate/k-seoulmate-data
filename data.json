@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-24T09:46:34.987Z",
+ "updated": "2026-11-25T04:46:50.735Z",
  "poll": {
-  "q": "Quel MV de la semaine te donne le plus envie ? 🎬",
+  "q": "Quelle sortie de la semaine t'attire le plus ? 🎧",
   "o": [
-   "WENDY · Before Sunrise",
-   "NAYEON · BABY ANGEL",
-   "ENHYPEN · I Want You",
-   "KISS OF LIFE · Greedy"
+   "KISS OF LIFE · Greedy",
+   "TAEYEON · Unspecial",
+   "KIIRAS · OVER U",
+   "1VERSE · Dancing in the Rain"
   ]
  },
  "events": [
@@ -175,32 +175,6 @@
    "src": "Recherche YouTube"
   },
   {
-   "id": "n67",
-   "kind": "news",
-   "vtype": "Performance",
-   "artist": "IVE",
-   "title": "IVE dévoile les répétitions de sa performance aux Melon Music Awards 🏆",
-   "at": "2026-11-19T20:11:00+09:00",
-   "c": "#ff4fa3",
-   "txt": "IVE a publié sur sa chaîne officielle une vidéo de répétition de sa prestation aux Melon Music Awards 2026, avec un grand ensemble de danseurs. Le groupe a remporté cinq prix lors de la cérémonie du 15 novembre, dont la chanson de l'année pour « BANG BANG ».",
-   "url": "https://sports.khan.co.kr/en/article/202611192011007",
-   "src": "Sports Khan",
-   "img": "https://images.khan.co.kr/article/2026/11/19/news-p.v1.20261119.eb317da3076046c085c4f11d32365ec3_P1.jpg"
-  },
-  {
-   "id": "n68",
-   "kind": "news",
-   "vtype": "Performance",
-   "artist": "TOMORROW X TOGETHER",
-   "title": "TXT dévoile la performance de « Angel Bite » sur Studio Choom 💃",
-   "at": "2026-11-17T18:00:00+09:00",
-   "c": "#7c5cff",
-   "txt": "Après le MV sorti le 16 novembre, TXT publie la vidéo de performance de « Angel Bite », extraite du mini-album « PERFECT STORM ». D'après Sports Khan, le groupe sort de la chorégraphie parfaitement synchronisée habituelle de la K-pop. Le MV a dépassé les 10 millions de vues en deux jours.",
-   "url": "https://sports.khan.co.kr/en/article/202611190009007",
-   "src": "Sports Khan",
-   "img": "https://images.khan.co.kr/article/2026/11/19/news-p.v1.20261119.a3e16308e1164a15ae2e24109608761e_P1.jpg"
-  },
-  {
    "id": "n65",
    "kind": "news",
    "vtype": "Solo",
@@ -250,19 +224,6 @@
    "url": "https://www.koreaherald.com/article/10943077",
    "src": "The Korea Herald",
    "img": "https://wimg.heraldcorp.com/news/cms/2026/11/19/news-p.v1.20261119.41b8deed675d4bd3963c463826d99420_P1.jpg"
-  },
-  {
-   "id": "n50",
-   "kind": "news",
-   "vtype": "Coulisses",
-   "artist": "MAMA Awards 2026",
-   "title": "MAMA Awards 2026 : deux soirées en direct sur France 4 et france.tv 📺",
-   "at": "2026-11-18T05:24:00+01:00",
-   "c": "#ffb703",
-   "txt": "La cérémonie se tient au Kyocera Dome d'Osaka et France 4 la diffuse à 21 h le vendredi 20 novembre puis à 18 h le samedi 21 novembre. france.tv propose la couverture complète en direct, tapis rouge compris. Le commentaire est assuré par Marie Palot et Laël Song, avec notamment ENHYPEN, IVE, BIGBANG et LE SSERAFIM annoncés au programme.",
-   "url": "https://www.serie-news.com/tnt/france-4-tnt/72872-mama-awards-2026-sur-france-4-la-grande-ceremonie-de-la-k-pop-en-direct-dosaka-18-11-2026/",
-   "src": "Serie-News",
-   "img": "https://www.serie-news.com/app/uploads/2026/11/sn-79288421-une.webp"
   },
   {
    "id": "n47",
@@ -470,16 +431,52 @@
    "src": "Recherche YouTube"
   },
   {
-   "id": "n70",
+   "id": "n71",
    "kind": "news",
-   "vtype": "Documentaire",
-   "artist": "LISA (BLACKPINK)",
-   "title": "« Always Lalisa » : le documentaire de LISA est disponible sur YouTube Premium 🎞️",
-   "at": "2026-11-18T15:00:00+01:00",
-   "c": "#e8423f",
-   "txt": "Le documentaire « Always Lalisa » est arrivé le 18 novembre en exclusivité sur YouTube Premium, après sa sortie en salles. Il suit sa première année en solo, loin de BLACKPINK. Son nouveau single « Leave With Me », composé pour le film, est sorti le même jour.",
-   "url": "https://blog.youtube/culture-and-trends/youtube-premium-always-lalisa-documentary/",
-   "src": "YouTube Blog"
+   "vtype": "Coulisses",
+   "artist": "KATSEYE",
+   "title": "KATSEYE ajoute 5 dates à sa tournée mondiale « The Wildworld Tour » 🌍",
+   "at": "2026-11-24T12:00:00+09:00",
+   "c": "#ff6fb5",
+   "txt": "Après des premières dates complètes, le groupe annonce cinq concerts supplémentaires en Asie et en Océanie, à Manille, en Australie et en Nouvelle-Zélande. La tournée passe ainsi à 16 shows. De quoi réjouir les fans qui n'avaient pas pu avoir de places ✨",
+   "url": "https://www.koreajoongangdaily.com/entertainment/katseye-adds-five-asia-and-oceania-dates-to-soldout-world-tour/12987652",
+   "src": "Korea JoongAng Daily"
+  },
+  {
+   "id": "n72",
+   "kind": "news",
+   "vtype": "Record",
+   "artist": "TOMORROW X TOGETHER",
+   "title": "TXT signe un 15e n°1 d'affilée à l'Oricon au Japon 🏆",
+   "at": "2026-11-24T12:00:00+09:00",
+   "c": "#5ac8fa",
+   "txt": "Le 9e mini-album « Perfect Storm » entre directement en tête du classement hebdomadaire d'albums de l'Oricon. C'est un 15e n°1 consécutif, ce qui prolonge le record du groupe pour un artiste international. Bravo aux MOA 💙",
+   "url": "https://www.koreajoongangdaily.com/entertainment/tomorrow-x-together-extends-oricon-record-with-15th-consecutive-no-1-album/12987825",
+   "src": "Korea JoongAng Daily"
+  },
+  {
+   "id": "n73",
+   "kind": "news",
+   "vtype": "Duo",
+   "artist": "SEVENTEEN (Jeonghan)",
+   "title": "Jeonghan (SEVENTEEN) sort un duo avec Ryosuke Yamada le 14 décembre 🎶",
+   "at": "2026-11-24T12:00:00+09:00",
+   "c": "#9b8cff",
+   "txt": "Le duo avec le chanteur japonais Ryosuke Yamada sort le 14 décembre. Les deux artistes sont aussi annoncés au grand festival musical de fin d'année de Fuji TV, le 9 décembre.",
+   "url": "https://www.koreajoongangdaily.com/entertainment/seventeens-jeonghan-to-release-duet-with-japanese-singer-ryosuke-yamada-on-dec-14/12987716",
+   "src": "Korea JoongAng Daily"
+  },
+  {
+   "id": "n74",
+   "kind": "news",
+   "vtype": "Concert",
+   "artist": "RBW Family",
+   "title": "RBW prépare un « Family Concert » à Taipei le 13 février 2027 🎤",
+   "at": "2026-11-24T12:00:00+09:00",
+   "c": "#ffb703",
+   "txt": "Solar et Moonbyul de MAMAMOO ainsi que Oh My Girl sont annoncées pour ce premier concert « famille » de l'agence depuis trois ans, prévu à Taïwan.",
+   "url": "https://www.koreajoongangdaily.com/entertainment/rbw-gathers-mamamoos-solar-and-moonbyul-oh-my-girl-first-family-concert-in-three-years/12988103",
+   "src": "Korea JoongAng Daily"
   }
  ],
  "dramas": [
@@ -610,7 +607,7 @@
    "id": "d21",
    "title": "Nine to Six",
    "pf": "Prime Video",
-   "st": "soon",
+   "st": "new",
    "at": "2026-11-25T21:00:00+09:00",
    "sched": "Début le 25 nov. · mercredis et jeudis · 12 épisodes",
    "cast": "Distribution à confirmer",
@@ -624,7 +621,7 @@
    "pf": "Netflix",
    "st": "soon",
    "at": "2026-12-11T17:00:00+09:00",
-   "sched": "Début le 11 déc.",
+   "sched": "Part 1 le 11 déc. · parties suivantes les 18 et 25 déc.",
    "cast": "Song Hye-kyo, Gong Yoo, Kim Seol-hyun, Cha Seung-won",
    "txt": "Entre les années 1960 et 1980, une jeune fille pauvre et son ami d’enfance se lancent dans le monde de la musique 🎶",
    "url": "https://www.esquireindia.co.in/entertainment/what-to-stream/5-upcoming-k-drama-ott-releases-november-december-2026-remarried-empress-one-of-a-kind-romance-gift-sacred-jewel-tantara",
