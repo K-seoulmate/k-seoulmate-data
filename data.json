@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T09:41:41.526Z",
+ "updated": "2026-11-25T16:42:46.288Z",
  "poll": {
   "q": "Quelle sortie de la semaine t'attire le plus ? 🎧",
   "o": [
@@ -476,6 +476,18 @@
    "c": "#ff4d8d",
    "txt": "Le single d'hiver « Greedy » était annoncé pour le 25 novembre à 18 h heure de Séoul, après un teaser animé au style rétro. Direction YouTube pour le découvrir 💋",
    "url": "https://www.youtube.com/results?search_query=KISS+OF+LIFE+Greedy+MV",
+   "src": "Recherche YouTube"
+  },
+  {
+   "id": "v40",
+   "kind": "video",
+   "vtype": "Single",
+   "artist": "izna",
+   "title": "izna fête ses 2 ans avec « IWALY » (« Let It Remain as Love ») 💌",
+   "at": "2026-11-25T18:00:00+09:00",
+   "c": "#a78bfa",
+   "txt": "Pour le 2e anniversaire de leurs débuts, les izna dévoilent le single digital spécial « IWALY », titre de leur campagne anniversaire. Direction YouTube pour le retrouver ✨",
+   "url": "https://www.youtube.com/results?search_query=izna+IWALY+MV",
    "src": "Recherche YouTube"
   }
  ],
