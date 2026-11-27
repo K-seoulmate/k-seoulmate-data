@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:47:17.064Z",
+ "updated": "2026-11-27T09:47:45.256Z",
  "poll": {
   "q": "Quelle sortie de la semaine t'attire le plus ? 🎧",
   "o": [
@@ -278,30 +278,6 @@
    "img": "https://kpopofficial.com/wp-content/uploads/2026/11/Kpop-Comeback-Schedule-December-2026.webp"
   },
   {
-   "id": "v31",
-   "kind": "video",
-   "vtype": "mv",
-   "artist": "AMPERS&ONE",
-   "title": "AMPERS&ONE sort son 1er album « PATHFINDER » avec le titre « King's Way » 👑",
-   "at": "2026-11-17T18:00:00+09:00",
-   "c": "#7c4dff",
-   "txt": "Le groupe passe un cap avec un premier album complet ! Le titre « King's Way » ouvre un nouveau chapitre, à écouter et à regarder dès maintenant 🎶",
-   "url": "https://www.youtube.com/results?search_query=AMPERS%26ONE+King%27s+Way+MV",
-   "src": "Recherche YouTube"
-  },
-  {
-   "id": "v32",
-   "kind": "video",
-   "vtype": "mv",
-   "artist": "I.N (Stray Kids)",
-   "title": "I.N (Stray Kids) dévoile le single « NO RETURN » 🔥",
-   "at": "2026-11-17T18:00:00+09:00",
-   "c": "#ff4d6d",
-   "txt": "Le plus jeune de Stray Kids sort un single numérique en solo : de quoi patienter avant le concert parisien de 2027 💫",
-   "url": "https://www.youtube.com/results?search_query=I.N+Stray+Kids+NO+RETURN+MV",
-   "src": "Recherche YouTube"
-  },
-  {
    "id": "c9",
    "kind": "live",
    "vtype": "Cérémonie",
@@ -471,6 +447,32 @@
    "url": "https://stereogum.com/2517694/katseyes-megan-performs-seated-and-wearing-sunglasses-after-concussion/news",
    "src": "Stereogum",
    "img": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/Mobile-SOCIAL.jpeg"
+  },
+  {
+   "id": "v41",
+   "kind": "video",
+   "vtype": "MV",
+   "artist": "NAYEON (TWICE)",
+   "title": "NAYEON dévoile le MV de « BOY » 💙",
+   "at": "2026-11-26T13:00:00+09:00",
+   "c": "#ff4fa3",
+   "txt": "Après « BABY ANGEL », Nayeon de TWICE publie le MV de « BOY », titre du single album « NA-sty », avec Kim Jae-won. Heure exacte non précisée par la source (« l'après-midi du 26 »). Direction YouTube pour le regarder ✨",
+   "url": "https://www.youtube.com/results?search_query=NAYEON+BOY+MV",
+   "src": "Recherche YouTube",
+   "img": "https://cdn.topstarnews.net/news/photo/202611/16287578_2101044_2033_crop.jpg"
+  },
+  {
+   "id": "v42",
+   "kind": "video",
+   "vtype": "Teaser",
+   "artist": "TAEYEON",
+   "title": "TAEYEON dévoile le teaser du MV de « Unspecial » 🎬",
+   "at": "2026-11-27T00:00:00+09:00",
+   "c": "#7b6cf6",
+   "txt": "Le teaser du MV de « Unspecial », titre phare du 4e album complet de TAEYEON, est en ligne depuis le 27 novembre sur la chaîne YouTube SMTOWN. L'album sort le 30 novembre ; un pop-up est prévu à Séoul du 1er au 7 décembre 💜",
+   "url": "https://www.youtube.com/results?search_query=TAEYEON+Unspecial+MV+teaser",
+   "src": "Recherche YouTube",
+   "img": "https://cdn.topstarnews.net/news/photo/202611/16287583_2101056_2225_crop.jpg"
   }
  ],
  "dramas": [
