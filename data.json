@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T04:41:49.348Z",
+ "updated": "2026-11-27T04:47:17.064Z",
  "poll": {
   "q": "Quelle sortie de la semaine t'attire le plus ? 🎧",
   "o": [
@@ -194,18 +194,6 @@
    "img": "https://wimg.heraldcorp.com/news/cms/2026/11/16/news-p.v1.20261116.532438c13f8a40a896b042eafa53f412_P1.jpg"
   },
   {
-   "id": "n60",
-   "kind": "news",
-   "vtype": "Résultats",
-   "artist": "MAMA Awards 2026",
-   "title": "MAMA Awards 2026 : BTS, CORTIS et ENHYPEN décrochent les 4 grands prix 🏆",
-   "at": "2026-11-21T20:25:00+01:00",
-   "c": "#ff2e93",
-   "txt": "Au terme de deux soirées au Kyocera Dome d'Osaka, les quatre Daesang sont attribués 👑 Artiste de l'année : BTS. Album de l'année : BTS pour « ARIRANG ». Chanson de l'année : CORTIS pour « REDRED ». Fans' Choice of the Year : ENHYPEN 💜",
-   "url": "https://www.musiquealliance.fr/32865-mama-awards-2026-bts-cortis-bigbang-palmares-osaka.html",
-   "src": "Musique Alliance"
-  },
-  {
    "id": "n49",
    "kind": "news",
    "vtype": "Coulisses",
@@ -229,19 +217,6 @@
    "url": "https://sports.khan.co.kr/en/article/202611010812007",
    "src": "Sports Kyunghyang",
    "img": "https://newsimg.koreatimes.co.kr/2026/11/09/bde8e0ae-ee46-4cf0-920e-7ad925d18f06.jpg"
-  },
-  {
-   "id": "a10",
-   "kind": "video",
-   "vtype": "MV",
-   "artist": "TOMORROW X TOGETHER",
-   "title": "TXT est de retour avec « Angel Bite » et le mini-album « PERFECT STORM » ⛈️",
-   "at": "2026-11-16T18:00:00+09:00",
-   "c": "#3fa9f5",
-   "txt": "Le 9e mini-album de TXT, « PERFECT STORM », est sorti le 16 novembre, avec « Angel Bite » en titre phare. Plonge dans l'album ! 💙",
-   "url": "https://www.youtube.com/results?search_query=TXT+Angel+Bite+MV",
-   "src": "Recherche YouTube",
-   "img": "https://newsimg.koreatimes.co.kr/2026/11/05/f8e08ff5-a7c6-49de-a613-9213c3aa7e55.jpg"
   },
   {
    "id": "c5",
@@ -364,28 +339,16 @@
    "img": "https://0.soompi.io/wp-content/uploads/2026/11/21170526/zerobaseone-2.jpeg"
   },
   {
-   "id": "n42",
-   "kind": "news",
-   "vtype": "",
-   "artist": "ATEEZ",
-   "title": "ATEEZ dépasse les 2 millions de ventes en première semaine pour la première fois 🏴‍☠️",
-   "at": "2026-11-20T09:00:00+09:00",
-   "c": "#ff9f1c",
-   "txt": "Le mini-album « GOLDEN HOUR : Part.6 » franchit un cap historique pour le groupe dès sa première semaine. Belle récompense pour les ATINY 💙",
-   "url": "https://www.soompi.com/article/1889008wpp/ateez-surpasses-2-million-1st-week-sales-for-1st-time-with-golden-hour-part-6",
-   "src": "Soompi"
-  },
-  {
    "id": "a24",
-   "kind": "soon",
+   "kind": "video",
    "vtype": "Single",
    "artist": "KIIRAS",
-   "title": "KIIRAS revient avec le single album « OVER U » 💫",
+   "title": "KIIRAS sort le single album « OVER U » 💫",
    "at": "2026-11-26T18:00:00+09:00",
    "c": "#ec4899",
-   "txt": "Un deuxième single album numérique est annoncé pour le 26 novembre à 18 h heure de Séoul.",
-   "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
-   "src": "KpopOfficial"
+   "txt": "Le deuxième single album numérique de KIIRAS est sorti le 26 novembre à 18 h heure de Séoul. À découvrir sur les plateformes et la chaîne YouTube du groupe !",
+   "url": "https://www.youtube.com/results?search_query=KIIRAS+OVER+U+MV",
+   "src": "Recherche YouTube"
   },
   {
    "id": "a25",
@@ -495,6 +458,19 @@
    "url": "https://www.koreajoongangdaily.com/entertainment/ive-kiiikiii-and-jennie-earn-grammy-nominations/12973440",
    "src": "Korea JoongAng Daily",
    "img": "https://image.koreajoongangdaily.com/12877441.jpg?imageId=12877441&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+  },
+  {
+   "id": "n75",
+   "kind": "news",
+   "vtype": "Coulisses",
+   "artist": "KATSEYE",
+   "title": "KATSEYE : Megan remonte sur scène en restant assise, après une commotion cérébrale",
+   "at": "2026-11-11T22:00:00+01:00",
+   "c": "#ff4fa3",
+   "txt": "Après trois concerts reportés (Detroit, Chicago, Minneapolis), KATSEYE a repris sa tournée le 10 novembre à Austin. Megan, qui avait annoncé une commotion cérébrale, a chanté assise et avec des lunettes de soleil. Elle explique avoir adapté sa participation, avec une chorégraphie réduite et des pauses, le temps d’être réévaluée. Des fans et la chanteuse Kesha ont réagi publiquement. On souhaite un bon rétablissement à Megan 💛",
+   "url": "https://stereogum.com/2517694/katseyes-megan-performs-seated-and-wearing-sunglasses-after-concussion/news",
+   "src": "Stereogum",
+   "img": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/Mobile-SOCIAL.jpeg"
   }
  ],
  "dramas": [
