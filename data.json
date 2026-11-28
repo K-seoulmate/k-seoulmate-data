@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T05:31:04.000Z",
+ "updated": "2026-11-28T09:46:38.702Z",
  "poll": {
   "q": "Ton week-end K-pop idéal ? 🎶",
   "o": [
@@ -92,6 +92,32 @@
   }
  ],
  "posts": [
+  {
+   "id": "n76",
+   "kind": "news",
+   "vtype": "Actu",
+   "artist": "aespa",
+   "title": "aespa : « KISS N TELL » arrive en version anglaise 🎤",
+   "at": "2026-11-27T11:15:20+09:00",
+   "c": "#a78bfa",
+   "txt": "SM Entertainment annonce une version anglaise de « KISS N TELL », le titre phare du premier EP japonais d’aespa, qui avait pris la tête du classement album quotidien de l’Oricon en juillet. Sortie le vendredi 27 novembre, juste avant le fan meeting d’anniversaire de début à Séoul.",
+   "url": "https://www.koreaherald.com/article/10951554",
+   "src": "The Korea Herald",
+   "img": "https://wimg.heraldcorp.com/news/cms/2026/11/27/news-p.v1.20261127.fe320a9644cf4ba0857166c68a3277c2_P1.jpg"
+  },
+  {
+   "id": "v43",
+   "kind": "video",
+   "vtype": "Single",
+   "artist": "aespa",
+   "title": "aespa dévoile la version anglaise de « KISS N TELL » 💜",
+   "at": "2026-11-27T14:00:00+09:00",
+   "c": "#a78bfa",
+   "txt": "Après le succès de la version japonaise, aespa sort « KISS N TELL (English Ver.) » ce vendredi 27 novembre. Le groupe retrouve aussi ses fans à Séoul pour un fan meeting les 28 et 29 novembre.",
+   "url": "https://www.youtube.com/results?search_query=aespa+KISS+N+TELL+English+Ver",
+   "src": "Recherche YouTube",
+   "img": "https://wimg.heraldcorp.com/news/cms/2026/11/27/news-p.v1.20261127.fe320a9644cf4ba0857166c68a3277c2_P1.jpg"
+  },
   {
    "id": "m-rosie4b",
    "kind": "news",
@@ -421,19 +447,6 @@
    "txt": "Pour le 2e anniversaire de leurs débuts, les izna dévoilent le single digital spécial « IWALY », titre de leur campagne anniversaire. Direction YouTube pour le retrouver ✨",
    "url": "https://www.youtube.com/results?search_query=izna+IWALY+MV",
    "src": "Recherche YouTube"
-  },
-  {
-   "id": "m-grammy27",
-   "kind": "news",
-   "vtype": "Actu",
-   "artist": "JENNIE · IVE · KiiiKiii",
-   "title": "Grammy Awards 2027 : JENNIE, IVE et KiiiKiii nommées 🏆",
-   "at": "2026-11-16T15:30:00+01:00",
-   "c": "#f5c518",
-   "txt": "JENNIE (BLACKPINK) est nommée deux fois, dans « Record of the Year » et « Best Pop Duo/Group Performance », pour « Dracula » avec Tame Impala : ses premières nominations en solo. IVE (« BANG BANG ») et KiiiKiii (« 404 (New Era) ») sont nommées dans la toute nouvelle catégorie « Best Asian Pop Music Performance ». La cérémonie aura lieu le 7 février à Los Angeles. Félicitations ! 👏",
-   "url": "https://www.koreajoongangdaily.com/entertainment/ive-kiiikiii-and-jennie-earn-grammy-nominations/12973440",
-   "src": "Korea JoongAng Daily",
-   "img": "https://image.koreajoongangdaily.com/12877441.jpg?imageId=12877441&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
   },
   {
    "id": "n75",
