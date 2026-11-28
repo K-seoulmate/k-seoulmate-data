@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T09:47:45.256Z",
+ "updated": "2026-11-28T04:46:18.776Z",
  "poll": {
   "q": "Quelle sortie de la semaine t'attire le plus ? 🎧",
   "o": [
@@ -555,7 +555,7 @@
    "id": "d14",
    "title": "The Blue Road",
    "pf": "Netflix",
-   "st": "new",
+   "st": "airing",
    "at": "2026-11-20T17:00:00+09:00",
    "sched": "8 épisodes le 20 nov.",
    "cast": "Son Suk-ku, Eita Nagayama",
@@ -567,7 +567,7 @@
    "id": "d16",
    "title": "Good Partner 2",
    "pf": "Viki",
-   "st": "new",
+   "st": "airing",
    "at": "2026-11-20T21:50:00+09:00",
    "sched": "Début le 20 nov. · ven. et sam. · 16 épisodes",
    "cast": "Jang Na-ra, Kim Hye-yoon, Park Hae-jin",
@@ -646,6 +646,30 @@
    "txt": "Une romance pleine de douceur à suivre sur Disney+ chaque semaine 🍓",
    "url": "https://www.esquireindia.co.in/entertainment/what-to-stream/new-k-drama-ott-releases-this-week-nov-16-22-the-blue-road-good-partner-crash-season-2-on-netflix-disney-and-more",
    "src": "Esquire India"
+  },
+  {
+   "id": "d26",
+   "title": "Gift",
+   "pf": "Netflix",
+   "st": "soon",
+   "at": "2026-12-05T21:00:00+09:00",
+   "sched": "Samedi et dimanche · dès le 5 décembre",
+   "cast": "Kim Woo-bin, Seo Eun-soo, Seo Hyun-woo",
+   "txt": "Après un accident, un ancien coach de baseball découvre un don : lire le talent des joueurs. Il prend en main une équipe de lycée classée dernière ⚾ Adapté d’un webtoon.",
+   "url": "https://www.whats-on-netflix.com/news/k-dramas/netflix-k-dramas-december-2026-preview-tantara/",
+   "src": "What's on Netflix"
+  },
+  {
+   "id": "d27",
+   "title": "Sacred Jewel",
+   "pf": "Prime Video",
+   "st": "soon",
+   "at": "2026-12-05T22:00:00+09:00",
+   "sched": "Dès le 5 décembre",
+   "cast": "Ahn Bo-hyun, Lee Sung-min, Claudia Kim",
+   "txt": "En 1258, sous la dynastie Goryeo, une unité part en expédition pour retrouver une relique sacrée censée protéger le royaume face aux invasions mongoles ⚔️",
+   "url": "https://www.whats-on-netflix.com/news/k-dramas/netflix-k-dramas-december-2026-preview-tantara/",
+   "src": "What's on Netflix"
   }
  ]
 }
