@@ -1,0 +1,76 @@
+{
+ "vus": [
+  {
+   "cle": "https://www.zenithdelille.com/en/event/k-pop-forever/|K-POP Forever – le show au Zénith de Lille|2026-12-22",
+   "statut": "propose",
+   "vu": "2026-11-28"
+  },
+  {
+   "cle": "https://www.ldlcarena.com/evenement/k-pop-forever-lyon-decembre-2026/|K-Pop Forever ! à la LDLC Arena|2026-12-27",
+   "statut": "propose",
+   "vu": "2026-11-28"
+  },
+  {
+   "cle": "https://www.koreantoursfestival.com/|Korean Tours Festival – 3e édition|2027-02-26",
+   "statut": "propose",
+   "vu": "2026-11-28"
+  },
+  {
+   "cle": "https://www.44dansestudio.com/stages-intensifs-k-pop/|Stage intensif K-pop (week-end)|2027-03-06",
+   "statut": "propose",
+   "vu": "2026-11-28"
+  }
+ ],
+ "candidats": [
+  {
+   "id": "v-20261128-1",
+   "city": "Lille",
+   "by": "Indigo Productions",
+   "title": "K-POP Forever – le show au Zénith de Lille",
+   "type": "live",
+   "date": "2026-12-22",
+   "time": "19:30",
+   "venue": "Zénith de Lille, Lille",
+   "price": "44 à 74 €",
+   "desc": "Un show 100 % live qui revisite les gros tubes de BLACKPINK, BTS ou TWICE sur grande scène. Parfait pour chanter et danser entre fans avant Noël ! Portes dès 18h.",
+   "url": "https://www.zenithdelille.com/en/event/k-pop-forever/"
+  },
+  {
+   "id": "v-20261128-2",
+   "city": "Lyon",
+   "by": "Indigo Productions",
+   "title": "K-Pop Forever ! à la LDLC Arena",
+   "type": "live",
+   "date": "2026-12-27",
+   "time": "16:00",
+   "venue": "LDLC Arena, Lyon-Décines",
+   "desc": "Une expérience scénique qui revisite les titres de BLACKPINK, BTS ou TWICE. Un dimanche après-midi K-pop à vivre entre fans !",
+   "url": "https://www.ldlcarena.com/evenement/k-pop-forever-lyon-decembre-2026/"
+  },
+  {
+   "id": "v-20261128-3",
+   "city": "Tours",
+   "by": "Tours Événements",
+   "title": "Korean Tours Festival – 3e édition",
+   "type": "conv",
+   "date": "2027-02-26",
+   "time": "10:00",
+   "venue": "Palais des Congrès de Tours (Vinci)",
+   "desc": "3 jours de festival culture coréenne et pop culture : ateliers gratuits sur inscription, concours cosplay, tournoi gaming et animations K-pop. Du 26 au 28 février 2027.",
+   "url": "https://www.koreantoursfestival.com/"
+  },
+  {
+   "id": "v-20261128-4",
+   "city": "Nantes",
+   "by": "44 Danse Studio",
+   "title": "Stage intensif K-pop (week-end)",
+   "type": "cours",
+   "date": "2027-03-06",
+   "time": "13:30",
+   "venue": "Studio Nantes Sud, 6 rue Gabriel, Nantes",
+   "price": "115 à 130 €",
+   "desc": "Deux jours de chorés K-pop avec Daniel Park et Sovann, 8h de cours sur le week-end des 6 et 7 mars 2027. Tous niveaux, dès 12 ans.",
+   "url": "https://www.44dansestudio.com/stages-intensifs-k-pop/"
+  }
+ ]
+}
